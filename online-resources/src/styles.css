@@ -1,20 +1,9 @@
 /* Styles inspired by global.css and _boxes.css from the main library website */
 
-
 *, input, select {
     font-family: 'Open Sans', sans-serif;
     font-weight: 400;
 }
-
-/*.featured {*/
-    /*background: #CC3399;*/
-    /*color: #fff;*/
-    /*padding: 3px 8px;*/
-    /*position: relative;*/
-    /*left: -5px;*/
-    /*top: -2px;*/
-    /*border-radius: 4px;*/
-/*}*/
 
 .featured {
     background: #CC3399;
@@ -64,6 +53,17 @@
     text-align: center;
 }
 
+.mle_clear_filters_button {
+    background: #fff;
+    display: inline-block;
+    padding: 5px 10px;
+    margin-right: 5px;
+    border-radius: 8px;
+    margin-bottom: 10px;
+    border: 1px solid #cc3900;
+    color: #cc3900;
+}
+
 .mle_category_button {
     background: #fff;
     display: inline-block;
@@ -80,6 +80,25 @@
 
 .mle_category_button_active {
     background: #CC3399;
+    color: white;
+}
+
+.mle_format_button {
+    background: #fff;
+    display: inline-block;
+    padding: 5px 10px;
+    margin-right: 5px;
+    border-radius: 8px;
+    margin-bottom: 10px;
+    border: 1px solid #660099;
+}
+
+.mle_format_button_inactive {
+    color: #660099;
+}
+
+.mle_format_button_active {
+    background: #660099;
     color: white;
 }
 

@@ -1,0 +1,65 @@
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700" inline>
+<link rel="stylesheet" href="styles.css" inline>
+
+<!-- ng-cloak style -->
+<style>
+    [ng\:cloak], [ng-cloak], [data-ng-cloak], [x-ng-cloak], .ng-cloak, .x-ng-cloak {
+        display: none !important;
+    }
+</style>
+
+<!-- article used to respect global.css styling -->
+<div class="mainContentContainer" ng-app="mleOnlineResources" ng-controller="mainController">
+
+    <!-- Loading -->
+    <div ng-if="!loaded">
+        <h3>Loading online resource information</h3>
+    </div>
+
+    <div ng-if="loaded" ng-cloak>
+        <!-- Format filter buttons -->
+        <div>
+            <div class="mle_format_button disable-selection hand-cursor" ng-class="formatFilters.includes(format) ? 'mle_format_button_active' : 'mle_format_button_inactive'" ng-repeat="format in formats" ng-click="formatToggle(format)">
+                {{format}}
+            </div>
+        </div>
+
+        <!-- Category tag filter buttons -->
+        <div>
+            <div class="mle_category_button disable-selection hand-cursor" ng-class="categoryFilters.includes(tag) ? 'mle_category_button_active' : 'mle_category_button_inactive'" ng-repeat="tag in tags" ng-click="categoryToggle(tag)">
+                {{tag}}
+            </div>
+        </div>
+
+        <!-- Clear filters button -->
+        <div class="mle_clear_filters_button disable-selection hand-cursor" ng-click="clearFilters()">
+            Clear filters
+        </div>
+
+        <!-- Resources collection -->
+        <div ng-repeat="resource in resources">
+            <!-- Individual Resource -->
+            <div class="mle_item" ng-if="filterCategories.length == 0 || shouldResourceBeDisplayed(resource)">
+                <span ng-if="resource.featured" class="featured">Featured</span>
+                <h3 class="mle_title">{{resource.title}}</h3>
+                <div class="mle_description">
+                    <div style="float:left; width:80%;">{{resource.description}}</div>
+                    <div style="float:right; width:10%; padding: 0 5%;" ng-if="!isSoundCloudLink(resource.link)">
+                        <a style="width:100%; color:#ffffff; text-decoration: none;" class="mle_button disable-selection hand-cursor" ng-click="launchResource(resource.link)">
+                            <span style="width:100%;">Launch</span>
+                            <img alt="" src="https://www.library.manchester.ac.uk/assets/images/local/bullet-more-white.png">
+                        </a>
+                    </div>
+                    <div ng-if="isSoundCloudLink(resource.link)">
+                        <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="{{generateSoundCloudIframeUrl(resource.link)}}"></iframe>
+                    </div>
+                    <div style="clear: both;"></div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/angular.js/1.7.8/angular.min.js"></script>
+<script src="app.js" inline inline-compress="false"></script>
+
