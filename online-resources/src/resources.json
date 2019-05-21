@@ -49,6 +49,7 @@
     "tags": [
       "organising",
       "planning",
+      "group work",
       "presentations"
     ]
   },
@@ -92,7 +93,7 @@
       "organising",
       "research skills",
       "stats and data",
-      "searching"
+      "assignments"
     ]
   },
   {
@@ -106,7 +107,7 @@
       "planning",
       "research skills",
       "stats and data",
-      "searching"
+      "assignments"
     ]
   },
   {
@@ -120,7 +121,7 @@
       "planning",
       "research skills",
       "stats and data",
-      "searching"
+      "assignments"
     ]
   },
   {
@@ -222,7 +223,7 @@
       "organising",
       "planning",
       "research skills",
-      "searching",
+      "assignments",
       "writing"
     ]
   },
@@ -234,7 +235,7 @@
     "format": "Video",
     "link": "https://www.escholar.manchester.ac.uk/learning-objects/mle/packages/down-to-business/",
     "tags": [
-      "searching"
+      "assignments"
     ]
   },
   {
@@ -290,7 +291,7 @@
     "link": "https://www.escholar.manchester.ac.uk/learning-objects/mle/evaluating-sources",
     "tags": [
       "being critical",
-      "searching"
+      "assignments"
     ]
   },
   {
@@ -302,6 +303,7 @@
     "link": "https://www.escholar.manchester.ac.uk/learning-objects/mle/understanding-task/",
     "tags": [
       "assignments",
+      "group work",
       "planning",
       "writing"
     ]
@@ -314,7 +316,7 @@
     "format": "Video",
     "link": "https://www.escholar.manchester.ac.uk/learning-objects/mle/packages/getting-results/",
     "tags": [
-      "searching"
+      "assignments"
     ]
   },
   {
@@ -325,7 +327,7 @@
     "format": "Interactive guide",
     "link": "https://www.escholar.manchester.ac.uk/learning-objects/mle/group-work/",
     "tags": [
-      "searching",
+      "group work",
       "organising",
       "presentations",
       "writing",
@@ -343,7 +345,7 @@
       "assignments",
       "being critical",
       "research skills",
-      "searching"
+      "assignments"
     ]
   },
   {
@@ -355,7 +357,7 @@
     "link": "https://www.escholar.manchester.ac.uk/learning-objects/mle/information-types",
     "tags": [
       "being critical",
-      "searching"
+      "assignments"
     ]
   },
   {
@@ -367,7 +369,7 @@
     "link": "https://www.escholar.manchester.ac.uk/learning-objects/mle/search-toolkit",
     "tags": [
       "being critical",
-      "searching"
+      "assignments"
     ]
   },
   {
@@ -472,7 +474,7 @@
     "tags": [
       "planning",
       "referencing",
-      "searching",
+      "assignments",
       "study strategies",
       "writing"
     ]
@@ -486,7 +488,7 @@
     "link": "https://www.escholar.manchester.ac.uk/learning-objects/mle/planning-search",
     "tags": [
       "planning",
-      "searching"
+      "assignments"
     ]
   },
   {
@@ -509,7 +511,7 @@
     "description": "",
     "duration": "7 mins",
     "format": "Audio",
-    "link": "https://soundcloud.com/uomlibrary/exam-extra-revision-tips-and-resources",
+    "link": "https://w.soundcloud.com/player/?url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F294406497&auto_play=false&show_artwork=true&visual=true&origin=twitter",
     "tags": [
       "exam extra",
       "revising",
@@ -527,6 +529,7 @@
     "tags": [
       "organising",
       "planning",
+      "group work",
       "presentations"
     ]
   },
@@ -540,6 +543,7 @@
     "tags": [
       "organising",
       "planning",
+      "group work",
       "presentations"
     ]
   },
@@ -553,6 +557,7 @@
     "tags": [
       "organising",
       "planning",
+      "group work",
       "presentations"
     ]
   },
@@ -572,8 +577,8 @@
   },
   {
     "featured": false,
-    "title": "Revision  strategies: managing your revision successfully",
-    "description": "This resource will help you to develop strategies you can use to manage your revision effectively by creating a revision plan.",
+    "title": "Revision  strategies",
+    "description": "This resource will introduce you to revision strategies to prioritise, plan, and memorise your material. It will also support you to communicate your ideas in response to exam questions.",
     "duration": "20",
     "format": "Online tutorial",
     "link": "https://www.escholar.manchester.ac.uk/learning-objects/mle/revision-strategies/",
@@ -590,7 +595,7 @@
     "format": "Online tutorial",
     "link": "https://www.escholar.manchester.ac.uk/learning-objects/mle/search-operators/",
     "tags": [
-      "searching",
+      "assignments",
       "research skills",
       "assignments"
     ]
@@ -603,7 +608,7 @@
     "format": "Online tutorial",
     "link": "https://www.escholar.manchester.ac.uk/learning-objects/mle/introducing-databases",
     "tags": [
-      "searching",
+      "assignments",
       "planning",
       "organising"
     ]
