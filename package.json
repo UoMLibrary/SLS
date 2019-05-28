@@ -17,6 +17,7 @@
     "gulp-htmlmin": "^5.0.1",
     "gulp-inline-source": "^4.0.0",
     "jsonfile": "^5.0.0",
+    "live-server": "^1.2.1",
     "mongoose": "^5.4.19",
     "request": "^2.88.0"
   }

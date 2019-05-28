@@ -48,7 +48,7 @@
     color: white;
     padding: 5px;
     border-radius: 4px;
-    margin: 0.25em 0 1.75em 1.5em;
+    margin: 1em 0;
     width: 20%;
     text-align: center;
 }
@@ -112,4 +112,20 @@
 
 .hand-cursor {
     cursor: pointer;
+}
+
+
+.mle_description_large {
+    float: left;
+    width: 80%;
+}
+
+.mle_button_large {
+    float: right;
+    width: 20%;
+}
+
+.mle_button_large a {
+    width: 70%;
+    margin: auto auto;
 }

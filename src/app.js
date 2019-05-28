@@ -13,83 +13,109 @@ app.controller(
     'mainController',
     function($http, $scope, $window, $location, $sce) {
 
+        var updateQuery = function() {
+            $location.search({
+                level2Links: $scope.categoryFilters.join(",")
+            });
+        };
+
+        var getCurrentWidth = function() {
+            return $window.innerWidth;
+        };
+
+        $scope.width =  getCurrentWidth();
+        angular.element($window).bind('resize', function(){
+            $scope.width = getCurrentWidth();
+            $scope.$digest(); // manual $digest required as resize event is outside angular
+        });
+
+
         $scope.loaded = false;
+
+        const updateResources = function(resources) {
+
+            // extract tags from resources
+            var tagsSet = {};
+            for(var i = 0; i < resources.length; i++) {
+                var resource = resources[i];
+                var tags = resource.tags;
+                for(var j = 0; j < tags.length; j++) {
+                    var tag = tags[j];
+                    if(!tagsSet[tag]) {
+                        tagsSet[tag] = true;
+                    }
+                }
+            }
+            var tags = [];
+            for(var tag in tagsSet) {
+                tags.push(tag);
+            }
+            tags.sort();
+
+            // extract format from resources
+            var formatSet = {};
+            for(var i = 0; i < resources.length; i++) {
+                var resource = resources[i];
+                var format = resource.format;
+                if(!formatSet[format]) {
+                    formatSet[format] = true;
+                }
+            }
+            var formats = [];
+            for(var format in formatSet) {
+                formats.push(format);
+            }
+            formats.sort();
+
+            $scope.resources = resources;
+            $scope.tags = tags;
+            $scope.formats = formats;
+
+            $scope.loaded = true;
+
+        };
 
         // Interpret query parameters
         var query = $location.search();
         if(query.level2Links) {
-            $scope.categoryFilters = query.level2Links.replace(/,$/, '').split(',');
+            var categoryFilters = query.level2Links.replace(/,$/, '').split(',');
+            if(categoryFilters && categoryFilters.length > 0 && categoryFilters[0] !== '')
+            {
+                for(var i = 0; i < categoryFilters.length; i++) {
+                    if(categoryFilters[i].includes(" - ")) {
+                        categoryFilters[i] = categoryFilters[i].split(" - ")[0];
+                    }
+                }
+                $scope.categoryFilters = categoryFilters;
+            }
+            // $scope.categoryFilters = query.level2Links.replace(/,$/, '').split(',');
         } else {
             $scope.categoryFilters = [];
         }
 
-        // Load resources
-        $http
-            .get('https://sandbox.library.manchester.ac.uk/mle-online-resources/resources.json')
-            // .get('./resources.json')
-            .then(
-                function(response) {
-
-                    var resources = response.data;
-
-                    // extract tags from resources
-                    var tagsSet = {};
-                    for(var i = 0; i < resources.length; i++) {
-                        var resource = resources[i];
-                        var tags = resource.tags;
-                        for(var j = 0; j < tags.length; j++) {
-                            var tag = tags[j];
-                            if(!tagsSet[tag]) {
-                                tagsSet[tag] = true;
-                            }
-                        }
+        // Handle resource input
+        const dynamicResourcesUrl = query.resourcesSource;
+        if(defaultResources) {
+            updateResources(JSON.parse(unescape(defaultResources)));
+        }
+        else if(dynamicResourcesUrl) {
+            console.log(dynamicResourcesUrl);
+        }
+        else if(config.resourcesJsonUrl) {
+            $http
+                .get(config.resourcesJsonUrl)
+                .then(
+                    function(response) {
+                        updateResources(response.data)
                     }
-                    var tags = [];
-                    for(var tag in tagsSet) {
-                        tags.push(tag);
-                    }
-                    tags.sort();
+                );
+        }
 
-                    // extract format from resources
-                    var formatSet = {};
-                    for(var i = 0; i < resources.length; i++) {
-                        var resource = resources[i];
-                        var format = resource.format;
-                        if(!formatSet[format]) {
-                            formatSet[format] = true;
-                        }
-                    }
-                    var formats = [];
-                    for(var format in formatSet) {
-                        formats.push(format);
-                    }
-                    formats.sort();
-
-                    $scope.resources = resources;
-                    $scope.tags = tags;
-                    $scope.formats = formats;
-
-                    $scope.loaded = true;
-
-                }
-            );
-
-
-        // SoundCloud for audio
-        // $scope.isSoundCloudLink = function(link) {
-        //
-        //     //content="https://w.soundcloud.com/player/?url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F294406254&auto_play=false&show_artwork=true&visual=true&origin=twitter"
-        //     return link.startsWith("https://w.soundcloud.com/player/") ||
-        //
-        // };
-
-
+        // Start of SoundCloud related code
         var extractApiTrackId = function (link) {
-
             if(link.startsWith("https://w.soundcloud.com/player/")) {
                 trackIdMatches = link.match(/url\=(https%3A%2F%2Fapi\.soundcloud\.com%2Ftracks%2F=?)([\d]*)/)
                 if(trackIdMatches.length > 1) { // found track ID
-                    console.log("Track ID: " + trackIdMatches[2]);
                     return trackIdMatches[2];
                 } else {
                     return -1;
@@ -98,9 +124,7 @@ app.controller(
             else {
                 return -1;
             }
-
         };
-
         $scope.isSoundCloudLink = function(link) {
             return extractApiTrackId(link) > 0;
         };
@@ -108,11 +132,11 @@ app.controller(
         $scope.generateSoundCloudIframeUrl = function(link) {
             return $sce.trustAsResourceUrl('https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/' + extractApiTrackId(link) + '&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true');
         };
+        // End of SoundCloud related code
 
-        // getApiTrackId("https://soundcloud.com/uomlibrary/12-tips-for-successful-revision");
 
-        $scope.launchResource = function(link) {
-            $window.location = link;
+        $scope.launchResource = function(link) { //
+            $window.open(link);
         };
 
 
@@ -138,12 +162,6 @@ app.controller(
             } else {
                 $scope.formatFilters.push(format);
             }
-        };
-
-        var updateQuery = function() {
-            $location.search({
-                level2Links: $scope.categoryFilters.join(",")
-            });
         };
 
         if(!$scope.categoryFilters) $scope.categoryFilters = [];
