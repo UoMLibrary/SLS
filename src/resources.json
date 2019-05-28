@@ -49,7 +49,6 @@
     "tags": [
       "organising",
       "planning",
-      "group work",
       "presentations"
     ]
   },
@@ -529,7 +528,6 @@
     "tags": [
       "organising",
       "planning",
-      "group work",
       "presentations"
     ]
   },
@@ -543,7 +541,6 @@
     "tags": [
       "organising",
       "planning",
-      "group work",
       "presentations"
     ]
   },
@@ -557,7 +554,6 @@
     "tags": [
       "organising",
       "planning",
-      "group work",
       "presentations"
     ]
   },
@@ -577,8 +573,8 @@
   },
   {
     "featured": false,
-    "title": "Revision  strategies",
-    "description": "This resource will introduce you to revision strategies to prioritise, plan, and memorise your material. It will also support you to communicate your ideas in response to exam questions.",
+    "title": "Revision  strategies: managing your revision successfully",
+    "description": "This resource will help you to develop strategies you can use to manage your revision effectively by creating a revision plan.",
     "duration": "20",
     "format": "Online tutorial",
     "link": "https://www.escholar.manchester.ac.uk/learning-objects/mle/revision-strategies/",
