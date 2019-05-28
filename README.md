@@ -18,7 +18,7 @@ This repository homes a web application to filter and display the different onli
 ## Development
 Run: ```gulp dev```
 
-Local development app runs on port [8181](http://localhost:8003)
+Local development app runs on port [8181](http://localhost:8181)
 
 If source file (any file located in ```<project-path>/src```) is edited, a build is triggered and the development live-server instance will restart
 
