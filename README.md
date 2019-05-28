@@ -1,9 +1,8 @@
 # My Learning Essentials - Online Resource
 
-This repository homes a web application to filter and display the different online resources provided by My Learning Essentials
+This repository homes a web application to filter and display the different online resources provided by [My Learning Essentials](https://www.library.manchester.ac.uk/using-the-library/students/training-and-skills-support/my-learning-essentials)
 
-![picture](screenshot.png)
-
+- [Demo](https://uomlibrary.github.io/mle-online-resources/)
 - [Link to Production](https://library.manchester.ac.uk/using-the-library/students/training-and-skills-support/my-learning-essentials/online-resources/)
 - [Link to Dev](http://libdev.cmsstage.manchester.ac.uk/using-the-library/students/training-and-skills-support/my-learning-essentials/online-resources/)
 
@@ -42,6 +41,8 @@ If source file (any file located in ```<project-path>/src```) is edited, a build
 The application is built using [AngularJS](https://angularjs.org/) (not to be mistaken with Angular)
 
 It displays online resources determined by a ```resources.json``` file
+
+![picture](screenshot.png)
 
 ##### Example ```resources.json``` file:
 ```json
@@ -97,3 +98,4 @@ var config = {
 
 If multiple resources are available (e.g. the app is able to load external resources. The order of precedence is: *external URI* > *config URI* > *embedded resources*.
 
+:)

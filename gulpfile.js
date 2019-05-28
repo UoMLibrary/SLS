@@ -6,17 +6,89 @@ const request = require('request');
 const jsonfile = require('jsonfile');
 const htmlmin = require('gulp-htmlmin');
 const inlinesource = require('gulp-inline-source');
+const hljs = require('highlight.js');
+const emoji = require('markdown-it-emoji');
+const mdit = require('markdown-it')({
+    highlight: function (str, lang) {
+        if (lang && hljs.getLanguage(lang)) {
+            try {
+                return '<pre class="hljs"><code>' +
+                    hljs.highlight(lang, str, true).value +
+                    '</code></pre>';
+            } catch (__) {}
+        }
+
+        return '<pre class="hljs"><code>' + md.utils.escapeHtml(str) + '</code></pre>';
+    }
+}).use(emoji);
+
+
 
 gulp.task(
     'build-html',
     function() {
-        return gulp.src(
-            ['./src/index.html']
-        )
-            .pipe(inlinesource())
+        return gulp
+            .src(['./src/index.html'])
+            .pipe(
+                inlinesource({
+                    saveRemote: false
+                })
+            )
             .pipe(htmlmin({collapseWhitespace: true}))
             .pipe(gulp.dest('./dist/LIB-MLE-online-resource-v2'));
     }
+);
+
+gulp.task(
+    'build-docs-readme-html-from-md',
+    function(cb) {
+        const readme = fs.readFileSync('./README.md', {encoding: 'utf8'});
+        const result = mdit.render(readme);
+        fs.writeFileSync(
+            './docs/readme.html',
+            '<link rel="stylesheet" href="uom.css" inline>'
+            +'<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.6/styles/default.min.css" inline>'
+            +'<script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.6/highlight.min.js" inline></script>'
+            +'<div class="uom uom-padding">' + result + '</div>'
+        );
+        cb();
+    }
+);
+
+gulp.task(
+    'build-docs-readme-html-inline',
+    function() {
+        return gulp
+            .src('./docs/readme.html')
+            .pipe(
+                inlinesource({
+                    saveRemote: false
+                }))
+            .pipe(gulp.dest('docs'))
+    }
+);
+
+gulp.task(
+    'build-docs-readme',
+    gulp.series(
+        'build-docs-readme-html-from-md',
+        'build-docs-readme-html-inline'
+    )
+);
+
+gulp.task(
+    'build-docs',
+    gulp.series(
+        'build-docs-readme'
+    )
+);
+
+gulp.task(
+    'build',
+    gulp.series(
+        'build-html',
+        'build-docs'
+    )
 );
 
 gulp.task(
