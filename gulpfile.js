@@ -28,14 +28,25 @@ gulp.task(
     'build-html',
     function() {
         return gulp
-            .src(['./src/index.html'])
+            .src([
+                './src/index.html',
+            ])
             .pipe(
                 inlinesource({
                     saveRemote: false
                 })
             )
             .pipe(htmlmin({collapseWhitespace: true}))
-            .pipe(gulp.dest('./dist/LIB-MLE-online-resource-v2'));
+            .pipe(gulp.dest('./build/LIB-MLE-online-resource-v2'));
+    }
+);
+
+gulp.task(
+    'build-to-dist',
+    function () {
+        return gulp
+            .src(['./build/**/*'])
+            .pipe(gulp.dest('./dist'))
     }
 );
 
@@ -84,9 +95,33 @@ gulp.task(
 );
 
 gulp.task(
+    'build-create-static-resources',
+    function (cb) {
+        jsonfile.readFile(
+            './src/resources.json',
+            function (err, resources) {
+                if (err) console.error(err);
+                // console.dir(resources)
+
+                // create build dir if it doesn't exist
+                fs.writeFileSync(
+                    './build/default-resources.js',
+                    "var defaultResources = '" + escape(JSON.stringify(resources)) + "';",
+                    {flag:'w+', encoding:'utf8'}
+                );
+
+                cb();
+            }
+        )
+    }
+);
+
+gulp.task(
     'build',
     gulp.series(
+        'build-create-static-resources',
         'build-html',
+        'build-to-dist',
         'build-docs'
     )
 );
@@ -149,24 +184,6 @@ gulp.task(
 
             }
         );
-    }
-);
-
-gulp.task(
-    'create-static-resources',
-    function (cb) {
-        jsonfile.readFile(
-            './src/resources.json',
-            function (err, resources) {
-                if (err) console.error(err);
-                // console.dir(resources)
-                fs.writeFileSync(
-                    '/src/default-resources.js',
-                    "var defaultResources = '" + escape(JSON.stringify(resources)) + "';"
-                );
-                cb();
-            }
-        )
     }
 );
 

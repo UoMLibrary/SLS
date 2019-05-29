@@ -1,3 +1,3 @@
 var config = {
-    resourcesJsonUrl: "https://raw.githubusercontent.com/UoMLibrary/mle-online-resources/master/resources.json"
+    resourcesJsonUrl: "https://raw.githubusercontent.com/UoMLibrary/mle-online-resources/master/src/resources.json"
 };
