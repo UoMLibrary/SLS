@@ -41,6 +41,9 @@ app.controller(
                 var tags = resource.tags;
                 for(var j = 0; j < tags.length; j++) {
                     var tag = tags[j];
+                    if(tag.includes(" - ")) {
+                        tag = tag.split(" - ")[0];
+                    }
                     if(!tagsSet[tag]) {
                         tagsSet[tag] = true;
                     }
@@ -66,6 +69,15 @@ app.controller(
                 formats.push(format);
             }
             formats.sort();
+
+            // sort features (make featured resources at beginning of array)
+            resources.sort(
+                function(a, b) {
+                    const aWeight = a.featured ? 0 : 1;
+                    const bWeight = b.featured ? 0 : 1;
+                    return aWeight - bWeight;
+                }
+            );
 
             $scope.resources = resources;
             $scope.tags = tags;
