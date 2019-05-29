@@ -8,7 +8,7 @@ const htmlmin = require('gulp-htmlmin');
 const inlinesource = require('gulp-inline-source');
 const hljs = require('highlight.js');
 const emoji = require('markdown-it-emoji');
-const mdit = require('markdown-it')({
+const md = require('markdown-it')({
     highlight: function (str, lang) {
         if (lang && hljs.getLanguage(lang)) {
             try {
@@ -21,6 +21,25 @@ const mdit = require('markdown-it')({
         return '<pre class="hljs"><code>' + md.utils.escapeHtml(str) + '</code></pre>';
     }
 }).use(emoji);
+
+// Remember old renderer, if overridden, or proxy to default renderer
+var defaultRender = md.renderer.rules.link_open || function(tokens, idx, options, env, self) {
+    return self.renderToken(tokens, idx, options);
+};
+
+md.renderer.rules.link_open = function (tokens, idx, options, env, self) {
+    // If you are sure other plugins can't add `target` - drop check below
+    var aIndex = tokens[idx].attrIndex('target');
+
+    if (aIndex < 0) {
+        tokens[idx].attrPush(['target', '_blank']); // add new attribute
+    } else {
+        tokens[idx].attrs[aIndex][1] = '_blank';    // replace value of existing attr
+    }
+
+    // pass token to default renderer.
+    return defaultRender(tokens, idx, options, env, self);
+};
 
 
 
@@ -45,7 +64,7 @@ gulp.task(
     'build-docs-readme-html-from-md',
     function(cb) {
         const readme = fs.readFileSync('./README.md', {encoding: 'utf8'});
-        const result = mdit.render(readme);
+        const result = md.render(readme);
         fs.writeFileSync(
             './docs/readme.html',
             '<link rel="stylesheet" href="uom.css" inline>'
@@ -196,7 +215,7 @@ gulp.task(
         var params = {
             port: 8181, // Set the server port. Defaults to 8080.
             host: "0.0.0.0", // Set the address to bind to. Defaults to 0.0.0.0 or process.env.IP.
-            root: "./dist/LIB-MLE-online-resource-v2", // Set root directory that's being served. Defaults to cwd.
+            root: "./docs", // Set root directory that's being served. Defaults to cwd.
             open: true, // When false, it won't load your browser by default.
             file: "index.html" // When set, serve this file (server root relative) for every 404 (useful for single-page applications),
         };

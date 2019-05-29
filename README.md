@@ -3,7 +3,7 @@
 This repository homes a web application to filter and display the different online resources provided by [My Learning Essentials](https://www.library.manchester.ac.uk/using-the-library/students/training-and-skills-support/my-learning-essentials)
 
 - [Demo](https://uomlibrary.github.io/mle-online-resources/)
-- [Link to Production](https://library.manchester.ac.uk/using-the-library/students/training-and-skills-support/my-learning-essentials/online-resources/)
+- [Link to Production](https://www.library.manchester.ac.uk/using-the-library/students/training-and-skills-support/my-learning-essentials/online-resources/)
 - [Link to Dev](http://libdev.cmsstage.manchester.ac.uk/using-the-library/students/training-and-skills-support/my-learning-essentials/online-resources/)
 
 ## Dependencies
