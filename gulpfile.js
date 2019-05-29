@@ -25,11 +25,11 @@ const mdit = require('markdown-it')({
 
 
 gulp.task(
-    'build-html',
+    'build-app-html',
     function() {
         return gulp
             .src([
-                './src/index.html',
+                './build/index.html',
             ])
             .pipe(
                 inlinesource({
@@ -37,16 +37,7 @@ gulp.task(
                 })
             )
             .pipe(htmlmin({collapseWhitespace: true}))
-            .pipe(gulp.dest('./build/LIB-MLE-online-resource-v2'));
-    }
-);
-
-gulp.task(
-    'build-to-dist',
-    function () {
-        return gulp
-            .src(['./build/**/*'])
-            .pipe(gulp.dest('./dist'))
+            .pipe(gulp.dest('./dist/LIB-MLE-online-resource-v2'));
     }
 );
 
@@ -98,7 +89,7 @@ gulp.task(
     'build-create-static-resources',
     function (cb) {
         jsonfile.readFile(
-            './src/resources.json',
+            './build/resources.json',
             function (err, resources) {
                 if (err) console.error(err);
                 // console.dir(resources)
@@ -117,11 +108,22 @@ gulp.task(
 );
 
 gulp.task(
+    'build-copy-sources',
+    function() {
+        return gulp
+            .src([
+                './src/**/*'
+            ])
+            .pipe(gulp.dest('./build'))
+    }
+);
+
+gulp.task(
     'build',
     gulp.series(
+        'build-copy-sources',
         'build-create-static-resources',
-        'build-html',
-        'build-to-dist',
+        'build-app-html',
         'build-docs'
     )
 );
@@ -208,7 +210,7 @@ gulp.task(
         gulp.watch(
             './src/**/*.*',
             {ignoreInitial: false},
-            gulp.series('build-html')
+            gulp.series('build')
         )
     }
 );
