@@ -105,17 +105,29 @@ app.controller(
             $scope.categoryFilters = [];
         }
 
-        // Handle resource input
-        const dynamicResourcesUrl = query.resourcesSource;
+        // -- Handle resource input
+        // Embedded static resources
         if(defaultResources) {
+            console.log("using static resources");
             updateResources(JSON.parse(unescape(defaultResources)));
         }
-        else if(dynamicResourcesUrl) {
-            console.log(dynamicResourcesUrl);
-        }
-        else if(config.resourcesJsonUrl) {
+        // External dynamic resources
+        if(query.resourcesSource || config.resourcesJsonUrl) {
+
+            var dynamicResourcesUrl;
+            if(query.resourcesSource) {
+                console.log("from query");
+                dynamicResourcesUrl = decodeURI(query.resourcesSource);
+            }
+            else if(config.resourcesJsonUrl) {
+                console.log("from config");
+                dynamicResourcesUrl = config.resourcesJsonUrl;
+            }
+
+            console.log("using external resources: " + dynamicResourcesUrl);
+
             $http
-                .get(config.resourcesJsonUrl)
+                .get(dynamicResourcesUrl)
                 .then(
                     function(response) {
                         updateResources(response.data)

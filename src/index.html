@@ -51,7 +51,7 @@
                         </a>
                     </div>
                     <div ng-if="isSoundCloudLink(resource.link)">
-                        <iframe width="100%" height="200" scrolling="no" frameborder="no" allow="autoplay" src="{{generateSoundCloudIframeUrl(resource.link)}}"></iframe>
+                        <iframe width="100%" height="200" scrolling="no" frameborder="no" allow="autoplay" ng-src="{{generateSoundCloudIframeUrl(resource.link)}}"></iframe>
                     </div>
                     <div style="clear: both;"></div>
                 </div>
