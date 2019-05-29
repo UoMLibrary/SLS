@@ -98,9 +98,19 @@ gulp.task(
 );
 
 gulp.task(
+    'build-docs-app',
+    function() {
+        return gulp
+            .src(['./dist/**/*'])
+            .pipe(gulp.dest('./docs'))
+    }
+);
+
+gulp.task(
     'build-docs',
     gulp.series(
-        'build-docs-readme'
+        'build-docs-readme',
+        'build-docs-app'
     )
 );
 
