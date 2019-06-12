@@ -16,12 +16,12 @@
 <p>Local development app runs on port <a href="http://localhost:8181" target="_blank">8181</a></p>
 <p>If source file (any file located in <code>&lt;project-path&gt;/src</code>) is edited, a build is triggered and the development live-server instance will restart</p>
 <h2>Deployment</h2>
-<h4>Building</h4>
+<h3>Building</h3>
 <ul>
 <li>Run <code>gulp build</code> to execute build process</li>
 <li>Copy contents of <code>&lt;project-path&gt;/dist/LIB-MLE-online-resource-v2/index.html</code></li>
 </ul>
-<h4>Publishing</h4>
+<h3>Publishing</h3>
 <ul>
 <li>Go to <a href="https://sitemanager.manchester.ac.uk" target="_blank">T4 site manager</a></li>
 <li>Navigate to Assets -&gt; Content Types -&gt; LIB-MLE-online-resource-v2 -&gt; Edit.</li>
@@ -31,7 +31,7 @@
 <li>Save changes</li>
 <li>Run T4 publish</li>
 </ul>
-<h3>Application</h3>
+<h2>Application</h2>
 <p>The application is built using <a href="https://angularjs.org/" target="_blank">AngularJS</a> (not to be mistaken with Angular)</p>
 <p>It displays online resources determined by a <code>resources.json</code> file</p>
 <p><img src="screenshot.png" alt="picture"></p>
@@ -72,7 +72,7 @@
 </ul>
 <pre class="hljs"><code><span class="hljs-tag">&lt;<span class="hljs-name">meta</span> <span class="hljs-attr">property</span>=<span class="hljs-string">"twitter:player"</span> <span class="hljs-attr">content</span>=<span class="hljs-string">"https://w.soundcloud.com/player/?url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F294406254&amp;amp;auto_play=false&amp;amp;show_artwork=true&amp;amp;visual=true&amp;amp;origin=twitter"</span>&gt;</span>
 </code></pre>
-<h4>Resource input</h4>
+<h3>Resource input</h3>
 <p>A three-pronged approach has been taken to ensure that resources are available for the application at when it is loaded:</p>
 <ul>
 <li>Embedding at build-time. Build-time resources are determined by the <code>src/default-resources.js</code> file which is placed inline in the built html. Is generated from <code>resources.json</code>.</li>

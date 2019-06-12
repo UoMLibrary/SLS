@@ -54,14 +54,15 @@
 }
 
 .mle_clear_filters_button {
-    background: #fff;
     display: inline-block;
     padding: 5px 10px;
     margin-right: 5px;
-    border-radius: 8px;
+    border-radius: 4px;
     margin-bottom: 10px;
-    border: 1px solid #cc3900;
-    color: #cc3900;
+    border: 1px solid #383a3c;
+    color: #ffffff;
+    text-decoration: none;
+    background-color: #383a3c;
 }
 
 .mle_category_button {
