@@ -23,11 +23,11 @@ If source file (any file located in ```<project-path>/src```) is edited, a build
 
 ## Deployment
 
-#### Building
+### Building
 - Run ```gulp build``` to execute build process
 - Copy contents of ```<project-path>/dist/LIB-MLE-online-resource-v2/index.html```
 
-#### Publishing
+### Publishing
 - Go to [T4 site manager](https://sitemanager.manchester.ac.uk)
 - Navigate to Assets -> Content Types -> LIB-MLE-online-resource-v2 -> Edit. 
 - [Info] This should result in you arriving at the [LIB-MLE-online-resource-v2 Content Type](https://sitemanager.manchester.ac.uk/terminalfour/SiteManager?ctfn=template&fnno=10&tid=1953&gid=668)
@@ -36,7 +36,7 @@ If source file (any file located in ```<project-path>/src```) is edited, a build
 - Save changes
 - Run T4 publish
 
-### Application
+## Application
 
 The application is built using [AngularJS](https://angularjs.org/) (not to be mistaken with Angular)
 
@@ -83,7 +83,7 @@ Things to note:
 <meta property="twitter:player" content="https://w.soundcloud.com/player/?url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F294406254&amp;auto_play=false&amp;show_artwork=true&amp;visual=true&amp;origin=twitter">
 ```
 
-#### Resource input
+### Resource input
 
 A three-pronged approach has been taken to ensure that resources are available for the application at when it is loaded:
 
