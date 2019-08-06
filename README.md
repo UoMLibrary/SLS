@@ -1,10 +1,10 @@
-# My Learning Essentials - Online Resource
+# Specialist Library Support Resources
 
-This repository homes a web application to filter and display the different online resources provided by [My Learning Essentials](https://www.library.manchester.ac.uk/using-the-library/students/training-and-skills-support/my-learning-essentials)
+This repository homes a web application to filter and display the different online resources provided by Specialist Library Support. 
 
-- [Demo](https://uomlibrary.github.io/mle-online-resources/)
-- [Link to Production](https://www.library.manchester.ac.uk/using-the-library/students/training-and-skills-support/my-learning-essentials/online-resources/)
-- [Link to Dev](http://libdev.cmsstage.manchester.ac.uk/using-the-library/students/training-and-skills-support/my-learning-essentials/online-resources/)
+- [Demo](https://uomlibrary.github.io/specialist-library-support-resources/)
+<!-- - [Link to Production](https://www.library.manchester.ac.uk/using-the-library/students/training-and-skills-support/my-learning-essentials/online-resources/) -->
+<!-- - [Link to Dev](http://libdev.cmsstage.manchester.ac.uk/using-the-library/students/training-and-skills-support/my-learning-essentials/online-resources/) -->
 
 ## Dependencies
 
