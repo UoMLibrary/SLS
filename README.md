@@ -2,7 +2,7 @@
 
 This repository homes a web application to filter and display the different online resources provided by Specialist Library Support. 
 
-- [Demo](https://uomlibrary.github.io/specialist-library-support-resources/)
+- [Demo](https://uomlibrary.github.io/SLS/)
 <!-- - [Link to Production](https://www.library.manchester.ac.uk/using-the-library/students/training-and-skills-support/my-learning-essentials/online-resources/) -->
 <!-- - [Link to Dev](http://libdev.cmsstage.manchester.ac.uk/using-the-library/students/training-and-skills-support/my-learning-essentials/online-resources/) -->
 
