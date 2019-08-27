@@ -34,6 +34,10 @@ app.controller(
 
         const updateResources = function(resources) {
 
+            // resources = decodeURI(resources);
+            // resources = JSON.parse(resources);
+            console.log(resources);
+
             // extract tags from resources
             var tagsSet = {};
             for(var i = 0; i < resources.length; i++) {

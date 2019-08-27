@@ -1,5 +1,222 @@
 [
       {
+          "featured": false,
+          "title ": "Using specialist business databases",
+          "description": "Guides written to help students and researchers to make effective and accurate use of the specialist financial and business databases available at The University of Manchester. The guides are organised by database, including Bloomberg and Datastream.",
+          "format": "Interactive guide",
+          "tags": "business data",
+          "link": "https://medium.com/using-specialist-business-databases"
+      },
+      {
+          "featured": false,
+          "title ": "Business Data Service: Virtual Consultation (beta)",
+          "description": "Search some of our previous research consultation enquiries and detailed answers. They cover a selection of financial, economic and business data sources.",
+          "format": "Interactive guide",
+          "tags": "business data",
+          "link": "https://www.escholar.manchester.ac.uk/learning-objects/sls/bds-vc/"
+      },
+      {
+          "featured": false,  
+          "title ": "Copyright for teaching materials: can I use it?",
+          "description": "This short online resource will help you to determine whether you can use specific types of material in your teaching, without breaching copyright.",
+          "format": "Interactive guide",
+          "tags": "copyright",
+          "link": "https://www.escholar.manchester.ac.uk/learning-objects/copyright/"
+      },
+      {
+          "featured": false,
+          "title ": "Copyright for student: Who owns what?",
+          "description": "This resource provides a basic introduction to copyright, whilst looking how it can affect you as a student.",
+          "format": "Interactive guide",
+          "tags": "copyright",
+          "link": "https://www.escholar.manchester.ac.uk/learning-objects/copyright-students/"
+      },
+      {
+          "featured": false,
+          "title ": "Adding up: describing data and choosing a statistical test",
+          "description": "This resource will explore the methods and descriptives you can use to describe your data. It will also show you how to select appropriate statistical tests and find them in SPSS.",
+          "format": "Interactive guide",
+          "tags": "maths and stats",
+          "link": "https://www.escholar.manchester.ac.uk/learning-objects/mle/statistics-describing-data/"
+      },
+      {
+          "featured": false,
+          "title ": "Adding up: introducing SPSS",
+          "description": "This resource explores some of the key features and interfaces of SPSS, which you can use to generate reports, charts, descriptive statistics and analysis.",
+          "format": "Interactive guide",
+          "tags": "maths and stats",
+          "link": "https://www.escholar.manchester.ac.uk/learning-objects/mle/spss/"
+      },
+      {
+          "featured": false,
+          "title ": "Adding up: introduction to statistics",
+          "description": "This resource will give you a basic introduction to statistical terminology, charts and data types. It will also give you advice on how to organise your data to make it easier to analyse and present.",
+          "format": "Interactive guide",
+          "tags": "maths and stats",
+          "link": "https://www.escholar.manchester.ac.uk/learning-objects/mle/introducing-statistics/"
+      },
+      {
+        "featured": false,
+          "title ": "Getting started with EndNote desktop",
+          "description": "This resource explores some of the key features of EndNote desktop  reference management software. It includes video demonstrations in how to collect, organise and format your references.",
+          "format": "Interactive guide",
+          "tags": "referencing",
+          "link": "https://medium.com/@uomspecialistlibrarysupport/e199b1f9e525"
+      },
+      {
+        "featured": false,
+          "title ": "Getting started with EndNote online",
+          "description": "This resource explores some of the key features of EndNote online  reference management software. It includes video demonstrations in how to collect, organise and format your references.",
+          "format": "Interactive guide",
+          "tags": "referencing",
+          "link": "https://medium.com/p/ec4acc50bda9/edit"
+      },
+      {
+        "featured": false,
+          "title ": "EndNote desktop ",
+          "description": "This video playlist will take you through the essential steps to using EndNote desktop software for managing your references. ",
+          "format": "Video",
+          "tags": "referencing",
+          "link": "https://www.youtube.com/watch?v=NyS3SWDwoXA&list=PL-0DcDKUVRLsmg1uyT03wPwtqn9YfXvwR"
+      },
+      {
+        "featured": false,
+          "title ": "EndNote online",
+          "description": "This video playlist will take you through the essential steps to using EndNote online software for managing your references. ",
+          "format": "Video",
+          "tags": "referencing",
+          "link": "www.google.com"
+      },
+      {
+        "featured": false,
+          "title ": "Specialist Library Support YouTube channel",
+          "description": "Welcome to the University of Manchester Library's Specialist Learning Support YouTube channel for students and staff. This resource is here to help you develop your skills across areas that include:\n\n•  Referencing\n•  Advanced searching and systematic review\n•  Business data and statistics.\n\nThese videos will help you get started!\n\n",
+          "format": "Video",
+          "tags": [
+            "business data", 
+            "maths and stats", 
+            "referencing", 
+            "advanced searching", 
+            "systematic review", 
+            "copyright"
+          ],
+          "link": "https://www.youtube.com/channel/UCGcVnSXEzhpNHhz1UHz5MyA"
+      },
+      {
+        "featured": false,
+          "title ": "Copyright Guidance at The University of Manchester",
+          "description": "This guide will help you to find out how copyright affects your work, research and study here at the University of Manchester.",
+          "format": "Interactive guide",
+          "tags": "copyright",
+          "link": "http://subjects.library.manchester.ac.uk/copyright"
+      },
+      {
+        "featured": false,
+          "title ": "Start to finish: Statistics",
+          "description": "This guide can help you to analyse a data set and produce a range of statistics. It includes three key areas: a basic introduction to statistics, describing data choosing a statisticial test and an introduction to producing reports in SPSS.",
+          "format": "Interactive guide",
+          "tags": "maths and stats",
+          "link": "https://www.escholar.manchester.ac.uk/learning-objects/mle/packages/statistics/"
+      },
+      {
+        "featured": false,
+          "title ": "Referencing guide at the University of Manchester",
+          "description": "This guide explores the basics of referencing including key referencing styles used at Manchester and popular referencing software such as Endnote, Mendeley and Zotero.",
+          "format": "Interactive guide",
+          "tags": "referencing",
+          "link": "http://subjects.library.manchester.ac.uk/referencing"
+      },
+      {
+        "featured": false,
+          "title ": "Data & Statistics guide at the University of Manchester",
+          "description": "This guide provides information for University of Manchester students and staff on how to understand and use data effectively, support for statistical support and statistis resources for the UK, EU and International regions.\nYou will find these resources useful for locating statistics in books, journal articles, databases and on the web.",
+          "format": "Interactive guide",
+          "tags": [
+          "maths and stats",
+          "business data"
+          ],
+          "link": "http://subjects.library.manchester.ac.uk/data/"
+      },
+      {
+        "featured": false,
+          "title ": "Specialist Library Support online publication",
+          "description": "Hi friend, I am a description. I am kind of generic, which is good in some ways, but not so in others",
+          "format": "Interactive guide",
+          "tags": [
+            "business data", 
+            "maths and stats", 
+            "referencing", 
+            "advanced searching", 
+            "systematic review", 
+            "copyright"
+          ],
+          "link": "https://medium.com/specialist-learning-support"
+      },
+      {
+        "featured": false,
+          "title ": "EndNote desktop: collecting references",
+          "description": "Hi friend, I am a description. I am kind of generic, which is good in some ways, but not so in others",
+          "format": "Interactive guide",
+          "tags": "referencing",
+          "link": "https://medium.com/specialist-library-support/endnote-desktop-collecting-references-1dc25d7f5473"
+      },
+      {
+        "featured": false,
+          "title ": "EndNote desktop: getting started",
+          "description": "Hi friend, I am a description. I am kind of generic, which is good in some ways, but not so in others",
+          "format": "Interactive guide",
+          "tags": "referencing",
+          "link": "https://medium.com/specialist-library-support/endnote-desktop-getting-started-e199b1f9e525"
+      },
+      {
+        "featured": false,
+          "title ": "EndNote desktop: organising your references",
+          "description": "Hi friend, I am a description. I am kind of generic, which is good in some ways, but not so in others",
+          "format": "Interactive guide",
+          "tags": "referencing",
+          "link": "https://medium.com/specialist-library-support/endnote-desktop-organising-your-references-288ab8248858"
+      },
+      {
+        "featured": false,
+          "title ": "EndNote desktop: formatting your references",
+          "description": "Hi friend, I am a description. I am kind of generic, which is good in some ways, but not so in others",
+          "format": "Interactive guide",
+          "tags": "referencing",
+          "link": "https://medium.com/specialist-library-support/endnote-desktop-formatting-your-references-ccc9852220e4"
+      },
+      {
+        "featured": false,
+          "title ": "Trade and Industry news: an introduction",
+          "description": "Hi friend, I am a description. I am kind of generic, which is good in some ways, but not so in others",
+          "format": "Interactive guide",
+          "tags": "business data",
+          "link": "https://medium.com/specialist-library-support/trade-and-industry-news-an-introduction-5d5de5d82635"
+      },
+      {
+        "featured": false,
+          "title ": "Trade & industry news: finding specific publications",
+          "description": "Hi friend, I am a description. I am kind of generic, which is good in some ways, but not so in others",
+          "format": "Interactive guide",
+          "tags": "business data",
+          "link": "https://medium.com/specialist-library-support/trade-and-industry-news-finding-specific-publications-c0c7b8211d1f"
+      },
+      {
+        "featured": false,
+          "title ": "Making use of MeSH and Suggested Subject Terms",
+          "description": "Hi friend, I am a description. I am kind of generic, which is good in some ways, but not so in others",
+          "format": "Interactive guide",
+          "tags": "systematic review",
+          "link": "https://medium.com/specialist-library-support/making-use-of-mesh-and-suggested-subject-terms-efce820a7f26"
+      },
+      {
+        "featured": false,
+          "title ": "Introduction to Health Science databases",
+          "description": "Hi friend, I am a description. I am kind of generic, which is good in some ways, but not so in others",
+          "format": "Interactive guide",
+          "tags": "systematic review",
+          "link": "https://medium.com/specialist-library-support/introduction-to-health-science-databases-fb2c0669beb1"
+      },
+      {
         "featured": false,
           "title ": "Understanding your data",
           "description": "In this post you will learn about data types and best practices for structuring your data.",
@@ -12,6 +229,6 @@
             "systematic review", 
             "copyright"
           ],
-          "URL": "https://medium.com/specialist-library-support/understanding-your-data-e8325000ffa6"
+          "link": "https://medium.com/specialist-library-support/understanding-your-data-e8325000ffa6"
       }
   ]

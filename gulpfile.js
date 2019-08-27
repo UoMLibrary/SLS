@@ -151,7 +151,7 @@ gulp.task(
     'build',
     gulp.series(
         'build-copy-sources',
-        // 'build-create-static-resources',
+        'build-create-static-resources',
         'build-app-html',
         'build-docs'
     )
