@@ -1,7 +1,7 @@
 [
       {
           "featured": false,
-          "title ": "Using specialist business databases",
+          "title": "Using specialist business databases",
           "description": "Guides written to help students and researchers to make effective and accurate use of the specialist financial and business databases available at The University of Manchester. The guides are organised by database, including Bloomberg and Datastream.",
           "format": "Interactive guide",
           "tags": ["business data"],
@@ -9,7 +9,7 @@
       },
       {
           "featured": false,
-          "title ": "Business Data Service: Virtual Consultation (beta)",
+          "title": "Business Data Service: Virtual Consultation (beta)",
           "description": "Search some of our previous research consultation enquiries and detailed answers. They cover a selection of financial, economic and business data sources.",
           "format": "Interactive guide",
           "tags": ["business data"],
@@ -17,7 +17,7 @@
       },
       {
           "featured": false,  
-          "title ": "Copyright for teaching materials: can I use it?",
+          "title": "Copyright for teaching materials: can I use it?",
           "description": "This short online resource will help you to determine whether you can use specific types of material in your teaching, without breaching copyright.",
           "format": "Interactive guide",
           "tags": ["copyright"],
@@ -25,7 +25,7 @@
       },
       {
           "featured": false,
-          "title ": "Copyright for student: Who owns what?",
+          "title": "Copyright for student: Who owns what?",
           "description": "This resource provides a basic introduction to copyright, whilst looking how it can affect you as a student.",
           "format": "Interactive guide",
           "tags": ["copyright"],
@@ -33,7 +33,7 @@
       },
       {
           "featured": false,
-          "title ": "Adding up: describing data and choosing a statistical test",
+          "title": "Adding up: describing data and choosing a statistical test",
           "description": "This resource will explore the methods and descriptives you can use to describe your data. It will also show you how to select appropriate statistical tests and find them in SPSS.",
           "format": "Interactive guide",
           "tags": ["maths and stats"],
@@ -41,7 +41,7 @@
       },
       {
           "featured": false,
-          "title ": "Adding up: introducing SPSS",
+          "title": "Adding up: introducing SPSS",
           "description": "This resource explores some of the key features and interfaces of SPSS, which you can use to generate reports, charts, descriptive statistics and analysis.",
           "format": "Interactive guide",
           "tags": ["maths and stats"],
@@ -49,7 +49,7 @@
       },
       {
           "featured": false,
-          "title ": "Adding up: introduction to statistics",
+          "title": "Adding up: introduction to statistics",
           "description": "This resource will give you a basic introduction to statistical terminology, charts and data types. It will also give you advice on how to organise your data to make it easier to analyse and present.",
           "format": "Interactive guide",
           "tags": ["maths and stats"],
@@ -57,7 +57,7 @@
       },
       {
         "featured": false,
-          "title ": "Getting started with EndNote desktop",
+          "title": "Getting started with EndNote desktop",
           "description": "This resource explores some of the key features of EndNote desktop  reference management software. It includes video demonstrations in how to collect, organise and format your references.",
           "format": "Interactive guide",
           "tags": ["referencing"],
@@ -65,7 +65,7 @@
       },
       {
         "featured": false,
-          "title ": "Getting started with EndNote online",
+          "title": "Getting started with EndNote online",
           "description": "This resource explores some of the key features of EndNote online  reference management software. It includes video demonstrations in how to collect, organise and format your references.",
           "format": "Interactive guide",
           "tags": ["referencing"],
@@ -73,7 +73,7 @@
       },
       {
         "featured": false,
-          "title ": "EndNote desktop ",
+          "title": "EndNote desktop ",
           "description": "This video playlist will take you through the essential steps to using EndNote desktop software for managing your references. ",
           "format": "Video",
           "tags": ["referencing"],
@@ -81,7 +81,7 @@
       },
       {
         "featured": false,
-          "title ": "EndNote online",
+          "title": "EndNote online",
           "description": "This video playlist will take you through the essential steps to using EndNote online software for managing your references. ",
           "format": "Video",
           "tags": ["referencing"],
@@ -89,7 +89,7 @@
       },
       {
         "featured": false,
-          "title ": "Specialist Library Support YouTube channel",
+          "title": "Specialist Library Support YouTube channel",
           "description": "Welcome to the University of Manchester Library's Specialist Learning Support YouTube channel for students and staff. This resource is here to help you develop your skills across areas that include:\n\n•  Referencing\n•  Advanced searching and systematic review\n•  Business data and statistics.\n\nThese videos will help you get started!\n\n",
           "format": "Video",
           "tags": [
@@ -104,7 +104,7 @@
       },
       {
         "featured": false,
-          "title ": "Copyright Guidance at The University of Manchester",
+          "title": "Copyright Guidance at The University of Manchester",
           "description": "This guide will help you to find out how copyright affects your work, research and study here at the University of Manchester.",
           "format": "Interactive guide",
           "tags": ["copyright"],
@@ -112,7 +112,7 @@
       },
       {
         "featured": false,
-          "title ": "Start to finish: Statistics",
+          "title": "Start to finish: Statistics",
           "description": "This guide can help you to analyse a data set and produce a range of statistics. It includes three key areas: a basic introduction to statistics, describing data choosing a statisticial test and an introduction to producing reports in SPSS.",
           "format": "Interactive guide",
           "tags": ["maths and stats"],
@@ -120,7 +120,7 @@
       },
       {
         "featured": false,
-          "title ": "Referencing guide at the University of Manchester",
+          "title": "Referencing guide at the University of Manchester",
           "description": "This guide explores the basics of referencing including key referencing styles used at Manchester and popular referencing software such as Endnote, Mendeley and Zotero.",
           "format": "Interactive guide",
           "tags": ["referencing"],
@@ -128,7 +128,7 @@
       },
       {
         "featured": false,
-          "title ": "Data & Statistics guide at the University of Manchester",
+          "title": "Data & Statistics guide at the University of Manchester",
           "description": "This guide provides information for University of Manchester students and staff on how to understand and use data effectively, support for statistical support and statistis resources for the UK, EU and International regions.\nYou will find these resources useful for locating statistics in books, journal articles, databases and on the web.",
           "format": "Interactive guide",
           "tags": [
@@ -139,7 +139,7 @@
       },
       {
         "featured": false,
-          "title ": "Specialist Library Support online publication",
+          "title": "Specialist Library Support online publication",
           "description": "Hi friend, I am a description. I am kind of generic, which is good in some ways, but not so in others",
           "format": "Interactive guide",
           "tags": [
@@ -154,7 +154,7 @@
       },
       {
         "featured": false,
-          "title ": "EndNote desktop: collecting references",
+          "title": "EndNote desktop: collecting references",
           "description": "Hi friend, I am a description. I am kind of generic, which is good in some ways, but not so in others",
           "format": "Interactive guide",
           "tags": ["referencing"],
@@ -162,7 +162,7 @@
       },
       {
         "featured": false,
-          "title ": "EndNote desktop: getting started",
+          "title": "EndNote desktop: getting started",
           "description": "Hi friend, I am a description. I am kind of generic, which is good in some ways, but not so in others",
           "format": "Interactive guide",
           "tags": ["referencing"],
@@ -170,7 +170,7 @@
       },
       {
         "featured": false,
-          "title ": "EndNote desktop: organising your references",
+          "title": "EndNote desktop: organising your references",
           "description": "Hi friend, I am a description. I am kind of generic, which is good in some ways, but not so in others",
           "format": "Interactive guide",
           "tags": ["referencing"],
@@ -178,7 +178,7 @@
       },
       {
         "featured": false,
-          "title ": "EndNote desktop: formatting your references",
+          "title": "EndNote desktop: formatting your references",
           "description": "Hi friend, I am a description. I am kind of generic, which is good in some ways, but not so in others",
           "format": "Interactive guide",
           "tags": ["referencing"],
@@ -186,7 +186,7 @@
       },
       {
         "featured": false,
-          "title ": "Trade and Industry news: an introduction",
+          "title": "Trade and Industry news: an introduction",
           "description": "Hi friend, I am a description. I am kind of generic, which is good in some ways, but not so in others",
           "format": "Interactive guide",
           "tags": ["business data"],
@@ -194,7 +194,7 @@
       },
       {
         "featured": false,
-          "title ": "Trade & industry news: finding specific publications",
+          "title": "Trade & industry news: finding specific publications",
           "description": "Hi friend, I am a description. I am kind of generic, which is good in some ways, but not so in others",
           "format": "Interactive guide",
           "tags": ["business data"],
@@ -202,7 +202,7 @@
       },
       {
         "featured": false,
-          "title ": "Making use of MeSH and Suggested Subject Terms",
+          "title": "Making use of MeSH and Suggested Subject Terms",
           "description": "Hi friend, I am a description. I am kind of generic, which is good in some ways, but not so in others",
           "format": "Interactive guide",
           "tags": ["systematic review"],
@@ -210,7 +210,7 @@
       },
       {
         "featured": false,
-          "title ": "Introduction to Health Science databases",
+          "title": "Introduction to Health Science databases",
           "description": "Hi friend, I am a description. I am kind of generic, which is good in some ways, but not so in others",
           "format": "Interactive guide",
           "tags": ["systematic review"],
@@ -218,7 +218,7 @@
       },
       {
         "featured": false,
-          "title ": "Understanding your data",
+          "title": "Understanding your data",
           "description": "In this post you will learn about data types and best practices for structuring your data.",
           "format": "Interactive guide",
           "tags": [
