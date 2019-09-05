@@ -260,7 +260,7 @@
       }
 {
         "featured": false,
-          "title": "Planning you systematic review",
+          "title": "Planning your systematic review",
           "description": "In this post we will explore how to get started with your systematic review including planning and refining your search terms.",
           "format": "Interactive guide",
           "tags": [
@@ -268,5 +268,16 @@
            "advanced searching"
           ],
           "link": "https://medium.com/specialist-library-support/planning-your-systematic-review-3f93872dd56f"
+      }
+{
+        "featured": false,
+          "title": "Getting started with your systematic review",
+          "description": "In this post we explore what sytematic reviews are, why we conduct them and how they differ from systematic literature searches.",
+          "format": "Interactive guide",
+          "tags": [
+          "systematic review",
+           "advanced searching"
+          ],
+          "link": "https://medium.com/specialist-library-support/getting-started-with-your-systematic-review-fb9ce9302da3"
       }
   ]
