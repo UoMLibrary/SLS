@@ -280,4 +280,15 @@
           ],
           "link": "https://medium.com/specialist-library-support/getting-started-with-your-systematic-review-fb9ce9302da3"
       }
+{
+        "featured": false,
+          "title": "Using frameworks to structure your search",
+          "description": "In this post we will introduce you to PICO, PECO and SPIDER structured search frameworks. We explore what they are, why they are useful, and how to decide which framework you should use.",
+          "format": "Interactive guide",
+          "tags": [
+          "systematic review",
+           "advanced searching"
+          ],
+          "link": "https://medium.com/specialist-library-support/using-frameworks-to-structure-your-search-6d2753eb801c"
+      }
   ]
