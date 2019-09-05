@@ -230,15 +230,15 @@
             "copyright"
           ],
           "link": "https://medium.com/specialist-library-support/understanding-your-data-e8325000ffa6"
-      }
-       {
+        },
+      {
         "featured": false,
           "title": "Introduction to Statistics",
           "description": "This post will give you a basic introduction to statistical terminology, charts and data types. It will also give you advice on how to organise your data to make it easier to analyse and present. ",
           "format": "Interactive guide",
           "tags": ["maths and stats"],
           "link": "https://medium.com/specialist-library-support/introduction-to-statistics-3d6c2d44f90a"
-      }
+      },
  {
         "featured": false,
           "title": "Describing your statistical data",
@@ -246,7 +246,7 @@
           "format": "Interactive guide",
           "tags": ["maths and stats"],
           "link": "https://medium.com/specialist-library-support/describing-your-statistical-data-2baa6d014e26"
-      }
+      },
 {
         "featured": false,
           "title": "Systematic review: Organising your keywords and subject terms",
@@ -257,7 +257,7 @@
            "advanced searching"
           ],
           "link": "https://medium.com/specialist-library-support/systematic-review-organising-your-keywords-and-subject-terms-fa504f4843e3"
-      }
+      },
 {
         "featured": false,
           "title": "Planning your systematic review",
@@ -268,7 +268,7 @@
            "advanced searching"
           ],
           "link": "https://medium.com/specialist-library-support/planning-your-systematic-review-3f93872dd56f"
-      }
+      },
 {
         "featured": false,
           "title": "Getting started with your systematic review",
@@ -279,7 +279,7 @@
            "advanced searching"
           ],
           "link": "https://medium.com/specialist-library-support/getting-started-with-your-systematic-review-fb9ce9302da3"
-      }
+      },
 {
         "featured": false,
           "title": "Using frameworks to structure your search",
@@ -290,7 +290,7 @@
            "advanced searching"
           ],
           "link": "https://medium.com/specialist-library-support/using-frameworks-to-structure-your-search-6d2753eb801c"
-      }
+      },
 {
         "featured": false,
           "title": "Advanced search: making use of Boolean operators",
@@ -301,7 +301,7 @@
            "advanced searching"
           ],
           "link": "https://medium.com/specialist-library-support/advanced-search-making-use-of-boolean-operators-edcc0ab034c8"
-      }
+      },
 {
         "featured": false,
           "title": "Market research databases: an introduction",
