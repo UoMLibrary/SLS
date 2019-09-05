@@ -291,4 +291,15 @@
           ],
           "link": "https://medium.com/specialist-library-support/using-frameworks-to-structure-your-search-6d2753eb801c"
       }
+{
+        "featured": false,
+          "title": "Advanced search: making use of Boolean operators",
+          "description": "In this post we will introduce you to Boolean operators, to help you find the most relevant results in your literature searh.",
+          "format": "Interactive guide",
+          "tags": [
+          "systematic review",
+           "advanced searching"
+          ],
+          "link": "https://medium.com/specialist-library-support/advanced-search-making-use-of-boolean-operators-edcc0ab034c8"
+      }
   ]
