@@ -239,4 +239,12 @@
           "tags": ["maths and stats"],
           "link": "https://medium.com/specialist-library-support/introduction-to-statistics-3d6c2d44f90a"
       }
+ {
+        "featured": false,
+          "title": "Describing your statistical data",
+          "description": "We encounter statistics in all areas of our life and it is important that we understand how statistics extract meaning from data. This post will explore the methods and descriptives you can use to describe your data.",
+          "format": "Interactive guide",
+          "tags": ["maths and stats"],
+          "link": "https://medium.com/specialist-library-support/describing-your-statistical-data-2baa6d014e26"
+      }
   ]
