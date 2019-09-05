@@ -247,4 +247,15 @@
           "tags": ["maths and stats"],
           "link": "https://medium.com/specialist-library-support/describing-your-statistical-data-2baa6d014e26"
       }
+{
+        "featured": false,
+          "title": "Systematic review: Organising your keywords and subject terms",
+          "description": "Hi friend, I am a description. I am kind of generic, which is good in some ways, but not so in others",
+          "format": "Interactive guide",
+          "tags": [
+          "systematic review",
+           "advanced searching"
+          ],
+          "link": "https://medium.com/specialist-library-support/systematic-review-organising-your-keywords-and-subject-terms-fa504f4843e3"
+      }
   ]
