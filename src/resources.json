@@ -138,7 +138,7 @@
           "link": "http://subjects.library.manchester.ac.uk/data/"
       },
       {
-        "featured": false,
+        "featured": true,
           "title": "Specialist Library Support online publication",
           "description": "Hi friend, I am a description. I am kind of generic, which is good in some ways, but not so in others",
           "format": "Interactive guide",
