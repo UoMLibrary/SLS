@@ -55,6 +55,14 @@
           "tags": ["referencing"],
           "link": "https://www.youtube.com/playlist?list=PL-0DcDKUVRLsRjmaxDxEgbjrq8z1_fXZV"
       },
+        {
+        "featured": false,
+          "title": "SPSS video tutorials",
+          "description": "This video playlist will help you get started using SPSS.",
+          "format": "Video",
+          "tags": ["referencing"],
+          "link": "https://www.youtube.com/playlist?list=PL-0DcDKUVRLsLvwPDLuYgRcIUidlq1zZD"
+      },
       {
         "featured": true,
           "title": "Specialist Library Support YouTube channel",
