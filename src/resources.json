@@ -88,7 +88,7 @@
           "link": "https://www.youtube.com/playlist?list=PL-0DcDKUVRLueux01senCf2FvyUGdNbmV"
       },
       {
-        "featured": false,
+        "featured": true,
           "title": "Specialist Library Support YouTube channel",
           "description": "The Specialist Learning Support YouTube channel includes video tutorials to help you get started with referencing and statistical software.",
           "format": "Video",
