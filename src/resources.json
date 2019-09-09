@@ -281,5 +281,13 @@
           "format": "Interactive guide",
           "tags": ["business data"],
           "link": "https://medium.com/specialist-library-support/market-research-databases-an-introduction-90568f6aeb3a"
-      }
+      },
+      {
+        "featured": false,
+          "title": "Start to finish: Statistics",
+          "description": "Do you need to analyse a set of data and produce some statistics? You do not need to be an expert to produce a statistical report. These resources will give you a basic introduction to statistics and introduce you to producing reports in SPSS.",
+          "format": "Interactive guide",
+          "tags": ["maths and stats"],
+          "link": "https://www.escholar.manchester.ac.uk/learning-objects/sls/packages/statistics/"
+      },
   ]
