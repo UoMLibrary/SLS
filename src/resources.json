@@ -33,14 +33,6 @@
       },
       {
         "featured": false,
-          "title": "Getting started with EndNote desktop",
-          "description": "This resource explores some of the key features of EndNote desktop  reference management software. It includes video demonstrations in how to collect, organise and format your references.",
-          "format": "Interactive guide",
-          "tags": ["referencing"],
-          "link": "https://medium.com/@uomspecialistlibrarysupport/e199b1f9e525"
-      },
-      {
-        "featured": false,
           "title": "Getting started with EndNote online",
           "description": "This resource explores some of the key features of EndNote online  reference management software. It includes video demonstrations in how to collect, organise and format your references.",
           "format": "Interactive guide",
@@ -139,7 +131,7 @@
       {
         "featured": false,
           "title": "EndNote desktop: getting started",
-          "description": "Hi friend, I am a description. I am kind of generic, which is good in some ways, but not so in others",
+          "description": "In this post we will show you how to get started with EndNote desktop reference management software including; installing EndNote desktop, registering for EndNote online account and creating your EndNote Library.",
           "format": "Interactive guide",
           "tags": ["referencing"],
           "link": "https://medium.com/specialist-library-support/endnote-desktop-getting-started-e199b1f9e525"
