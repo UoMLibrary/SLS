@@ -205,7 +205,7 @@
         },
       {
         "featured": false,
-          "title": "Introduction to Statistics",
+          "title": "Introduction to statistics",
           "description": "This post will give you a basic introduction to statistical terminology, charts and data types. It will also give you advice on how to organise your data to make it easier to analyse and present. ",
           "format": "Interactive guide",
           "tags": ["maths and stats"],
