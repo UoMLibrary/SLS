@@ -32,30 +32,6 @@
           "link": "https://www.escholar.manchester.ac.uk/learning-objects/copyright-students/"
       },
       {
-          "featured": false,
-          "title": "Adding up: describing data and choosing a statistical test",
-          "description": "This resource will explore the methods and descriptives you can use to describe your data. It will also show you how to select appropriate statistical tests and find them in SPSS.",
-          "format": "Interactive guide",
-          "tags": ["maths and stats"],
-          "link": "https://www.escholar.manchester.ac.uk/learning-objects/mle/statistics-describing-data/"
-      },
-      {
-          "featured": false,
-          "title": "Adding up: introducing SPSS",
-          "description": "This resource explores some of the key features and interfaces of SPSS, which you can use to generate reports, charts, descriptive statistics and analysis.",
-          "format": "Interactive guide",
-          "tags": ["maths and stats"],
-          "link": "https://www.escholar.manchester.ac.uk/learning-objects/mle/spss/"
-      },
-      {
-          "featured": false,
-          "title": "Adding up: introduction to statistics",
-          "description": "This resource will give you a basic introduction to statistical terminology, charts and data types. It will also give you advice on how to organise your data to make it easier to analyse and present.",
-          "format": "Interactive guide",
-          "tags": ["maths and stats"],
-          "link": "https://www.escholar.manchester.ac.uk/learning-objects/mle/introducing-statistics/"
-      },
-      {
         "featured": false,
           "title": "Getting started with EndNote desktop",
           "description": "This resource explores some of the key features of EndNote desktop  reference management software. It includes video demonstrations in how to collect, organise and format your references.",
