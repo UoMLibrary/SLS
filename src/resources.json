@@ -37,6 +37,14 @@
           "tags": ["maths and stats"],
           "link": "https://www.escholar.manchester.ac.uk/learning-objects/sls/packages/statistics/"
       },
+       {
+        "featured": true,
+          "title": "Start to finish: Referencing",
+          "description": "This set of resources will show you how to reference different types of sources in your assignments. It will help you to cite, paraphrase and manage your references using tools such as EndNote, Endnote online and Mendeley.",
+          "format": "Interactive guide",
+          "tags": ["referencing"],
+          "link": "https://www.escholar.manchester.ac.uk/learning-objects/sls/packages/referencing/"
+      }
       {
           "featured": false,
           "title": "Using specialist business databases",
@@ -103,14 +111,6 @@
       },
       {
         "featured": false,
-          "title": "Start to finish: Statistics",
-          "description": "This guide can help you to analyse a data set and produce a range of statistics. It includes three key areas: a basic introduction to statistics, describing data choosing a statisticial test and an introduction to producing reports in SPSS.",
-          "format": "Interactive guide",
-          "tags": ["maths and stats"],
-          "link": "https://www.escholar.manchester.ac.uk/learning-objects/mle/packages/statistics/"
-      },
-      {
-        "featured": false,
           "title": "Referencing guide at the University of Manchester",
           "description": "This guide explores the basics of referencing including key referencing styles used at Manchester and popular referencing software such as Endnote, Mendeley and Zotero.",
           "format": "Interactive guide",
@@ -128,7 +128,7 @@
           ],
           "link": "http://subjects.library.manchester.ac.uk/data/"
       },
-          {
+      {
         "featured": false,
           "title": "EndNote desktop: collecting references",
           "description": "In this post we will show you how to add references to your EndNote desktop library from Library Search and popular databases. You will also learn how add to manual references and attach PDF’s to your references.",
@@ -211,7 +211,7 @@
           "tags": ["maths and stats"],
           "link": "https://medium.com/specialist-library-support/introduction-to-statistics-3d6c2d44f90a"
       },
- {
+      {
         "featured": false,
           "title": "Describing your statistical data",
           "description": "We encounter statistics in all areas of our life and it is important that we understand how statistics extract meaning from data. This post will explore the methods and descriptives you can use to describe your data.",
@@ -219,7 +219,7 @@
           "tags": ["maths and stats"],
           "link": "https://medium.com/specialist-library-support/describing-your-statistical-data-2baa6d014e26"
       },
-{
+      {
         "featured": false,
           "title": "Systematic review: organising your keywords and subject terms",
           "description": "In this post we will explore the keywords and subject headings that you will use to support the early scoping exercises and subsequent literature reviews. We will also explore how MeSH and MeSH trees can help you to  collect, organise and present your search terms.",
@@ -230,7 +230,7 @@
           ],
           "link": "https://medium.com/specialist-library-support/systematic-review-organising-your-keywords-and-subject-terms-fa504f4843e3"
       },
-{
+      {
         "featured": false,
           "title": "Planning your systematic review",
           "description": "In this post we will explore how to get started with your systematic review including planning and refining your search terms.",
@@ -241,7 +241,7 @@
           ],
           "link": "https://medium.com/specialist-library-support/planning-your-systematic-review-3f93872dd56f"
       },
-{
+      {
         "featured": false,
           "title": "Getting started with your systematic review",
           "description": "In this post we explore what sytematic reviews are, why we conduct them and how they differ from systematic literature searches.",
@@ -252,7 +252,7 @@
           ],
           "link": "https://medium.com/specialist-library-support/getting-started-with-your-systematic-review-fb9ce9302da3"
       },
-{
+      {
         "featured": false,
           "title": "Using frameworks to structure your search",
           "description": "In this post we will introduce you to PICO, PECO and SPIDER structured search frameworks. We explore what they are, why they are useful, and how to decide which framework you should use.",
@@ -263,7 +263,7 @@
           ],
           "link": "https://medium.com/specialist-library-support/using-frameworks-to-structure-your-search-6d2753eb801c"
       },
-{
+      {
         "featured": false,
           "title": "Advanced search: making use of Boolean operators",
           "description": "In this post we will introduce you to Boolean operators, to help you find the most relevant results in your literature searh.",
@@ -274,7 +274,7 @@
           ],
           "link": "https://medium.com/specialist-library-support/advanced-search-making-use-of-boolean-operators-edcc0ab034c8"
       },
-{
+      {
         "featured": false,
           "title": "Market research databases",
           "description": "In this post we will introduce you to Boolean operators, to help you find the most relevant results in your literature searh.",
@@ -282,12 +282,4 @@
           "tags": ["business data"],
           "link": "https://medium.com/specialist-library-support/market-research-databases-an-introduction-90568f6aeb3a"
       },
-       {
-        "featured": true,
-          "title": "Start to finish: Referencing",
-          "description": "This set of resources will show you how to reference different types of sources in your assignments. It will help you to cite, paraphrase and manage your references using tools such as EndNote, Endnote online and Mendeley.",
-          "format": "Interactive guide",
-          "tags": ["referencing"],
-          "link": "https://www.escholar.manchester.ac.uk/learning-objects/sls/packages/referencing/"
-      }
   ]
