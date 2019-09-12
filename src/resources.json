@@ -1,4 +1,34 @@
 [
+        {
+        "featured": true,
+          "title": "Specialist Library Support online publication",
+          "description": "Our online publication includes posts to help you develop your skills and knowledge in referencing, maths and statistics, copyright, business data, advanced searching and systematic reviews!",
+          "format": "Interactive guide",
+          "tags": [
+            "business data", 
+            "maths and stats", 
+            "referencing", 
+            "advanced searching", 
+            "systematic review", 
+            "copyright"
+          ],
+          "link": "https://medium.com/specialist-learning-support"
+      },
+          {
+        "featured": true,
+          "title": "Specialist Library Support YouTube channel",
+          "description": "The Specialist Learning Support YouTube channel includes video tutorials to help you get started with referencing and statistical software.",
+          "format": "Video",
+          "tags": [
+            "business data", 
+            "maths and stats", 
+            "referencing", 
+            "advanced searching", 
+            "systematic review", 
+            "copyright"
+          ],
+          "link": "https://www.youtube.com/channel/UCGcVnSXEzhpNHhz1UHz5MyA"
+      },
        {
           "featured": true,
           "title": "Start to finish: Statistics",
@@ -64,21 +94,6 @@
           "link": "https://www.youtube.com/playlist?list=PL-0DcDKUVRLsLvwPDLuYgRcIUidlq1zZD"
       },
       {
-        "featured": true,
-          "title": "Specialist Library Support YouTube channel",
-          "description": "The Specialist Learning Support YouTube channel includes video tutorials to help you get started with referencing and statistical software.",
-          "format": "Video",
-          "tags": [
-            "business data", 
-            "maths and stats", 
-            "referencing", 
-            "advanced searching", 
-            "systematic review", 
-            "copyright"
-          ],
-          "link": "https://www.youtube.com/channel/UCGcVnSXEzhpNHhz1UHz5MyA"
-      },
-      {
         "featured": false,
           "title": "Copyright Guidance at The University of Manchester",
           "description": "This guide will help you to find out how copyright affects your work, research and study here at the University of Manchester.",
@@ -113,22 +128,7 @@
           ],
           "link": "http://subjects.library.manchester.ac.uk/data/"
       },
-      {
-        "featured": true,
-          "title": "Specialist Library Support online publication",
-          "description": "Our online publication includes posts to help you develop your skills and knowledge in referencing, maths and statistics, copyright, business data, advanced searching and systematic reviews!",
-          "format": "Interactive guide",
-          "tags": [
-            "business data", 
-            "maths and stats", 
-            "referencing", 
-            "advanced searching", 
-            "systematic review", 
-            "copyright"
-          ],
-          "link": "https://medium.com/specialist-learning-support"
-      },
-      {
+          {
         "featured": false,
           "title": "EndNote desktop: collecting references",
           "description": "In this post we will show you how to add references to your EndNote desktop library from Library Search and popular databases. You will also learn how add to manual references and attach PDF’s to your references.",
@@ -282,16 +282,8 @@
           "tags": ["business data"],
           "link": "https://medium.com/specialist-library-support/market-research-databases-an-introduction-90568f6aeb3a"
       },
-      {
-        "featured": false,
-          "title": "Start to finish: Statistics",
-          "description": "Do you need to analyse a set of data and produce some statistics? You do not need to be an expert to produce a statistical report. These resources will give you a basic introduction to statistics and introduce you to producing reports in SPSS.",
-          "format": "Interactive guide",
-          "tags": ["maths and stats"],
-          "link": "https://www.escholar.manchester.ac.uk/learning-objects/sls/packages/statistics/"
-      },
        {
-        "featured": false,
+        "featured": true,
           "title": "Start to finish: Referencing",
           "description": "This set of resources will show you how to reference different types of sources in your assignments. It will help you to cite, paraphrase and manage your references using tools such as EndNote, Endnote online and Mendeley.",
           "format": "Interactive guide",
