@@ -1,4 +1,12 @@
 [
+       {
+          "featured": true,
+          "title": "Start to finish: Statistics",
+          "description": "Do you need to analyse a set of data and produce some statistics? You do not need to be an expert to produce a statistical report. These resources will give you a basic introduction to statistics and introduce you to producing reports in SPSS.",
+          "format": "Interactive guide",
+          "tags": ["maths and stats"],
+          "link": "https://www.escholar.manchester.ac.uk/learning-objects/sls/packages/statistics/"
+      },
       {
           "featured": false,
           "title": "Using specialist business databases",
