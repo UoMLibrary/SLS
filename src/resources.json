@@ -1,5 +1,5 @@
 [
-        {
+    {
         "featured": true,
           "title": "Specialist Library Support online publication",
           "description": "Our online publication includes posts to help you develop your skills and knowledge in referencing, maths and statistics, copyright, business data, advanced searching and systematic reviews!",
@@ -14,7 +14,7 @@
           ],
           "link": "https://medium.com/specialist-learning-support"
       },
-          {
+      {
         "featured": true,
           "title": "Specialist Library Support YouTube channel",
           "description": "The Specialist Learning Support YouTube channel includes video tutorials to help you get started with referencing and statistical software.",
@@ -44,7 +44,7 @@
           "format": "Interactive guide",
           "tags": ["referencing"],
           "link": "https://www.escholar.manchester.ac.uk/learning-objects/sls/packages/referencing/"
-      }
+      },
       {
           "featured": false,
           "title": "Using specialist business databases",
