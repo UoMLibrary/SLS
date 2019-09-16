@@ -61,6 +61,14 @@
           "tags": ["business data"],
           "link": "https://www.escholar.manchester.ac.uk/learning-objects/sls/bds-vc/"
       },
+     {
+          "featured": false,
+          "title": "Finding copyright free images",
+          "description": "In this post we will explore how you can find and use images without infriging on copyright law.",
+          "format": "Interactive guide",
+          "tags": ["copyright"],
+          "link": "https://medium.com/@uomspecialistlibrarysupport/finding-copyright-free-images-to-use-in-your-assignments-68bb1da6cc18"
+      },
       {
           "featured": false,  
           "title": "Copyright for teaching materials: can I use it?",
