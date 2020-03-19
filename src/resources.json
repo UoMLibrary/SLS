@@ -445,5 +445,21 @@
         "format": "Interactive guide",
         "tags": ["business data"],
         "link": "https://medium.com/specialist-library-support/getting-data-in-and-out-of-eventus-8d558698ba7f"
+      }, 
+    {
+        "featured": false,
+        "title": "Getting started with SPSS and calculating descriptive statistics",
+        "description": "In this post we will show you how to get started with SPSS including; inputting your data into SPSS, calculating descriptive statistics and testing for normality.",
+        "format": "Interactive guide",
+        "tags": ["maths and stats"],
+        "link": "https://medium.com/@uomspecialistlibrarysupport/getting-started-with-spss-and-calculating-descriptive-statistics-b95cb69e99cf"
+      },
+    {
+        "featured": false,
+        "title": "Running your statistical test in SPSS",
+        "description": "In this post we will show you how to run common statistical tests in SPSS and report them in APA style..",
+        "format": "Interactive guide",
+        "tags": ["maths and stats"],
+        "link": "https://medium.com/@uomspecialistlibrarysupport/running-your-statistical-test-in-spss-3321649dcefc"
       }
   ]
