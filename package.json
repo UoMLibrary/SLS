@@ -21,7 +21,7 @@
     "live-server": "^1.2.1",
     "markdown-it": "^8.4.2",
     "markdown-it-emoji": "^1.4.0",
-    "mongoose": "^5.4.19",
+    "mongoose": "^5.7.5",
     "request": "^2.88.0"
   }
 }
