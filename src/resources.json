@@ -457,9 +457,54 @@
     {
         "featured": false,
         "title": "Running your statistical test in SPSS",
-        "description": "In this post we will show you how to run common statistical tests in SPSS and report them in APA style..",
+        "description": "In this post we will show you how to run common statistical tests in SPSS and report them in APA style.",
         "format": "Interactive guide",
         "tags": ["maths and stats"],
         "link": "https://medium.com/@uomspecialistlibrarysupport/running-your-statistical-test-in-spss-3321649dcefc"
+      },
+         {
+        "featured": false,
+        "title": "Replicating searches in different Health Science database platforms",
+        "description": "In this post we will show you how to replicate a search topic in four database platforms and introduce you to the key search tools available.",
+        "format": "Interactive guide",
+        "tags": ["systematic review",
+           "advanced searching"],
+        "link": "https://medium.com/specialist-library-support/replicating-searches-in-different-health-science-database-platforms-b2dc80145897"
+      },
+         {
+        "featured": false,
+        "title": "Introduction to the Ovid platform using PsycInfo",
+        "description": "In this post we will show you how to search for literature in OVID databases, including using key tools such mapping terms to subject headings.",
+        "format": "Interactive guide",
+        "tags": ["systematic review",
+           "advanced searching"],
+        "link": "https://medium.com/specialist-library-support/introduction-to-the-ovid-platform-using-psycinfo-afdcbcb6234e"
+      },
+         {
+        "featured": false,
+        "title": "Introduction to the EBSCO platform using CINAHL",
+        "description": "In this post wewill show you how to search for literature in CINAHL, including key functionalities such as combining your previous searches. ",
+        "format": "Interactive guide",
+        "tags": ["systematic review",
+           "advanced searching"],
+        "link": "https://medium.com/specialist-library-support/introduction-to-the-ebsco-platform-using-cinahl-d90e956cf91a"
+      },
+         {
+        "featured": false,
+        "title": "Introduction to the Web of Science platform",
+        "description": "In this post we will introduce to to searching for literature within the Web of Science database.",
+        "format": "Interactive guide",
+        "tags": ["systematic review",
+           "advanced searching"],
+        "link": "https://medium.com/specialist-library-support/introduction-to-the-web-of-science-platform-aaddd7bb53ef"
+      },
+              {
+        "featured": false,
+        "title": "Introduction to the Proquest platform using ASSIA",
+        "description": "In this post we will introduce you to carrying out a literature search within the ASSIA database.",
+        "format": "Interactive guide",
+        "tags": ["systematic review",
+           "advanced searching"],
+        "link": ""
       }
   ]
