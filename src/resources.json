@@ -464,7 +464,7 @@
       },
          {
         "featured": false,
-        "title": "Replicating searches in different Health Science database platforms",
+        "title": "Replicating searches in Health Science databases",
         "description": "In this post we will show you how to replicate a search topic in four database platforms and introduce you to the key search tools available.",
         "format": "Interactive guide",
         "tags": ["systematic review",
@@ -483,7 +483,7 @@
          {
         "featured": false,
         "title": "Introduction to the EBSCO platform using CINAHL",
-        "description": "In this post wewill show you how to search for literature in CINAHL, including key functionalities such as combining your previous searches. ",
+        "description": "In this post we will show you how to search for literature in CINAHL, including key functionalities such as combining your previous searches. ",
         "format": "Interactive guide",
         "tags": ["systematic review",
            "advanced searching"],
