@@ -506,25 +506,5 @@
         "tags": ["systematic review",
            "advanced searching"],
         "link": ""
-      },
-      {
-        "featured": true,
-          "title": "EndNote desktop",
-          "description": "This video playlist will take you through using the EndNote desktop to manage, collect, organise and share your references.",
-          "format": "Video",
-          "tags": [
-            "referencing"
-                   ],
-          "link": "https://www.youtube.com/watch?v=MlooDu3FFrk&list=PL-0DcDKUVRLsmg1uyT03wPwtqn9YfXvwR"
-      },
-        {
-        "featured": true,
-          "title": "EndNote online",
-          "description": "This video playlist will take you through using the EndNote online to manage, collect, organise and share your references.",
-          "format": "Video",
-          "tags": [
-            "referencing"
-                   ],
-          "link": "https://www.youtube.com/watch?v=85_X6QW5CAU&list=PL-0DcDKUVRLsRjmaxDxEgbjrq8z1_fXZV"
       }
   ]
