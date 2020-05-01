@@ -140,17 +140,17 @@
       ],
       "link":"http://subjects.library.manchester.ac.uk/data/"
    },
-      {
+     {
       "featured":false,
-      "title":"EndNote desktop: collecting references",
-      "description":"In this post we will show you how to add references to your EndNote desktop library from Library Search and popular databases. You will also learn how add to manual references and attach PDF’s to your references.",
+      "title":"Getting started with reference managment with Mendeley",
+      "description":"In this post you will learn how to collect, organise and use your references with Mendeley.",
       "format":"Interactive guide",
       "tags":[
          "referencing"
       ],
-      "link":"https://medium.com/specialist-library-support/endnote-desktop-collecting-references-1dc25d7f5473"
+      "link":"https://medium.com/specialist-library-support/beginners-reference-management-with-mendeley-5b80d06a0111"
    },
-   {
+        {
       "featured":false,
       "title":"Getting started with EndNote desktop",
       "description":"In this post we will show you how to get started with EndNote desktop reference management software including; installing EndNote desktop, registering for EndNote online account and creating your EndNote Library.",
@@ -159,6 +159,16 @@
          "referencing"
       ],
       "link":"https://medium.com/specialist-library-support/endnote-desktop-getting-started-e199b1f9e525"
+   },
+    {
+      "featured":false,
+      "title":"EndNote desktop: collecting references",
+      "description":"In this post we will show you how to add references to your EndNote desktop library from Library Search and popular databases. You will also learn how add to manual references and attach PDF’s to your references.",
+      "format":"Interactive guide",
+      "tags":[
+         "referencing"
+      ],
+      "link":"https://medium.com/specialist-library-support/endnote-desktop-collecting-references-1dc25d7f5473"
    },
    {
       "featured":false,
