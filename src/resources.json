@@ -163,12 +163,22 @@
    {
       "featured":false,
       "title":"EndNote desktop: organising your references",
-      "description":"It’s easy to build up a long list of references. In this post you will learn how to use groups and remove duplicate references to keep your library organised.",
+      "description":"In this post you will learn how to use groups and remove duplicate references to keep your library organised.",
       "format":"Interactive guide",
       "tags":[
          "referencing"
       ],
       "link":"https://medium.com/specialist-library-support/endnote-desktop-organising-your-references-288ab8248858"
+   },
+       {
+      "featured":false,
+      "title":"EndNote online: collecting references",
+      "description":"In this post you will learn how to collect referenecs and import them into your EndNote Online library.",
+      "format":"Interactive guide",
+      "tags":[
+         "referencing"
+      ],
+      "link":"https://medium.com/specialist-library-support/endnote-online-organising-your-references-3bdec2fdf57"
    },
     {
       "featured":false,
