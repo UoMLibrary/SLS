@@ -99,27 +99,7 @@
       ],
       "link":"https://www.escholar.manchester.ac.uk/learning-objects/copyright-students/"
    },
-   {
-      "featured":false,
-      "title":"EndNote desktop video tutorials ",
-      "description":"This video playlist will take you through the essential steps to using EndNote desktop software for managing your references. ",
-      "format":"Video",
-      "tags":[
-         "referencing"
-      ],
-      "link":"https://www.youtube.com/watch?v=MlooDu3FFrk&list=PL-0DcDKUVRLsmg1uyT03wPwtqn9YfXvwR"
-   },
-   {
-      "featured":false,
-      "title":"EndNote online video tutorials",
-      "description":"This video playlist will take you through the essential steps to using EndNote online software for managing your references. ",
-      "format":"Video",
-      "tags":[
-         "referencing"
-      ],
-      "link":"https://www.youtube.com/playlist?list=PL-0DcDKUVRLsRjmaxDxEgbjrq8z1_fXZV"
-   },
-   {
+     {
       "featured":false,
       "title":"SPSS video tutorials",
       "description":"This video playlist will help you get started using SPSS.",
@@ -160,7 +140,7 @@
       ],
       "link":"http://subjects.library.manchester.ac.uk/data/"
    },
-   {
+      {
       "featured":false,
       "title":"EndNote desktop: collecting references",
       "description":"In this post we will show you how to add references to your EndNote desktop library from Library Search and popular databases. You will also learn how add to manual references and attach PDF’s to your references.",
@@ -183,12 +163,22 @@
    {
       "featured":false,
       "title":"EndNote desktop: organising your references",
-      "description":"It’s easy to build up a long list of references. In this post you will learn how groups and smart group’s can help keep your library organised. You will also learn how to remove duplicate references.",
+      "description":"It’s easy to build up a long list of references. In this post you will learn how to use groups and remove duplicate references to keep your library organised.",
       "format":"Interactive guide",
       "tags":[
          "referencing"
       ],
       "link":"https://medium.com/specialist-library-support/endnote-desktop-organising-your-references-288ab8248858"
+   },
+    {
+      "featured":false,
+      "title":"EndNote online: organising your references",
+      "description":"It’s easy to build up a long list of references. In this post you will learn how to use groups and remove duplicate references to keep your library organised.",
+      "format":"Interactive guide",
+      "tags":[
+         "referencing"
+      ],
+      "link":"https://medium.com/specialist-library-support/endnote-online-organising-your-references-3bdec2fdf57"
    },
    {
       "featured":false,
@@ -199,6 +189,26 @@
          "referencing"
       ],
       "link":"https://medium.com/specialist-library-support/endnote-desktop-formatting-your-references-ccc9852220e4"
+   },
+    {
+      "featured":false,
+      "title":"EndNote desktop video tutorials ",
+      "description":"This video playlist will take you through the essential steps to using EndNote desktop software for managing your references. ",
+      "format":"Video",
+      "tags":[
+         "referencing"
+      ],
+      "link":"https://www.youtube.com/watch?v=MlooDu3FFrk&list=PL-0DcDKUVRLsmg1uyT03wPwtqn9YfXvwR"
+   },
+   {
+      "featured":false,
+      "title":"EndNote online video tutorials",
+      "description":"This video playlist will take you through the essential steps to using EndNote online software for managing your references. ",
+      "format":"Video",
+      "tags":[
+         "referencing"
+      ],
+      "link":"https://www.youtube.com/playlist?list=PL-0DcDKUVRLsRjmaxDxEgbjrq8z1_fXZV"
    },
    {
       "featured":false,
