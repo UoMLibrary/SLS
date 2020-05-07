@@ -272,6 +272,17 @@
    },
    {
       "featured":false,
+      "title":"Locating missing articles in OVID medical databases",
+      "description":"In this post we will explore how you can locate missing articles in OVID databases such as Medline, Embase and PsycInfo.",
+      "format":"Interactive guide",
+      "tags":[
+         "systematic review",
+         "advanced search"
+      ],
+      "link":"https://medium.com/specialist-library-support/locating-missing-articles-in-ovid-medical-databases-19e90cfdf837"
+   },
+   {
+      "featured":false,
       "title":"Understanding your data",
       "description":"In this post you will learn about data types and best practices for structuring your data.",
       "format":"Interactive guide",
