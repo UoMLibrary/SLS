@@ -200,6 +200,16 @@
       ],
       "link":"https://medium.com/specialist-library-support/endnote-online-organising-your-references-3bdec2fdf57"
    },
+       {
+      "featured":false,
+      "title":"EndNote online: formatting your references",
+      "description":"In this post we explore how you can format your references in Word using EndNote online. Including inserting footnotes, changing your referencing style and inserting citations as you write.",
+      "format":"Interactive guide",
+      "tags":[
+         "referencing"
+      ],
+      "link":"https://medium.com/specialist-library-support/endnote-online-organising-your-references-3bdec2fdf57"
+   },
    {
       "featured":false,
       "title":"EndNote desktop: formatting your references",
@@ -614,16 +624,38 @@
       ],
       "link":"https://medium.com/specialist-library-support/introduction-to-the-ebsco-platform-using-cinahl-d90e956cf91a"
    },
+    {
+      "featured":false,
+      "title":"How to save your search in EBSCO",
+      "description":"In this post we will show you how to create an account and save your searches in EBSCO.",
+      "format":"Interactive guide",
+      "tags":[
+         "systematic review",
+         "advanced searching"
+      ],
+      "link":"https://medium.com/specialist-library-support/how-to-save-your-search-in-ebsco-bb77c9ff03c8"
+   },
    {
       "featured":false,
       "title":"Introduction to the Web of Science platform",
-      "description":"In this post we will introduce to to searching for literature within the Web of Science database.",
+      "description":"In this post we will introduce to searching for literature within the Web of Science database.",
       "format":"Interactive guide",
       "tags":[
          "systematic review",
          "advanced searching"
       ],
       "link":"https://medium.com/specialist-library-support/introduction-to-the-web-of-science-platform-aaddd7bb53ef"
+   },
+   {
+      "featured":false,
+      "title":"How to save your search in Web of Science",
+      "description":"In this post we will show you how to create an account and save your searches within Web of Science.",
+      "format":"Interactive guide",
+      "tags":[
+         "systematic review",
+         "advanced searching"
+      ],
+      "link":"https://medium.com/specialist-library-support/how-to-save-a-search-on-web-of-science-d9abb9a92838"
    },
    {
       "featured":false,
