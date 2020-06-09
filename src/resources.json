@@ -667,5 +667,35 @@
          "advanced searching"
       ],
       "link":"https://medium.com/specialist-library-support/introduction-to-the-proquest-platform-using-assia-a72e9ff788dc"
+   },
+   {
+      "featured":false,
+      "title":"Introduction to Eikon reports",
+      "description":"In this post we show you how to find company and industry reports and filings in the Eikon database.",
+      "format":"Interactive guide",
+      "tags":[
+         "business data"
+      ],
+      "link":"https://medium.com/specialist-library-support/introduction-to-eikon-reports-ec4db5b9c792"
+   },
+   {
+      "featured":false,
+      "title":"Introduction to Eikon financial statements",
+      "description":"In this post we show you how to find company financial and price data in the Eikon database.",
+      "format":"Interactive guide",
+      "tags":[
+         "business data"
+      ],
+      "link":"https://medium.com/specialist-library-support/two-introduction-to-eikon-financial-statements-3d207f51932a"
+   },
+   {
+      "featured":false,
+      "title":"Researching mergers and acquisitions in Eikon",
+      "description":"In this post we introduce the Eikon database then show you how to find specific deals and create lists of mergers and acquisitions.",
+      "format":"Interactive guide",
+      "tags":[
+         "business data"
+      ],
+      "link":"https://medium.com/@uomspecialistlibrarysupport/loall-researching-mergers-and-acquisitions-in-eikon-67f3cc1c0c20"
    }
 ]
