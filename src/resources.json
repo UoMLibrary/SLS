@@ -732,6 +732,86 @@
    },
    {
       "featured":false,
+      "title":"Introduction to AMBS Dissertation support",
+      "description":"In this podcast we will introduce you what is covered in our podcast series to support your research for your dissertation or final project.",
+      "format":"Podcast",
+      "tags":[
+         "business data"
+      ],
+      "link":"https://medium.com/specialist-library-support/introduction-to-ambs-dissertation-support-podcast-b79b4911dcdc"
+   },
+   {
+      "featured":false,
+      "title":"Your research strategy",
+      "description":"In this podcast we explore a best practice approach for creating an effective research strategy.",
+      "format":"Podcast",
+      "tags":[
+         "business data"
+      ],
+      "link":"https://medium.com/specialist-library-support/your-research-strategy-podcast-a5058c572236"
+   },
+   {
+      "featured":false,
+      "title":"Business and Management literature",
+      "description":"In this podcast explore the resources available to you covering business and management from the Library.",
+      "format":"Podcast",
+      "tags":[
+         "business data"
+      ],
+      "link":"https://medium.com/specialist-library-support/business-and-management-literature-podcast-d5826866c1f7"
+   },
+   {
+      "featured":false,
+      "title":"Company and Financial information: choosing a database",
+      "description":"In this podcast we explore the titles and coverage of some of the most specialist financial and business databases available to you in the Library.",
+      "format":"Podcast",
+      "tags":[
+         "business data"
+      ],
+      "link":"https://medium.com/specialist-library-support/company-and-financial-information-choosing-a-database-e2d1bfee91a4"
+   },
+   {
+      "featured":false,
+      "title":"Company and Financial information: using databases",
+      "description":"In this podcast we explore the various specialist financial and business databases that are available to you in the Library. Including accessing, combining, and using their data.",
+      "format":"Podcast",
+      "tags":[
+         "business data"
+      ],
+      "link":"https://medium.com/specialist-library-support/company-and-financial-information-using-databases-bc88e204e54c"
+   },
+   {
+      "featured":false,
+      "title":"Economic and demographic data",
+      "description":"In this podcast we explore economic and demographic sources that are available to you in the library.",
+      "format":"Podcast",
+      "tags":[
+         "business data"
+      ],
+      "link":"https://medium.com/specialist-library-support/economic-and-demographic-data-76363904e09d"
+   },
+   {
+      "featured":false,
+      "title":"Market and sector research",
+      "description":"In this podcast we will explore what databases and resources are available to you on market and sector information.",
+      "format":"Podcast",
+      "tags":[
+         "business data"
+      ],
+      "link":"https://medium.com/specialist-library-support/market-and-sector-research-6e7091a11ef5"
+   },
+   {
+      "featured":false,
+      "title":"Trade and industry news",
+      "description":"In this podcast we explore the best resources available to you in the library for finding trade and industry news.",
+      "format":"Podcast",
+      "tags":[
+         "business data"
+      ],
+      "link":"https://medium.com/specialist-library-support/trade-and-industry-news-853b320328d0"
+   },
+   {
+      "featured":false,
       "title":"Researching mergers and acquisitions in Eikon",
       "description":"In this post we introduce the Eikon database then show you how to find specific deals and create lists of mergers and acquisitions.",
       "format":"Interactive guide",
