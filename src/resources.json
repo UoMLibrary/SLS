@@ -49,35 +49,47 @@
       ],
       "link":"https://www.escholar.manchester.ac.uk/learning-objects/sls/packages/referencing/"
    },
-   {
+       {
       "featured":false,
-      "title":"Using specialist business databases",
-      "description":"Guides written to help students and researchers to make effective and accurate use of the specialist financial and business databases available at The University of Manchester. The guides are organised by database, including Bloomberg and Datastream.",
+      "title":"Getting started with Copyright essentials for teaching",
+      "description":"In this post we will introduce you to the basics of copyright including using other peoples work, and getting permission.",
       "format":"Interactive guide",
       "tags":[
-         "business data"
+         "copyright"
       ],
-      "link":"https://medium.com/using-specialist-business-databases"
+      "link":"https://medium.com/specialist-library-support/copyright-essentials-for-teaching-an-introduction-32e9fc2fd495"
    },
-   {
+
+     {
       "featured":false,
-      "title":"Business Data Service: Virtual Consultation",
-      "description":"Search some of our previous research consultation enquiries and detailed answers. They cover a selection of financial, economic and business data sources.",
+      "title":"Using literary works: Copyright essentials for teaching",
+      "description":"In this post we will explore how you can safely use literature works in your teaching whilst adhering to copyright law.",
       "format":"Interactive guide",
       "tags":[
-         "business data"
+         "copyright"
       ],
-      "link":"https://www.escholar.manchester.ac.uk/learning-objects/sls/bds-vc/"
+      "link":"https://medium.com/specialist-library-support/copyright-essentials-for-teaching-using-literary-works-c5071d9b076a"
    },
-    {
+     {
       "featured":false,
-      "title":"Your research strategy: Business and Managment",
-      "description":"In this resource you will learn how to develop a research strategy which is both logical and comprehensive.",
+      "title":"Using images in your teaching: Copyright essentials",
+      "description":"In this post we show you some of the ways you can use images in your teaching, particularly online, without infringing copyright.",
       "format":"Interactive guide",
       "tags":[
-         "business data"
+         "copyright"
       ],
-      "link":"https://medium.com/specialist-library-support/your-research-strategy-business-and-management-cfbd3c385587"
+      "link":"https://medium.com/specialist-library-support/copyright-essentials-for-teaching-using-images-e9be644609e8"
+   },
+
+     {
+      "featured":false,
+      "title":"Using films and broadcasts: Copyright essentials for teaching",
+      "description":"In this post we show you some of the ways you can use video in your teaching, particularly online, without infringing copyright.",
+      "format":"Interactive guide",
+      "tags":[
+         "copyright"
+      ],
+      "link":"https://medium.com/specialist-library-support/copyright-essentials-for-teaching-using-films-and-broadcasts-including-youtube-ac5ef4a0bf2b"
    },
    {
       "featured":false,
