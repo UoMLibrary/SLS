@@ -162,6 +162,16 @@
       ],
       "link":"http://subjects.library.manchester.ac.uk/data/"
    },
+   {
+      "featured":false,
+      "title":"Statistics in biomedical and health research",
+      "description":"Some reading to get you thinking. Guest publication by Dr Jamie Sergeant, Senior Lecturer in Biostatistics, Centre for Biostatistics.",
+      "format":"Interactive guide",
+      "tags":[
+         "maths and stats"
+      ],
+      "link":"https://medium.com/specialist-library-support/statistics-in-biomedical-and-health-research-a9002848a31"
+   },
      {
       "featured":false,
       "title":"Getting started with reference management with Mendeley",
