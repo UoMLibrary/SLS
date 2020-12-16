@@ -184,8 +184,8 @@
    },
         {
       "featured":false,
-      "title":"Getting started with EndNote desktop",
-      "description":"In this post we will show you how to get started with EndNote desktop reference management software including; installing EndNote desktop, registering for EndNote online account and creating your EndNote Library.",
+      "title":"Getting started with EndNote X9 desktop",
+      "description":"In this post we will show you how to get started with EndNote X9 desktop reference management software including; installing EndNote desktop, registering for EndNote online account and creating your EndNote Library.",
       "format":"Interactive guide",
       "tags":[
          "referencing"
@@ -254,7 +254,7 @@
    },
     {
       "featured":false,
-      "title":"EndNote desktop video tutorials ",
+      "title":"EndNote X9 desktop video tutorials ",
       "description":"This video playlist will take you through the essential steps to using EndNote desktop software for managing your references. ",
       "format":"Video",
       "tags":[
