@@ -545,13 +545,13 @@
    },
    {
       "featured":false,
-      "title":"Introduction to Datastream",
+      "title":"Introduction to Datastream via Eikon",
       "description":"In this post we introduce the Datastream application and Excel add-in then show you how to find company financial data, economic data and create custom lists of companies.",
       "format":"Interactive guide",
       "tags":[
          "business data"
       ],
-      "link":"https://medium.com/specialist-library-support/introduction-to-datastream-5f903acc5bbe"
+      "link":"https://medium.com/specialist-library-support/introduction-to-datastream-via-eikon-fed71a226fa1"
    },
    {
       "featured":false,
