@@ -16,7 +16,7 @@
     "gulp": "^4.0.1",
     "gulp-htmlmin": "^5.0.1",
     "gulp-inline-source": "^4.0.0",
-    "highlight.js": "^9.15.6",
+    "highlight.js": "^10.4.1",
     "jsonfile": "^5.0.0",
     "live-server": "^1.2.1",
     "markdown-it": "^8.4.2",
