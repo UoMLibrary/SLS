@@ -841,5 +841,25 @@
          "business data"
       ],
       "link":"https://medium.com/@uomspecialistlibrarysupport/loall-researching-mergers-and-acquisitions-in-eikon-67f3cc1c0c20"
+   },
+      {
+      "featured":false,
+      "title":"Introducing reference management tools",
+      "description":"In this post we will explore the reference management tools supported by University of Manchester Library.",
+      "format":"Interactive guide",
+      "tags":[
+         "referencing"
+      ],
+      "link":"https://medium.com/specialist-library-support/introducing-reference-management-tools-c24ad0bb95ca"
+   },
+      {
+      "featured":false,
+      "title":"Choosing the right reference management tool for you",
+      "description":"Listen to this podcast to find out which tools we recommend you use for referencing.",
+      "format":"Interactive guide",
+      "tags":[
+         "referencing"
+      ],
+      "link":"https://medium.com/specialist-library-support/choosing-the-right-reference-management-tool-for-you-e164dd70d5d2"
    }
 ]
