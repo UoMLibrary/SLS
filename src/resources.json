@@ -62,6 +62,16 @@
    },
     {
       "featured":false,
+      "title":"Getting started with searching Fame",
+      "description":"In this post we will introduce you to Fame business database for researching companies in the United Kingdom and Republic of Ireland.",
+      "format":"Interactive guide",
+      "tags":[
+         "business data"
+        ],
+      "link":"https://medium.com/specialist-library-support/getting-started-with-searching-fame-5863d05049eb"
+   },
+    {
+      "featured":false,
       "title":"Getting started with searching Bloomberg Anywhere",
       "description":"In this post we will explore how to get started in searching Bloomberg for company information including financial analysis.",
       "format":"Interactive guide",
