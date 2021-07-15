@@ -70,6 +70,16 @@
         ],
       "link":"https://medium.com/specialist-library-support/getting-started-with-searching-fame-5863d05049eb"
    },
+   {
+      "featured":false,
+      "title":"Fame video playlist",
+      "description":"In this playlist we show you how to researching companies in the United Kingdom and Republic of Ireland using the Fame database.",
+      "format":"Interactive guide",
+      "tags":[
+         "business data"
+        ],
+      "link":"https://medium.com/specialist-library-support/getting-started-with-searching-fame-5863d05049eb"
+   },
     {
       "featured":false,
       "title":"Getting started with searching Bloomberg Anywhere",
@@ -169,7 +179,8 @@
       "description":"This video playlist will help you get started using SPSS.",
       "format":"Video",
       "tags":[
-         "referencing"
+         "business data",
+         "maths and stats"
       ],
       "link":"https://www.youtube.com/playlist?list=PL-0DcDKUVRLsLvwPDLuYgRcIUidlq1zZD"
    },
