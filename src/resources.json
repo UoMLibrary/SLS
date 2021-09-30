@@ -235,17 +235,7 @@
       ],
       "link":"https://medium.com/specialist-library-support/beginners-reference-management-with-mendeley-5b80d06a0111"
    },
-        {
-      "featured":false,
-      "title":"Getting started with EndNote X9 desktop",
-      "description":"In this post we will show you how to get started with EndNote X9 desktop reference management software including; installing EndNote desktop, registering for EndNote online account and creating your EndNote Library.",
-      "format":"Interactive guide",
-      "tags":[
-         "referencing"
-      ],
-      "link":"https://medium.com/specialist-library-support/endnote-desktop-getting-started-e199b1f9e525"
-   },
-    {
+     {
       "featured":false,
       "title":"EndNote desktop: collecting references",
       "description":"In this post we will show you how to add references to your EndNote desktop library from Library Search and popular databases. You will also learn how add to manual references and attach PDF’s to your references.",
@@ -316,16 +306,6 @@
       "link":"https://www.youtube.com/playlist?list=PL-0DcDKUVRLsG3y9w6QNYtXGn2fer7ssk"
    },
     {
-      "featured":false,
-      "title":"EndNote X9 desktop video tutorials ",
-      "description":"This video playlist will take you through the essential steps to using EndNote desktop software for managing your references. ",
-      "format":"Video",
-      "tags":[
-         "referencing"
-      ],
-      "link":"https://www.youtube.com/playlist?list=PL-0DcDKUVRLsmg1uyT03wPwtqn9YfXvwR"
-   },
-   {
       "featured":false,
       "title":"EndNote online video tutorials",
       "description":"This video playlist will take you through the essential steps to using EndNote online software for managing your references. ",
@@ -586,17 +566,7 @@
       ],
       "link":"https://medium.com/specialist-library-support/introduction-to-bloomberg-excel-add-in-4a93dafe013c"
    },
-   {
-      "featured":false,
-      "title":"Getting certified with Bloomberg Market Concepts",
-      "description":"In this post we will describe what the Bloomberg Market Concepts certification course is, why you might want to complete it and how to get started.",
-      "format":"Interactive guide",
-      "tags":[
-         "business data"
-      ],
-      "link":"https://medium.com/specialist-library-support/getting-certified-with-bloomberg-market-concepts-55b5a96fc052"
-   },
-   {
+      {
       "featured":false,
       "title":"Introduction to Bloomberg",
       "description":"In this post we introduce the Bloomberg terminal and keyboard then show you how to find company financial data, news and screen for custom lists of companies.",
@@ -616,17 +586,7 @@
       ],
       "link":"https://medium.com/specialist-library-support/introduction-to-datastream-via-eikon-fed71a226fa1"
    },
-   {
-      "featured":false,
-      "title":"Getting certified with Datastream",
-      "description":"In this post we will describe what the Datastream certification course is, why you might want to complete it and how to get started.",
-      "format":"Interactive guide",
-      "tags":[
-         "business data"
-      ],
-      "link":"https://medium.com/specialist-library-support/getting-certified-with-datastream-7da9793e87a9"
-   },
-   {
+      {
       "featured":false,
       "title":"Introduction to SDC Platinum",
       "description":"In this post we introduce the SDC Platinum application then show you how to create lists of mergers and acquisitions deals.",
