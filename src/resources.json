@@ -277,16 +277,6 @@
    },
    {
       "featured":false,
-      "title":"Getting started with EndNote 20 desktop",
-      "description":"In this post we will show you how to add references to your EndNote desktop library from Library Search and popular databases. You will also learn how add to manual references and attach PDF’s to your references.",
-      "format":"Interactive guide",
-      "tags":[
-         "referencing"
-      ],
-      "link":"https://www.escholar.manchester.ac.uk/learning-objects/link/medium/sls/?slug=started-endnote-desktop&category=resource"
-   },
-     {
-      "featured":false,
       "title":"Collecting references using EndNote 20 desktop",
       "description":"In this post we will show you how to add references to your EndNote desktop library from Library Search and popular databases. You will also learn how add to manual references and attach PDF’s to your references.",
       "format":"Interactive guide",
@@ -314,7 +304,7 @@
          "referencing"
       ],
       "link":"https://www.escholar.manchester.ac.uk/learning-objects/link/?slug=endnote-20-desktop-formatting"
-   },
+   },  
    {
       "featured":false,
       "title":"EndNote 20 desktop video tutorials ",
@@ -808,7 +798,7 @@
    {
       "featured":false,
       "title":"Your research strategy",
-      "description":"In this podcast we explore a best practice approach for creating an effective research strategy.",
+      "description":"In this podcast we explore a best practice approach for creating an effective research strategy.",
       "format":"Podcast",
       "tags":[
          "business data"
@@ -818,7 +808,7 @@
    {
       "featured":false,
       "title":"Business and Management literature",
-      "description":"In this podcast explore the resources available to you covering business and management from the Library.",
+      "description":"In this podcast explore the resources available to you covering business and management from the Library.",
       "format":"Podcast",
       "tags":[
          "business data"
@@ -897,7 +887,7 @@
    },
       {
       "featured":false,
-      "title":"Choosing the right reference management tool for you",
+      "title":"Choosing the right reference management tool for you",
       "description":"Listen to this podcast to find out which tools we recommend you use for referencing.",
       "format":"Interactive guide",
       "tags":[
