@@ -619,36 +619,6 @@
    },
    {
       "featured":false,
-      "title":"Researching mergers and acquisitions in Thomson ONE",
-      "description":"In this post we introduce the Thomson ONE database then show you how to find specific deals and create lists of mergers and acquisitions.",
-      "format":"Interactive guide",
-      "tags":[
-         "business data"
-      ],
-      "link":"https://medium.com/specialist-library-support/researching-mergers-and-acquisitions-in-thomson-one-1c2c0bac0514"
-   },
-   {
-      "featured":false,
-      "title":"Introduction to Thomson ONE reports",
-      "description":"In this post we show you how to find company and industry reports and filings in the Thomson ONE database.",
-      "format":"Interactive guide",
-      "tags":[
-         "business data"
-      ],
-      "link":"https://medium.com/specialist-library-support/introduction-to-thomson-one-reports-c037b971a59d"
-   },
-   {
-      "featured":false,
-      "title":"Introduction to Thomson ONE financial statements",
-      "description":"In this post we show you how to find company financial data in the Thomson ONE database.",
-      "format":"Interactive guide",
-      "tags":[
-         "business data"
-      ],
-      "link":"https://medium.com/specialist-library-support/introduction-to-thomson-one-financial-statements-78aa48f842c5"
-   },
-   {
-      "featured":false,
       "title":"Getting data in and out of Eventus",
       "description":"In this post we show you how to form your data to use the Eventus event study tool, and how to access the data it returns.",
       "format":"Interactive guide",
