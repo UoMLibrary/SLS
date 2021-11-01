@@ -12,7 +12,7 @@
          "systematic review",
          "copyright"
       ],
-      "link":"https://medium.com/specialist-learning-support"
+      "link":"https://www.escholar.manchester.ac.uk/learning-objects/link/medium/sls/?slug=sls-medium-publication&category=resource"
    },
    {
       "featured":true,
@@ -27,7 +27,716 @@
          "systematic review",
          "copyright"
       ],
-      "link":"https://www.youtube.com/channel/UCGcVnSXEzhpNHhz1UHz5MyA"
+      "link":"https://www.escholar.manchester.ac.uk/learning-objects/link/medium/sls/?slug=sls-youtube-channel&category=resource"
+   },
+   {
+      "featured":false,
+      "title":"Advanced search: making use of Boolean operators",
+      "description":"In this post we will introduce you to Boolean operators, to help you find the most relevant results in your literature search.",
+      "format":"Interactive guide",
+      "tags":[
+         "systematic review",
+         "advanced searching"
+      ],
+      "link":"https://www.escholar.manchester.ac.uk/learning-objects/link/medium/sls/?slug=boolean-operators&category=resource"
+   },
+   {
+      "featured":false,
+      "title":"Business and Management literature",
+      "description":"In this podcast explore the resources available to you covering business and management from the Library.",
+      "format":"Interactive guide",
+      "tags":[
+         "business data"
+      ],
+      "link":"https://www.escholar.manchester.ac.uk/learning-objects/link/medium/sls/?slug=business-literature&category=resource"
+   },
+      {
+      "featured":false,
+      "title":"Business and Management literature podcast",
+      "description":"In this podcast explore the resources available to you covering business and management from the Library.",
+      "format":"Podcast",
+      "tags":[
+         "business data"
+      ],
+      "link":"https://www.escholar.manchester.ac.uk/learning-objects/link/medium/sls/?slug=business-literature-podcast&category=resource"
+   },
+    {
+      "featured":false,
+      "title":"Choosing the right reference management tool for you",
+      "description":"Listen to this podcast to find out which tools we recommend you use for referencing.",
+      "format":"Interactive guide",
+      "tags":[
+         "referencing"
+      ],
+      "link":"https://www.escholar.manchester.ac.uk/learning-objects/link/medium/sls/?slug=choosing-ref-software&category=resource"
+   },
+{
+      "featured":false,
+      "title":"Collecting references using EndNote 20 desktop",
+      "description":"In this post we will show you how to add references to your EndNote desktop library from Library Search and popular databases. You will also learn how add to manual references and attach PDF’s to your references.",
+      "format":"Interactive guide",
+      "tags":[
+         "referencing"
+      ],
+      "link":"https://www.escholar.manchester.ac.uk/learning-objects/link/medium/sls/?slug=endnote-20-desktop-collecting"
+   },
+{
+      "featured":false,
+      "title":"Company and Financial information: choosing a database",
+      "description":"In this podcast we explore the titles and coverage of some of the most specialist financial and business databases available to you in the Library.",
+      "format":"Podcast",
+      "tags":[
+         "business data"
+      ],
+      "link":"https://www.escholar.manchester.ac.uk/learning-objects/link/medium/sls/?slug=company-choosing-database&category=resource"
+   },
+{
+      "featured":false,
+      "title":"Company and Financial information: using databases",
+      "description":"In this podcast we explore the various specialist financial and business databases that are available to you in the Library. Including accessing, combining, and using their data.",
+      "format":"Podcast",
+      "tags":[
+         "business data"
+      ],
+      "link":"https://www.escholar.manchester.ac.uk/learning-objects/link/medium/sls/?slug=company-using-database&category=resource"
+   },
+    {
+      "featured":false,
+      "title":"Copyright for teaching materials: can I use it?",
+      "description":"This short online resource will help you to determine whether you can use specific types of material in your teaching, without breaching copyright.",
+      "format":"Interactive guide",
+      "tags":[
+         "copyright"
+      ],
+      "link":"https://www.escholar.manchester.ac.uk/learning-objects/copyright/"
+   },
+   {
+      "featured":false,
+      "title":"Copyright for student: Who owns what?",
+      "description":"This resource provides a basic introduction to copyright, whilst looking how it can affect you as a student.",
+      "format":"Interactive guide",
+      "tags":[
+         "copyright"
+      ],
+      "link":"https://www.escholar.manchester.ac.uk/learning-objects/copyright-students/"
+   },
+   {
+      "featured":false,
+      "title":"Copyright Guidance at The University of Manchester",
+      "description":"This guide will help you to find out how copyright affects your work, research and study here at the University of Manchester.",
+      "format":"Interactive guide",
+      "tags":[
+         "copyright"
+      ],
+      "link":"http://subjects.library.manchester.ac.uk/copyright"
+   },
+{
+      "featured":false,
+      "title":"Creating a choropleth map using GeoPandas and financial data",
+      "description":"In this post we will be using Python and financial data from the WRDS database to create a choropleth map depicting the total revenue of different countries across the world.",
+      "format":"Interactive guide",
+      "tags":[
+         "business data",
+         "maths and stats"
+      ],
+      "link":"https://www.escholar.manchester.ac.uk/learning-objects/link/medium/sls/?slug=choropleth-map-geopandas&category=resource"
+   },
+ {
+      "featured":false,
+      "title":"Critical appraisal for medicine and health sciences",
+      "description":"In this post we explore the process of critical appraisal, types of study and the key areas to examine when appraising a research article.",
+      "format":"Interactive guide",
+      "tags":[
+         "advanced searching",
+         "systematic review"
+      ],
+      "link":"https://www.escholar.manchester.ac.uk/learning-objects/link/medium/sls/?slug=critical-appraisal-hs&category=resource"
+   },
+ {
+      "featured":false,
+      "title":"CUSIP codes: where it could go wrong",
+      "description":"In this post we will explain what a CUSIP code is, the common mistakes people make and how to avoid then.",
+      "format":"Interactive guide",
+      "tags":[
+         "business data"
+      ],
+      "link":"https://www.escholar.manchester.ac.uk/learning-objects/link/medium/sls/?slug=cusip-codes&category=resource"
+   },
+   {
+      "featured":false,
+      "title":"Data and Statistics guide at the University of Manchester",
+      "description":"This guide provides information for University of Manchester students and staff on how to understand and use data effectively, support for statistical support and statistics resources for the UK, EU and International regions.\nYou will find these resources useful for locating statistics in books, journal articles, databases and on the web.",
+      "format":"Interactive guide",
+      "tags":[
+         "maths and stats",
+         "business data"
+      ],
+      "link":"http://subjects.library.manchester.ac.uk/data/"
+   },
+{
+      "featured":false,
+      "title":"Describing your statistical data",
+      "description":"We encounter statistics in all areas of our life and it is important that we understand how statistics extract meaning from data. This post will explore the methods and descriptives you can use to describe your data.",
+      "format":"Interactive guide",
+      "tags":[
+         "maths and stats"
+      ],
+      "link":"https://www.escholar.manchester.ac.uk/learning-objects/link/medium/sls/?slug=describing-stats&category=resource"
+   },
+    {
+      "featured":false,
+      "title":"Economic and demographic data",
+      "description":"In this podcast we explore economic and demographic sources that are available to you in the library.",
+      "format":"Podcast",
+      "tags":[
+         "business data"
+      ],
+      "link":"https://www.escholar.manchester.ac.uk/learning-objects/link/medium/sls/?slug=economic-data&category=resource"
+   },
+{
+      "featured":false,
+      "title":"Economic and demographic databases",
+      "description":"In this post we will explore the key databases and sources for economic and demographic data where you can find up to date information for your assignments.",
+      "format":"Interactive guide",
+      "tags":[
+         "business data"
+      ],
+      "link":"https://www.escholar.manchester.ac.uk/learning-objects/link/medium/sls/?slug=economic-databases&category=resource"
+   },
+ {
+      "featured":false,
+      "title":"EndNote 20 desktop video tutorials",
+      "description":"This video playlist will take you through the essential steps to using EndNote 20 desktop software for managing your references. ",
+      "format":"Video",
+      "tags":[
+         "referencing"
+      ],
+      "link":"https://www.escholar.manchester.ac.uk/learning-objects/link/medium/sls/?slug=endnote-20-playlist&category=playlist"
+   },
+{
+      "featured":false,
+      "title":"EndNote online video tutorials",
+      "description":"This video playlist will take you through the essential steps to using EndNote online software for managing your references. ",
+      "format":"Video",
+      "tags":[
+         "referencing"
+      ],
+      "link":"https://www.escholar.manchester.ac.uk/learning-objects/link/medium/sls/?slug=endnote-online-playlist&category=playlist"
+   },
+      {
+      "featured":false,
+      "title":"EndNote online: collecting references",
+      "description":"In this post you will learn how to collect references and import them into your EndNote Online library.",
+      "format":"Interactive guide",
+      "tags":[
+         "referencing"
+      ],
+      "link":"https://www.escholar.manchester.ac.uk/learning-objects/link/medium/sls/?slug=endnote-online-collecting&category=resource"
+   },
+   {
+      "featured":false,
+      "title":"EndNote online: formatting your references",
+      "description":"In this post we explore how you can format your references in Word using EndNote online. Including inserting footnotes, changing your referencing style and inserting citations as you write.",
+      "format":"Interactive guide",
+      "tags":[
+         "referencing"
+      ],
+      "link":"https://www.escholar.manchester.ac.uk/learning-objects/link/medium/sls/?slug=endnote-online-formatting&category=resource"
+   },
+     {
+      "featured":false,
+      "title":"EndNote online: organising your references",
+      "description":"In this post you will learn how to organise your references by creating groups, removing duplicates and managing your attachments in EndNote online.",
+      "format":"Interactive guide",
+      "tags":[
+         "referencing"
+      ],
+      "link":"https://www.escholar.manchester.ac.uk/learning-objects/link/medium/sls/?slug=endnote-online-organising&category=resource"
+   },
+    {
+      "featured":false,
+      "title":"Fame video tutorials",
+      "description":"In this playlist we show you how to researching companies in the United Kingdom and Republic of Ireland using the Fame database.",
+      "format":"Video",
+      "tags":[
+         "business data"
+        ],
+      "link":"https://www.escholar.manchester.ac.uk/learning-objects/link/?slug=fame-playlist"
+   },
+{
+      "featured":false,
+      "title":"Finding free to use images online",
+      "description":"In this post we will explore how you can find and use images without infringing on copyright law.",
+      "format":"Interactive guide",
+      "tags":[
+         "copyright"
+      ],
+      "link":"https://www.escholar.manchester.ac.uk/learning-objects/link/medium/sls/?slug=free-images-copyright&category=resource"
+   },
+{
+      "featured":false,
+      "title":"Formatting your references using EndNote 20 desktop",
+      "description":"In this post we will explore how to format your references in EndNote desktop, including; changing your referencing style, using the ‘Cite while you write’ plugin, editing your citations, inserting a footnote and producing your reference list.",
+      "format":"Interactive guide",
+      "tags":[
+         "referencing"
+      ],
+      "link":"https://www.escholar.manchester.ac.uk/learning-objects/link/medium/sls/?slug=endnote-20-desktop-formatting"
+   },
+{
+      "featured":false,
+      "title":"Getting data in and out of Eventus",
+      "description":"In this post we show you how to form your data to use the Eventus event study tool, and how to access the data it returns.",
+      "format":"Interactive guide",
+      "tags":[
+         "business data"
+      ],
+      "link":"https://www.escholar.manchester.ac.uk/learning-objects/link/medium/sls/?slug=eventus&category=resource"
+   },
+{
+      "featured":false,
+      "title":"Getting started with Copyright essentials for teaching",
+      "description":"In this post we will introduce you to the basics of copyright including using other peoples work, and getting permission.",
+      "format":"Interactive guide",
+      "tags":[
+         "copyright"
+      ],
+      "link":"https://www.escholar.manchester.ac.uk/learning-objects/link/medium/sls/?slug=started-copyright-teaching&category=resource"
+   },
+{
+      "featured":false,
+      "title":"Getting started with EndNote 20 desktop",
+      "description":"In this post we will show you how to add references to your EndNote desktop library from Library Search and popular databases. You will also learn how add to manual references and attach PDF’s to your references.",
+      "format":"Interactive guide",
+      "tags":[
+         "referencing"
+      ],
+      "link":"https://www.escholar.manchester.ac.uk/learning-objects/link/medium/sls/?slug=started-endnote-desktop&category=resource"
+   },
+{
+      "featured":false,
+      "title":"Getting started with EndNote online",
+      "description":"This post is useful for anyone wanting to use EndNote online to manage references, cite and reference sources.",
+      "format":"Interactive guide",
+      "tags":[
+         "referencing"
+      ],
+      "link":"https://www.escholar.manchester.ac.uk/learning-objects/link/medium/sls/?slug=started-endnote-online&category=resource"
+   },
+{
+      "featured":false,
+      "title":"Getting started with reference management with Mendeley",
+      "description":"In this post you will learn how to collect, organise and use your references with Mendeley.",
+      "format":"Interactive guide",
+      "tags":[
+         "referencing"
+      ],
+      "link":"https://www.escholar.manchester.ac.uk/learning-objects/link/medium/sls/?slug=started-mendeley&category=resource"
+   },  
+{
+      "featured":false,
+      "title":"Getting started with searching Bloomberg Anywhere",
+      "description":"In this post we will explore how to get started in searching Bloomberg for company information including financial analysis.",
+      "format":"Interactive guide",
+      "tags":[
+         "business data"
+        ],
+      "link":"https://www.escholar.manchester.ac.uk/learning-objects/link/medium/sls/?slug=started-bloomberg-anywhere&category=resource"
+   },
+{
+      "featured":false,
+      "title":"Getting started with searching Fame",
+      "description":"In this post we will introduce you to Fame business database for researching companies in the United Kingdom and Republic of Ireland.",
+      "format":"Interactive guide",
+      "tags":[
+         "business data"
+        ],
+      "link":"https://www.escholar.manchester.ac.uk/learning-objects/link/medium/sls/?slug=started-fame&category=resource"
+   },
+ {
+      "featured":false,
+      "title":"Getting started with SPSS and calculating descriptive statistics",
+      "description":"In this post we will show you how to get started with SPSS including; inputting your data into SPSS, calculating descriptive statistics and testing for normality.",
+      "format":"Interactive guide",
+      "tags":[
+         "maths and stats"
+      ],
+      "link":"https://www.escholar.manchester.ac.uk/learning-objects/link/medium/sls/?slug=started-spss&category=resource"
+   },
+{
+      "featured":false,
+      "title":"Getting started with your systematic review",
+      "description":"In this post we explore what systematic reviews are, why we conduct them and how they differ from systematic literature searches.",
+      "format":"Interactive guide",
+      "tags":[
+         "systematic review",
+         "advanced searching"
+      ],
+      "link":"https://www.escholar.manchester.ac.uk/learning-objects/link/medium/sls/?slug=started-systematic-review&category=resource"
+   },
+   {
+      "featured":false,
+      "title":"Glossary of advanced searching",
+      "description":"In this post we explore the meaning of various terms used in searching and advanced searching of information.",
+      "format":"Interactive guide",
+      "tags":[
+         "systematic review",
+         "advanced searching"
+      ],
+      "link":"https://www.escholar.manchester.ac.uk/learning-objects/link/medium/sls/?slug=glossary-searching&category=resource"
+   },
+    {
+      "featured":false,
+      "title":"How to save your search in EBSCO",
+      "description":"In this post we will show you how to create an account and save your searches in EBSCO.",
+      "format":"Interactive guide",
+      "tags":[
+         "systematic review",
+         "advanced searching"
+      ],
+      "link":"https://www.escholar.manchester.ac.uk/learning-objects/link/medium/sls/?slug=save-search-ebsco&category=resource"
+   },
+    {
+      "featured":false,
+      "title":"How to save your search in OVID",
+      "description":"In this post we will show you how to create an account and save your searches in OVID.",
+      "format":"Interactive guide",
+      "tags":[
+         "systematic review",
+         "advanced searching"
+      ],
+      "link":"https://www.escholar.manchester.ac.uk/learning-objects/link/medium/sls/?slug=save-search-ovid&category=resource"
+   },
+    {
+      "featured":false,
+      "title":"How to save your search in Proquest",
+      "description":"In this post we will show you how to create an account and save your searches in Proquest.",
+      "format":"Interactive guide",
+      "tags":[
+         "systematic review",
+         "advanced searching"
+      ],
+      "link":"https://www.escholar.manchester.ac.uk/learning-objects/link/medium/sls/?slug=save-search-proquest&category="
+   },
+{
+      "featured":false,
+      "title":"How to save your search in Web of Science",
+      "description":"In this post we will show you how to create an account and save your searches within Web of Science.",
+      "format":"Interactive guide",
+      "tags":[
+         "systematic review",
+         "advanced searching"
+      ],
+      "link":"https://www.escholar.manchester.ac.uk/learning-objects/link/medium/sls/?slug=save-search-wos&category=resource"
+   },
+   {
+      "featured":false,
+      "title":"Introduction to AMBS Dissertation support",
+      "description":"In this podcast we will introduce you what is covered in our podcast series to support your research for your dissertation or final project.",
+      "format":"Podcast",
+      "tags":[
+         "business data"
+      ],
+      "link":"https://www.escholar.manchester.ac.uk/learning-objects/link/medium/sls/?slug=intro-ambs-dissertation&category=resource"
+   },
+{
+      "featured":false,
+      "title":"Introduction to Bloomberg",
+      "description":"In this post we introduce the Bloomberg terminal and keyboard then show you how to find company financial data, news and screen for custom lists of companies.",
+      "format":"Interactive guide",
+      "tags":[
+         "business data"
+      ],
+      "link":"https://www.escholar.manchester.ac.uk/learning-objects/link/medium/sls/?slug=intro-bloomberg&category=resource"
+   },
+{
+      "featured":false,
+      "title":"Introduction to Bloomberg Excel add-in",
+      "description":"In this post we will describe how to set up the Bloomberg Excel add-in to perform structured, bulk data download.",
+      "format":"Interactive guide",
+      "tags":[
+         "business data"
+      ],
+      "link":"https://www.escholar.manchester.ac.uk/learning-objects/link/medium/sls/?slug=intro-bloomberg-excel&category=resource"
+   },
+   {
+      "featured":false,
+      "title":"Introduction to Bloomberg Query Language (BQL)",
+      "description":"In this post we will describe the new set of Bloomberg formulas called Bloomberg Query Language (BQL), and how using them can stop you from exceeding the monthly download limit in Excel.",
+      "format":"Interactive guide",
+      "tags":[
+         "business data"
+      ],
+      "link":"https://www.escholar.manchester.ac.uk/learning-objects/link/medium/sls/?slug=intro-bql&category=resource"
+   },
+   {
+      "featured":false,
+      "title":"Introducing reference management tools",
+      "description":"In this post we will explore the reference management tools supported by University of Manchester Library.",
+      "format":"Interactive guide",
+      "tags":[
+         "referencing"
+      ],
+      "link":"https://www.escholar.manchester.ac.uk/learning-objects/link/medium/sls/?slug=Intro-ref-software&category=resource"
+   },
+    {
+      "featured":false,
+      "title":"Introduction to data analysis with SAS Enterprise Guide",
+      "description":"In this post we will introduce you to the SAS Enterprise Guide data analysis tool, using example data sets to demonstrate some of its key functionality.",
+      "format":"Interactive guide",
+      "tags":[
+         "business data",
+         "maths and stats"
+      ],
+      "link":"https://www.escholar.manchester.ac.uk/learning-objects/link/medium/sls/?slug=intro-data-sas&category=resource"
+   },
+   {
+      "featured":false,
+      "title":"Introduction to Datastream via Eikon",
+      "description":"In this post we introduce the Datastream application and Excel add-in then show you how to find company financial data, economic data and create custom lists of companies.",
+      "format":"Interactive guide",
+      "tags":[
+         "business data"
+      ],
+      "link":"https://www.escholar.manchester.ac.uk/learning-objects/link/medium/sls/?slug=intro-datastream-eikon&category=resource"
+   },
+   {
+      "featured":false,
+      "title":"Introduction to the EBSCO platform using CINAHL",
+      "description":"In this post we will show you how to search for literature in CINAHL, including key functionalities such as combining your previous searches. ",
+      "format":"Interactive guide",
+      "tags":[
+         "systematic review",
+         "advanced searching"
+      ],
+      "link":"https://www.escholar.manchester.ac.uk/learning-objects/link/medium/sls/?slug=intro-ebsco-cinahl&category=resource"
+   },
+   {
+      "featured":false,
+      "title":"Introduction to Eikon reports",
+      "description":"In this post we show you how to find company and industry reports and filings in the Eikon database.",
+      "format":"Interactive guide",
+      "tags":[
+         "business data"
+      ],
+      "link":"https://www.escholar.manchester.ac.uk/learning-objects/link/medium/sls/?slug=intro-eikon-reports&category=resource"
+   },
+   {
+      "featured":false,
+      "title":"Introduction to Eikon financial statements",
+      "description":"In this post we show you how to find company financial and price data in the Eikon database.",
+      "format":"Interactive guide",
+      "tags":[
+         "business data"
+      ],
+      "link":"https://www.escholar.manchester.ac.uk/learning-objects/link/medium/sls/?slug=intro-eikon-fs&category=resource"
+   },
+   {
+      "featured":false,
+      "title":"Introduction to Health Science databases",
+      "description":"In this resource we will identify the key functionalities of various health science database platforms and how you can use their tools to broaden your search terms.",
+      "format":"Interactive guide",
+      "tags":[
+         "systematic review"
+      ],
+      "link":"https://www.escholar.manchester.ac.uk/learning-objects/link/medium/sls/?slug=intro-hs-databases&category=resource"
+   },
+   {
+      "featured":false,
+      "title":"Introduction to mergers and acquisitions",
+      "description":"In this post we will give you a brief introduction to the key concepts required to take our workshops about finding historical deals.",
+      "format":"Interactive guide",
+      "tags":[
+         "business data"
+      ],
+      "link":"https://www.escholar.manchester.ac.uk/learning-objects/link/medium/sls/?slug=intro-mergers-aquisistions&category=resource"
+   },  
+    {
+      "featured":false,
+      "title":"Introduction to the Ovid platform using PsycInfo",
+      "description":"In this post we will show you how to search for literature in OVID databases, including using key tools such mapping terms to subject headings.",
+      "format":"Interactive guide",
+      "tags":[
+         "systematic review",
+         "advanced searching"
+      ],
+      "link":"https://www.escholar.manchester.ac.uk/learning-objects/link/medium/sls/?slug=intro-ovid-psychinfo&category=resource"
+   },
+    {
+      "featured":false,
+      "title":"Introduction to the Proquest platform using ASSIA",
+      "description":"In this post we will introduce you to carrying out a literature search within the ASSIA database.",
+      "format":"Interactive guide",
+      "tags":[
+         "systematic review",
+         "advanced searching"
+      ],
+      "link":"https://www.escholar.manchester.ac.uk/learning-objects/link/medium/sls/?slug=intro-proquest-assia&category=resource"
+   },
+   {
+      "featured":false,
+      "title":"Introduction to SDC Platinum",
+      "description":"In this post we introduce the SDC Platinum application then show you how to create lists of mergers and acquisitions deals.",
+      "format":"Interactive guide",
+      "tags":[
+         "business data"
+      ],
+      "link":"https://www.escholar.manchester.ac.uk/learning-objects/link/medium/sls/?slug=intro-sdc&category=resource"
+   },
+    {
+      "featured":false,
+      "title":"Introduction to statistics",
+      "description":"This post will give you a basic introduction to statistical terminology, charts and data types. It will also give you advice on how to organise your data to make it easier to analyse and present. ",
+      "format":"Interactive guide",
+      "tags":[
+         "maths and stats"
+      ],
+      "link":"https://www.escholar.manchester.ac.uk/learning-objects/link/medium/sls/?slug=intro-stats&category=resource"
+   },
+      {
+      "featured":false,
+      "title":"Introduction to Thomson ONE reports",
+      "description":"In this post we show you how to find company and industry reports and filings in the Thomson ONE database.",
+      "format":"Interactive guide",
+      "tags":[
+         "business data"
+      ],
+      "link":"https://medium.com/specialist-library-support/introduction-to-thomson-one-reports-c037b971a59d"
+   },
+   {
+      "featured":false,
+      "title":"Introduction to Thomson ONE financial statements",
+      "description":"In this post we show you how to find company financial data in the Thomson ONE database.",
+      "format":"Interactive guide",
+      "tags":[
+         "business data"
+      ],
+      "link":"https://www.escholar.manchester.ac.uk/learning-objects/link/medium/sls/?slug=intro-thomson-fs&category=resource"
+   },
+    {
+      "featured":false,
+      "title":"Introduction to the Web of Science platform",
+      "description":"In this post we will introduce to searching for literature within the Web of Science database.",
+      "format":"Interactive guide",
+      "tags":[
+         "systematic review",
+         "advanced searching"
+      ],
+      "link":"https://www.escholar.manchester.ac.uk/learning-objects/link/medium/sls/?slug=intro-wos&category=resource"
+   },
+ {
+      "featured":false,
+      "title":"Locating missing articles in OVID medical databases",
+      "description":"In this post we will explore how you can locate missing articles in OVID databases such as Medline, Embase and PsycInfo.",
+      "format":"Interactive guide",
+      "tags":[
+         "systematic review",
+         "advanced searching"
+      ],
+      "link":"https://www.escholar.manchester.ac.uk/learning-objects/link/medium/sls/?slug=missing-articles-ovid&category=resource"
+   },
+   {
+      "featured":false,
+      "title":"Making use of MeSH and Suggested Subject Terms",
+      "description":"In this post we will introduce you to MeSH, and Subject Search Terms to help maximise your search results.",
+      "format":"Interactive guide",
+      "tags":[
+         "systematic review"
+      ],
+      "link":"https://www.escholar.manchester.ac.uk/learning-objects/link/medium/sls/?slug=making-mesh-sst&category=resource"
+   },
+     {
+      "featured":false,
+      "title":"Market research databases",
+      "description":"In this post we will look at a number of useful databases, and explore how you can easily begin navigating them to get access to the information that you need.",
+      "format":"Interactive guide",
+      "tags":[
+         "business data"
+      ],
+      "link":"https://www.escholar.manchester.ac.uk/learning-objects/link/medium/sls/?slug=market-research-databses&category=resource"
+   },
+   {
+      "featured":false,
+      "title":"Market and sector research",
+      "description":"In this podcast we will explore what databases and resources are available to you on market and sector information.",
+      "format":"Podcast",
+      "tags":[
+         "business data"
+      ],
+      "link":"https://www.escholar.manchester.ac.uk/learning-objects/link/medium/sls/?slug=market-sector-podcast&category=resource"
+   },
+   {
+      "featured":false,
+      "title":"Planning your systematic review",
+      "description":"In this post we will explore how to get started with your systematic review including planning and refining your search terms.",
+      "format":"Interactive guide",
+      "tags":[
+         "systematic review",
+         "advanced searching"
+      ],
+      "link":"https://www.escholar.manchester.ac.uk/learning-objects/link/medium/sls/?slug=planning-sys-review&category=resource"
+   },
+      {
+      "featured":false,
+      "title":"Researching company information",
+      "description":"In this post we will describe the differences between quoted and private companies. We will explain what kind of information you can find about them and their directors.",
+      "format":"Interactive guide",
+      "tags":[
+         "business data"
+      ],
+      "link":"https://www.escholar.manchester.ac.uk/learning-objects/link/medium/sls/?slug=research-company-info&category=resource"
+   },
+   {
+      "featured":false,
+      "title":"Researching mergers and acquisitions in Eikon",
+      "description":"In this post we introduce the Eikon database then show you how to find specific deals and create lists of mergers and acquisitions.",
+      "format":"Interactive guide",
+      "tags":[
+         "business data"
+      ],
+      "link":"https://www.escholar.manchester.ac.uk/learning-objects/link/medium/sls/?slug=research-mergers-eikon&category=resource"
+   },
+    {
+      "featured":false,
+      "title":"Researching mergers and acquisitions in Thomson ONE",
+      "description":"In this post we introduce the Thomson ONE database then show you how to find specific deals and create lists of mergers and acquisitions.",
+      "format":"Interactive guide",
+      "tags":[
+         "business data"
+      ],
+      "link":"https://www.escholar.manchester.ac.uk/learning-objects/link/medium/sls/?slug=research-mergers-thomson&category=resource"
+   },
+   {
+      "featured":false,
+      "title":"Reshape data in Stata: long to wide",
+      "description":"In this post we will describe the difference between long and wide panel data, and how to convert from long to wide using the Stata statistical software.",
+      "format":"Interactive guide",
+      "tags":[
+         "business data",
+         "maths and stats"
+      ],
+      "link":"https://www.escholar.manchester.ac.uk/learning-objects/link/medium/sls/?slug=reshape-data-stata&category=resource"
+   },
+   {
+      "featured":false,
+      "title":"Running your statistical test in SPSS",
+      "description":"In this post we will show you how to run common statistical tests in SPSS and report them in APA style.",
+      "format":"Interactive guide",
+      "tags":[
+         "maths and stats"
+      ],
+      "link":"https://www.escholar.manchester.ac.uk/learning-objects/link/medium/sls/?slug=stats-test-spss&category=resource"
+   },
+   {
+      "featured":false,
+      "title":"SPSS video tutorials",
+      "description":"This video playlist will help you get started using SPSS.",
+      "format":"Video",
+      "tags":[
+         "business data",
+         "maths and stats"
+      ],
+      "link":"https://www.escholar.manchester.ac.uk/learning-objects/link/?slug=spss-playlist"
    },
    {
       "featured":true,
@@ -60,172 +769,6 @@
       ],
       "link":"https://www.escholar.manchester.ac.uk/learning-objects/sls/packages/referencing/"
    },
-    {
-      "featured":false,
-      "title":"Getting started with searching Fame",
-      "description":"In this post we will introduce you to Fame business database for researching companies in the United Kingdom and Republic of Ireland.",
-      "format":"Interactive guide",
-      "tags":[
-         "business data"
-        ],
-      "link":"https://medium.com/specialist-library-support/getting-started-with-searching-fame-5863d05049eb"
-   },
-   {
-      "featured":false,
-      "title":"Fame video tutorials",
-      "description":"In this playlist we show you how to researching companies in the United Kingdom and Republic of Ireland using the Fame database.",
-      "format":"Video",
-      "tags":[
-         "business data"
-        ],
-      "link":"https://youtube.com/playlist?list=PL-0DcDKUVRLt-fbOBiJLJD2hxqNPriiZy"
-   },
-    {
-      "featured":false,
-      "title":"Getting started with searching Bloomberg Anywhere",
-      "description":"In this post we will explore how to get started in searching Bloomberg for company information including financial analysis.",
-      "format":"Interactive guide",
-      "tags":[
-         "business data"
-        ],
-      "link":"https://medium.com/specialist-library-support/getting-started-with-searching-bloomberg-anywhere-ac54b292549"
-   },
-   {
-      "featured":false,
-      "title":"Critical appraisal for medicine and health sciences",
-      "description":"In this post we explore the process of critical appraisal, types of study and the key areas to examine when appraising a research article.",
-      "format":"Interactive guide",
-      "tags":[
-         "advanced searching",
-         "systematic review"
-      ],
-      "link":"https://medium.com/specialist-library-support/critical-appraisal-for-medicine-and-health-sciences-70ec4268d360"
-   },
-   {
-      "featured":false,
-      "title":"Glossary of advanced searching",
-      "description":"In this post we explore the meaning of various terms used in searching and advanced searching of information.",
-      "format":"Interactive guide",
-      "tags":[
-         "advanced searching",
-         "systematic review"
-      ],
-      "link":"https://medium.com/specialist-library-support/glossary-of-advanced-searching-4efcc13b2460"
-   },
-       {
-      "featured":false,
-      "title":"Getting started with Copyright essentials for teaching",
-      "description":"In this post we will introduce you to the basics of copyright including using other peoples work, and getting permission.",
-      "format":"Interactive guide",
-      "tags":[
-         "copyright"
-      ],
-      "link":"https://medium.com/specialist-library-support/copyright-essentials-for-teaching-an-introduction-32e9fc2fd495"
-   },
-
-     {
-      "featured":false,
-      "title":"Using literary works: Copyright essentials for teaching",
-      "description":"In this post we will explore how you can safely use literature works in your teaching whilst adhering to copyright law.",
-      "format":"Interactive guide",
-      "tags":[
-         "copyright"
-      ],
-      "link":"https://medium.com/specialist-library-support/copyright-essentials-for-teaching-using-literary-works-c5071d9b076a"
-   },
-     {
-      "featured":false,
-      "title":"Using images in your teaching: Copyright essentials",
-      "description":"In this post we show you some of the ways you can use images in your teaching, particularly online, without infringing copyright.",
-      "format":"Interactive guide",
-      "tags":[
-         "copyright"
-      ],
-      "link":"https://medium.com/specialist-library-support/copyright-essentials-for-teaching-using-images-e9be644609e8"
-   },
-
-     {
-      "featured":false,
-      "title":"Using films and broadcasts: Copyright essentials for teaching",
-      "description":"In this post we show you some of the ways you can use video in your teaching, particularly online, without infringing copyright.",
-      "format":"Interactive guide",
-      "tags":[
-         "copyright"
-      ],
-      "link":"https://medium.com/specialist-library-support/copyright-essentials-for-teaching-using-films-and-broadcasts-including-youtube-ac5ef4a0bf2b"
-   },
-   {
-      "featured":false,
-      "title":"Finding free to use images online",
-      "description":"In this post we will explore how you can find and use images without infringing on copyright law.",
-      "format":"Interactive guide",
-      "tags":[
-         "copyright"
-      ],
-      "link":"https://medium.com/@uomspecialistlibrarysupport/finding-copyright-free-images-to-use-in-your-assignments-68bb1da6cc18"
-   },
-   {
-      "featured":false,
-      "title":"Copyright for teaching materials: can I use it?",
-      "description":"This short online resource will help you to determine whether you can use specific types of material in your teaching, without breaching copyright.",
-      "format":"Interactive guide",
-      "tags":[
-         "copyright"
-      ],
-      "link":"https://www.escholar.manchester.ac.uk/learning-objects/copyright/"
-   },
-   {
-      "featured":false,
-      "title":"Copyright for student: Who owns what?",
-      "description":"This resource provides a basic introduction to copyright, whilst looking how it can affect you as a student.",
-      "format":"Interactive guide",
-      "tags":[
-         "copyright"
-      ],
-      "link":"https://www.escholar.manchester.ac.uk/learning-objects/copyright-students/"
-   },
-     {
-      "featured":false,
-      "title":"SPSS video tutorials",
-      "description":"This video playlist will help you get started using SPSS.",
-      "format":"Video",
-      "tags":[
-         "business data",
-         "maths and stats"
-      ],
-      "link":"https://www.youtube.com/playlist?list=PL-0DcDKUVRLsLvwPDLuYgRcIUidlq1zZD"
-   },
-   {
-      "featured":false,
-      "title":"Copyright Guidance at The University of Manchester",
-      "description":"This guide will help you to find out how copyright affects your work, research and study here at the University of Manchester.",
-      "format":"Interactive guide",
-      "tags":[
-         "copyright"
-      ],
-      "link":"http://subjects.library.manchester.ac.uk/copyright"
-   },
-   {
-      "featured":false,
-      "title":"Referencing guide at the University of Manchester",
-      "description":"This guide explores the basics of referencing including key referencing styles used at Manchester and popular referencing software such as Endnote, Mendeley and Zotero.",
-      "format":"Interactive guide",
-      "tags":[
-         "referencing"
-      ],
-      "link":"http://subjects.library.manchester.ac.uk/referencing"
-   },
-   {
-      "featured":false,
-      "title":"Data and Statistics guide at the University of Manchester",
-      "description":"This guide provides information for University of Manchester students and staff on how to understand and use data effectively, support for statistical support and statistics resources for the UK, EU and International regions.\nYou will find these resources useful for locating statistics in books, journal articles, databases and on the web.",
-      "format":"Interactive guide",
-      "tags":[
-         "maths and stats",
-         "business data"
-      ],
-      "link":"http://subjects.library.manchester.ac.uk/data/"
-   },
    {
       "featured":false,
       "title":"Statistics in biomedical and health research",
@@ -236,188 +779,6 @@
       ],
       "link":"https://medium.com/specialist-library-support/statistics-in-biomedical-and-health-research-a9002848a31"
    },
-     {
-      "featured":false,
-      "title":"Getting started with reference management with Mendeley",
-      "description":"In this post you will learn how to collect, organise and use your references with Mendeley.",
-      "format":"Interactive guide",
-      "tags":[
-         "referencing"
-      ],
-      "link":"https://medium.com/specialist-library-support/beginners-reference-management-with-mendeley-5b80d06a0111"
-   },
-       {
-      "featured":false,
-      "title":"EndNote online: collecting references",
-      "description":"In this post you will learn how to collect references and import them into your EndNote Online library.",
-      "format":"Interactive guide",
-      "tags":[
-         "referencing"
-      ],
-      "link":"https://medium.com/specialist-library-support/endnote-online-collecting-references-531f36ef3c5b"
-   },
-     {
-      "featured":false,
-      "title":"EndNote online: organising your references",
-      "description":"In this post you will learn how to organise your references by creating groups, removing duplicates and managing your attachments in EndNote online.",
-      "format":"Interactive guide",
-      "tags":[
-         "referencing"
-      ],
-      "link":"https://medium.com/specialist-library-support/endnote-online-organising-your-references-3bdec2fdf57"
-   },
-    {
-      "featured":false,
-      "title":"EndNote online: formatting your references",
-      "description":"In this post we explore how you can format your references in Word using EndNote online. Including inserting footnotes, changing your referencing style and inserting citations as you write.",
-      "format":"Interactive guide",
-      "tags":[
-         "referencing"
-      ],
-      "link":"https://medium.com/specialist-library-support/endnote-online-formatting-your-references-a0808e16cb3e"
-   },
- {
-      "featured":false,
-      "title":"Getting started with EndNote 20 desktop",
-      "description":"In this post we will show you how to add references to your EndNote desktop library from Library Search and popular databases. You will also learn how add to manual references and attach PDF’s to your references.",
-      "format":"Interactive guide",
-      "tags":[
-         "referencing"
-      ],
-      "link":"https://www.escholar.manchester.ac.uk/learning-objects/link/medium/sls/?slug=started-endnote-desktop&category=resource"
-   },
-   {
-      "featured":false,
-      "title":"Collecting references using EndNote 20 desktop",
-      "description":"In this post we will show you how to add references to your EndNote desktop library from Library Search and popular databases. You will also learn how add to manual references and attach PDF’s to your references.",
-      "format":"Interactive guide",
-      "tags":[
-         "referencing"
-      ],
-      "link":"https://www.escholar.manchester.ac.uk/learning-objects/link/medium/sls/?slug=endnote-20-desktop-collecting&category=resource"
-   },
-   {
-      "featured":false,
-      "title":"Organising your references in EndNote 20 desktop",
-      "description":"In this post you will learn how to use groups and remove duplicate references to keep your library organised.",
-      "format":"Interactive guide",
-      "tags":[
-         "referencing"
-      ],
-      "link":"https://www.escholar.manchester.ac.uk/learning-objects/link/medium/sls/?slug=endnote-20-desktop-organising&category=resource"
-   },
-      {
-      "featured":false,
-      "title":"Formatting your references using EndNote 20 desktop",
-      "description":"In this post we will explore how to format your references in EndNote desktop, including; changing your referencing style, using the ‘Cite while you write’ plugin, editing your citations, inserting a footnote and producing your reference list.",
-      "format":"Interactive guide",
-      "tags":[
-         "referencing"
-      ],
-      "link":"https://www.escholar.manchester.ac.uk/learning-objects/link/medium/sls/?slug=endnote-20-desktop-formatting&category=resource"
-   },  
-   {
-      "featured":false,
-      "title":"EndNote 20 desktop video tutorials ",
-      "description":"This video playlist will take you through the essential steps to using EndNote 20 desktop software for managing your references. ",
-      "format":"Video",
-      "tags":[
-         "referencing"
-      ],
-      "link":"https://www.youtube.com/playlist?list=PL-0DcDKUVRLsG3y9w6QNYtXGn2fer7ssk"
-   },
-    {
-      "featured":false,
-      "title":"EndNote online video tutorials",
-      "description":"This video playlist will take you through the essential steps to using EndNote online software for managing your references. ",
-      "format":"Video",
-      "tags":[
-         "referencing"
-      ],
-      "link":"https://www.youtube.com/playlist?list=PL-0DcDKUVRLsRjmaxDxEgbjrq8z1_fXZV"
-   },
-   {
-      "featured":false,
-      "title":"Trade and Industry news: an introduction",
-      "description":"In this post we will explore what Trade and Industry news is and where you can look to find up to date information for your assignments.",
-      "format":"Interactive guide",
-      "tags":[
-         "business data"
-      ],
-      "link":"https://medium.com/specialist-library-support/trade-and-industry-news-an-introduction-5d5de5d82635"
-   },
-   {
-      "featured":false,
-      "title":"Trade and industry news: finding specific publications",
-      "description":"In this post we will explore what the key sources and databases which host Trade and Industry news. Including tips for finding general and company specific information.",
-      "format":"Interactive guide",
-      "tags":[
-         "business data"
-      ],
-      "link":"https://medium.com/specialist-library-support/trade-and-industry-news-finding-specific-publications-c0c7b8211d1f"
-   },
-   {
-      "featured":false,
-      "title":"Making use of MeSH and Suggested Subject Terms",
-      "description":"In this post we will introduce you to MeSH, and Subject Search Terms to help maximise your search results.",
-      "format":"Interactive guide",
-      "tags":[
-         "systematic review"
-      ],
-      "link":"https://medium.com/specialist-library-support/making-use-of-mesh-and-suggested-subject-terms-efce820a7f26"
-   },
-   {
-      "featured":false,
-      "title":"Introduction to Health Science databases",
-      "description":"In this resource we will identify the key functionalities of various health science database platforms and how you can use their tools to broaden your search terms.",
-      "format":"Interactive guide",
-      "tags":[
-         "systematic review"
-      ],
-      "link":"https://medium.com/specialist-library-support/introduction-to-health-science-databases-fb2c0669beb1"
-   },
-   {
-      "featured":false,
-      "title":"Locating missing articles in OVID medical databases",
-      "description":"In this post we will explore how you can locate missing articles in OVID databases such as Medline, Embase and PsycInfo.",
-      "format":"Interactive guide",
-      "tags":[
-         "systematic review",
-         "advanced searching"
-      ],
-      "link":"https://medium.com/specialist-library-support/locating-missing-articles-in-ovid-medical-databases-19e90cfdf837"
-   },
-   {
-      "featured":false,
-      "title":"Understanding your data",
-      "description":"In this post you will learn about data types and best practices for structuring your data.",
-      "format":"Interactive guide",
-      "tags":[
-         "business data",
-         "maths and stats"
-      ],
-      "link":"https://medium.com/specialist-library-support/understanding-your-data-e8325000ffa6"
-   },
-   {
-      "featured":false,
-      "title":"Introduction to statistics",
-      "description":"This post will give you a basic introduction to statistical terminology, charts and data types. It will also give you advice on how to organise your data to make it easier to analyse and present. ",
-      "format":"Interactive guide",
-      "tags":[
-         "maths and stats"
-      ],
-      "link":"https://medium.com/specialist-library-support/introduction-to-statistics-3d6c2d44f90a"
-   },
-   {
-      "featured":false,
-      "title":"Describing your statistical data",
-      "description":"We encounter statistics in all areas of our life and it is important that we understand how statistics extract meaning from data. This post will explore the methods and descriptives you can use to describe your data.",
-      "format":"Interactive guide",
-      "tags":[
-         "maths and stats"
-      ],
-      "link":"https://medium.com/specialist-library-support/describing-your-statistical-data-2baa6d014e26"
-   },
    {
       "featured":false,
       "title":"Systematic review: organising your keywords and subject terms",
@@ -427,30 +788,49 @@
          "systematic review",
          "advanced searching"
       ],
-      "link":"https://medium.com/specialist-library-support/systematic-review-organising-your-keywords-and-subject-terms-fa504f4843e3"
+      "link":"https://www.escholar.manchester.ac.uk/learning-objects/link/medium/sls/?slug=organising-keywords&category=resource"
+   },
+    {
+      "featured":false,
+      "title":"Text analysis with NVivo",
+      "description":"In this post we will introduce NVivo for analysing the text of a set of documents, using company reports as an example.",
+      "format":"Interactive guide",
+      "tags":[
+         "business data",
+         "maths and stats"
+      ],
+      "link":"https://www.escholar.manchester.ac.uk/learning-objects/link/medium/sls/?slug=text-analysis-nvivo&category=resource"
+   },
+    {
+      "featured":false,
+      "title":"Trade and industry news",
+      "description":"In this podcast we explore the best resources available to you in the library for finding trade and industry news.",
+      "format":"Podcast",
+      "tags":[
+         "business data"
+      ],
+      "link":"https://www.escholar.manchester.ac.uk/learning-objects/link/medium/sls/?slug=trade-news-intro&category=resource"
+   },
+        {
+      "featured":false,
+      "title":"Trade and Industry news: an introduction",
+      "description":"In this post we will explore what Trade and Industry news is and where you can look to find up to date information for your assignments.",
+      "format":"Interactive guide",
+      "tags":[
+         "business data"
+      ],
+      "link":"https://www.escholar.manchester.ac.uk/learning-objects/link/medium/sls/?slug=trade-news-intro&category=resource"
    },
    {
       "featured":false,
-      "title":"Planning your systematic review",
-      "description":"In this post we will explore how to get started with your systematic review including planning and refining your search terms.",
+      "title":"Trade and industry news: finding specific publications",
+      "description":"In this post we will explore what the key sources and databases which host Trade and Industry news. Including tips for finding general and company specific information.",
       "format":"Interactive guide",
       "tags":[
-         "systematic review",
-         "advanced searching"
+         "business data"
       ],
-      "link":"https://medium.com/specialist-library-support/planning-your-systematic-review-3f93872dd56f"
-   },
-   {
-      "featured":false,
-      "title":"Getting started with your systematic review",
-      "description":"In this post we explore what systematic reviews are, why we conduct them and how they differ from systematic literature searches.",
-      "format":"Interactive guide",
-      "tags":[
-         "systematic review",
-         "advanced searching"
-      ],
-      "link":"https://medium.com/specialist-library-support/getting-started-with-your-systematic-review-fb9ce9302da3"
-   },
+      "link":"https://www.escholar.manchester.ac.uk/learning-objects/link/medium/sls/?slug=trade-news-find-publications&category=resource"
+   }, 
    {
       "featured":false,
       "title":"Using frameworks to structure your search",
@@ -460,321 +840,49 @@
          "systematic review",
          "advanced searching"
       ],
-      "link":"https://medium.com/specialist-library-support/using-frameworks-to-structure-your-search-6d2753eb801c"
+      "link":"https://www.escholar.manchester.ac.uk/learning-objects/link/medium/sls/?slug=using-frameworks-structure-search&category=resource"
    },
-   {
+     {
       "featured":false,
-      "title":"Advanced search: making use of Boolean operators",
-      "description":"In this post we will introduce you to Boolean operators, to help you find the most relevant results in your literature search.",
-      "format":"Interactive guide",
-      "tags":[
-         "systematic review",
-         "advanced searching"
-      ],
-      "link":"https://medium.com/specialist-library-support/advanced-search-making-use-of-boolean-operators-edcc0ab034c8"
-   },
-   {
-      "featured":false,
-      "title":"Economic and demographic databases",
-      "description":"In this post we will explore the key databases and sources for economic and demographic data where you can find up to date information for your assignments.",
-      "format":"Interactive guide",
-      "tags":[
-         "business data"
-      ],
-      "link":"https://medium.com/specialist-library-support/economic-and-demographic-databases-6bce5d293e96"
-   },
-   {
-      "featured":false,
-      "title":"Market research databases",
-      "description":"In this post we will look at a number of useful databases, and explore how you can easily begin navigating them to get access to the information that you need.",
-      "format":"Interactive guide",
-      "tags":[
-         "business data"
-      ],
-      "link":"https://medium.com/specialist-library-support/market-research-databases-an-introduction-90568f6aeb3a"
-   },
-   {
-      "featured":false,
-      "title":"CUSIP codes: where it could go wrong",
-      "description":"In this post we will explain what a CUSIP code is, the common mistakes people make and how to avoid then.",
-      "format":"Interactive guide",
-      "tags":[
-         "business data"
-      ],
-      "link":"https://medium.com/specialist-library-support/cusip-codes-where-it-could-go-wrong-71fb04cbf833"
-   },
-   {
-      "featured":false,
-      "title":"Researching company information",
-      "description":"In this post we will describe the differences between quoted and private companies. We will explain what kind of information you can find about them and their directors.",
-      "format":"Interactive guide",
-      "tags":[
-         "business data"
-      ],
-      "link":"https://medium.com/specialist-library-support/researching-company-information-e7c6460e8524"
-   },
-   {
-      "featured":false,
-      "title":"Reshape data in Stata: long to wide",
-      "description":"In this post we will describe the difference between long and wide panel data, and how to convert from long to wide using the Stata statistical software.",
+      "title":"Understanding your data",
+      "description":"In this post you will learn about data types and best practices for structuring your data.",
       "format":"Interactive guide",
       "tags":[
          "business data",
          "maths and stats"
       ],
-      "link":"https://medium.com/specialist-library-support/reshape-data-in-stata-long-to-wide-8e23af360d8a"
+      "link":"https://www.escholar.manchester.ac.uk/learning-objects/link/medium/sls/?slug=understand-data&category=resource"
    },
    {
       "featured":false,
-      "title":"Text analysis with NVivo",
-      "description":"In this post we will introduce NVivo for analysing the text of a set of documents, using company reports as an example.",
+      "title":"Using literary works: Copyright essentials for teaching",
+      "description":"In this post we will explore how you can safely use literature works in your teaching whilst adhering to copyright law.",
       "format":"Interactive guide",
       "tags":[
-         "business data",
-         "maths and stats"
+         "copyright"
       ],
-      "link":"https://medium.com/specialist-library-support/text-analysis-with-nvivo-9095cb649e67"
+      "link":"https://www.escholar.manchester.ac.uk/learning-objects/link/medium/sls/?slug=using-literary-works-copyright&category=resource"
    },
-   {
+     {
       "featured":false,
-      "title":"Introduction to mergers and acquisitions",
-      "description":"In this post we will give you a brief introduction to the key concepts required to take our workshops about finding historical deals.",
+      "title":"Using images in your teaching: Copyright essentials",
+      "description":"In this post we show you some of the ways you can use images in your teaching, particularly online, without infringing copyright.",
       "format":"Interactive guide",
       "tags":[
-         "business data"
+         "copyright"
       ],
-      "link":"https://medium.com/specialist-library-support/introduction-to-mergers-and-acquisitions-a4bc212c53e7"
+      "link":"https://www.escholar.manchester.ac.uk/learning-objects/link/medium/sls/?slug=using-images-copyright&category=resource"
    },
-   {
+
+     {
       "featured":false,
-      "title":"Introduction to data analysis with SAS Enterprise Guide",
-      "description":"In this post we will introduce you to the SAS Enterprise Guide data analysis tool, using example data sets to demonstrate some of its key functionality.",
+      "title":"Using films and broadcasts: Copyright essentials for teaching",
+      "description":"In this post we show you some of the ways you can use video in your teaching, particularly online, without infringing copyright.",
       "format":"Interactive guide",
       "tags":[
-         "business data",
-         "maths and stats"
+         "copyright"
       ],
-      "link":"https://medium.com/specialist-library-support/introduction-to-data-analysis-with-sas-enterprise-guide-dabafb9c262f"
-   },
-   {
-      "featured":false,
-      "title":"Creating a choropleth map using GeoPandas and financial data",
-      "description":"In this post we will be using Python and financial data from the WRDS database to create a choropleth map depicting the total revenue of different countries across the world.",
-      "format":"Interactive guide",
-      "tags":[
-         "business data",
-         "maths and stats"
-      ],
-      "link":"https://medium.com/specialist-library-support/creating-a-choropleth-map-using-geopandas-and-financial-data-d0b0e51e55ea"
-   },
-   {
-      "featured":false,
-      "title":"Introduction to Bloomberg Query Language (BQL)",
-      "description":"In this post we will describe the new set of Bloomberg formulas called Bloomberg Query Language (BQL), and how using them can stop you from exceeding the monthly download limit in Excel.",
-      "format":"Interactive guide",
-      "tags":[
-         "business data"
-      ],
-      "link":"https://medium.com/specialist-library-support/introduction-to-bloomberg-query-language-bql-182e45f03cd1"
-   },
-   {
-      "featured":false,
-      "title":"Introduction to Bloomberg Excel add-in",
-      "description":"In this post we will describe how to set up the Bloomberg Excel add-in to perform structured, bulk data download.",
-      "format":"Interactive guide",
-      "tags":[
-         "business data"
-      ],
-      "link":"https://medium.com/specialist-library-support/introduction-to-bloomberg-excel-add-in-4a93dafe013c"
-   },
-      {
-      "featured":false,
-      "title":"Introduction to Bloomberg",
-      "description":"In this post we introduce the Bloomberg terminal and keyboard then show you how to find company financial data, news and screen for custom lists of companies.",
-      "format":"Interactive guide",
-      "tags":[
-         "business data"
-      ],
-      "link":"https://medium.com/specialist-library-support/introduction-to-bloomberg-5a62f715c8a9"
-   },
-   {
-      "featured":false,
-      "title":"Introduction to Datastream via Eikon",
-      "description":"In this post we introduce the Datastream application and Excel add-in then show you how to find company financial data, economic data and create custom lists of companies.",
-      "format":"Interactive guide",
-      "tags":[
-         "business data"
-      ],
-      "link":"https://medium.com/specialist-library-support/introduction-to-datastream-via-eikon-fed71a226fa1"
-   },
-      {
-      "featured":false,
-      "title":"Introduction to SDC Platinum",
-      "description":"In this post we introduce the SDC Platinum application then show you how to create lists of mergers and acquisitions deals.",
-      "format":"Interactive guide",
-      "tags":[
-         "business data"
-      ],
-      "link":"https://medium.com/specialist-library-support/introduction-to-sdc-platinum-44449256513d"
-   },
-   {
-      "featured":false,
-      "title":"Getting data in and out of Eventus",
-      "description":"In this post we show you how to form your data to use the Eventus event study tool, and how to access the data it returns.",
-      "format":"Interactive guide",
-      "tags":[
-         "business data"
-      ],
-      "link":"https://medium.com/specialist-library-support/getting-data-in-and-out-of-eventus-8d558698ba7f"
-   },
-   {
-      "featured":false,
-      "title":"Getting started with SPSS and calculating descriptive statistics",
-      "description":"In this post we will show you how to get started with SPSS including; inputting your data into SPSS, calculating descriptive statistics and testing for normality.",
-      "format":"Interactive guide",
-      "tags":[
-         "maths and stats"
-      ],
-      "link":"https://medium.com/@uomspecialistlibrarysupport/getting-started-with-spss-and-calculating-descriptive-statistics-b95cb69e99cf"
-   },
-   {
-      "featured":false,
-      "title":"Running your statistical test in SPSS",
-      "description":"In this post we will show you how to run common statistical tests in SPSS and report them in APA style.",
-      "format":"Interactive guide",
-      "tags":[
-         "maths and stats"
-      ],
-      "link":"https://medium.com/@uomspecialistlibrarysupport/running-your-statistical-test-in-spss-3321649dcefc"
-   },
-   {
-      "featured":false,
-      "title":"Replicating searches in Health Science databases",
-      "description":"In this post we will show you how to replicate a search topic in four database platforms and introduce you to the key search tools available.",
-      "format":"Interactive guide",
-      "tags":[
-         "systematic review",
-         "advanced searching"
-      ],
-      "link":"https://medium.com/specialist-library-support/replicating-searches-in-different-health-science-database-platforms-b2dc80145897"
-   },
-   {
-      "featured":false,
-      "title":"Introduction to the Ovid platform using PsycInfo",
-      "description":"In this post we will show you how to search for literature in OVID databases, including using key tools such mapping terms to subject headings.",
-      "format":"Interactive guide",
-      "tags":[
-         "systematic review",
-         "advanced searching"
-      ],
-      "link":"https://medium.com/specialist-library-support/introduction-to-the-ovid-platform-using-psycinfo-afdcbcb6234e"
-   },
-   {
-      "featured":false,
-      "title":"Introduction to the EBSCO platform using CINAHL",
-      "description":"In this post we will show you how to search for literature in CINAHL, including key functionalities such as combining your previous searches. ",
-      "format":"Interactive guide",
-      "tags":[
-         "systematic review",
-         "advanced searching"
-      ],
-      "link":"https://medium.com/specialist-library-support/introduction-to-the-ebsco-platform-using-cinahl-d90e956cf91a"
-   },
-    {
-      "featured":false,
-      "title":"How to save your search in EBSCO",
-      "description":"In this post we will show you how to create an account and save your searches in EBSCO.",
-      "format":"Interactive guide",
-      "tags":[
-         "systematic review",
-         "advanced searching"
-      ],
-      "link":"https://medium.com/specialist-library-support/how-to-save-your-search-in-ebsco-bb77c9ff03c8"
-   },
-    {
-      "featured":false,
-      "title":"How to save your search in OVID",
-      "description":"In this post we will show you how to create an account and save your searches in OVID.",
-      "format":"Interactive guide",
-      "tags":[
-         "systematic review",
-         "advanced searching"
-      ],
-      "link":"https://medium.com/specialist-library-support/how-to-save-your-search-in-ovid-2945859b92ec"
-   },
-    {
-      "featured":false,
-      "title":"How to save your search in Proquest",
-      "description":"In this post we will show you how to create an account and save your searches in Proquest.",
-      "format":"Interactive guide",
-      "tags":[
-         "systematic review",
-         "advanced searching"
-      ],
-      "link":"https://medium.com/specialist-library-support/saving-your-search-on-proquest-789df99433d5"
-   },
-   {
-      "featured":false,
-      "title":"Introduction to the Web of Science platform",
-      "description":"In this post we will introduce to searching for literature within the Web of Science database.",
-      "format":"Interactive guide",
-      "tags":[
-         "systematic review",
-         "advanced searching"
-      ],
-      "link":"https://medium.com/specialist-library-support/introduction-to-the-web-of-science-platform-aaddd7bb53ef"
-   },
-   {
-      "featured":false,
-      "title":"How to save your search in Web of Science",
-      "description":"In this post we will show you how to create an account and save your searches within Web of Science.",
-      "format":"Interactive guide",
-      "tags":[
-         "systematic review",
-         "advanced searching"
-      ],
-      "link":"https://medium.com/specialist-library-support/how-to-save-a-search-on-web-of-science-d9abb9a92838"
-   },
-   {
-      "featured":false,
-      "title":"Introduction to the Proquest platform using ASSIA",
-      "description":"In this post we will introduce you to carrying out a literature search within the ASSIA database.",
-      "format":"Interactive guide",
-      "tags":[
-         "systematic review",
-         "advanced searching"
-      ],
-      "link":"https://medium.com/specialist-library-support/introduction-to-the-proquest-platform-using-assia-a72e9ff788dc"
-   },
-   {
-      "featured":false,
-      "title":"Introduction to Eikon reports",
-      "description":"In this post we show you how to find company and industry reports and filings in the Eikon database.",
-      "format":"Interactive guide",
-      "tags":[
-         "business data"
-      ],
-      "link":"https://medium.com/specialist-library-support/introduction-to-eikon-reports-ec4db5b9c792"
-   },
-   {
-      "featured":false,
-      "title":"Introduction to Eikon financial statements",
-      "description":"In this post we show you how to find company financial and price data in the Eikon database.",
-      "format":"Interactive guide",
-      "tags":[
-         "business data"
-      ],
-      "link":"https://medium.com/specialist-library-support/two-introduction-to-eikon-financial-statements-3d207f51932a"
-   },
-   {
-      "featured":false,
-      "title":"Introduction to AMBS Dissertation support",
-      "description":"In this podcast we will introduce you what is covered in our podcast series to support your research for your dissertation or final project.",
-      "format":"Podcast",
-      "tags":[
-         "business data"
-      ],
-      "link":"https://medium.com/specialist-library-support/introduction-to-ambs-dissertation-support-podcast-b79b4911dcdc"
+      "link":"https://www.escholar.manchester.ac.uk/learning-objects/link/medium/sls/?slug=using-films-copyright&category=resource"
    },
    {
       "featured":false,
@@ -784,96 +892,7 @@
       "tags":[
          "business data"
       ],
-      "link":"https://medium.com/specialist-library-support/your-research-strategy-podcast-a5058c572236"
-   },
-   {
-      "featured":false,
-      "title":"Business and Management literature",
-      "description":"In this podcast explore the resources available to you covering business and management from the Library.",
-      "format":"Podcast",
-      "tags":[
-         "business data"
-      ],
-      "link":"https://medium.com/specialist-library-support/business-and-management-literature-podcast-d5826866c1f7"
-   },
-   {
-      "featured":false,
-      "title":"Company and Financial information: choosing a database",
-      "description":"In this podcast we explore the titles and coverage of some of the most specialist financial and business databases available to you in the Library.",
-      "format":"Podcast",
-      "tags":[
-         "business data"
-      ],
-      "link":"https://medium.com/specialist-library-support/company-and-financial-information-choosing-a-database-e2d1bfee91a4"
-   },
-   {
-      "featured":false,
-      "title":"Company and Financial information: using databases",
-      "description":"In this podcast we explore the various specialist financial and business databases that are available to you in the Library. Including accessing, combining, and using their data.",
-      "format":"Podcast",
-      "tags":[
-         "business data"
-      ],
-      "link":"https://medium.com/specialist-library-support/company-and-financial-information-using-databases-bc88e204e54c"
-   },
-   {
-      "featured":false,
-      "title":"Economic and demographic data",
-      "description":"In this podcast we explore economic and demographic sources that are available to you in the library.",
-      "format":"Podcast",
-      "tags":[
-         "business data"
-      ],
-      "link":"https://medium.com/specialist-library-support/economic-and-demographic-data-76363904e09d"
-   },
-   {
-      "featured":false,
-      "title":"Market and sector research",
-      "description":"In this podcast we will explore what databases and resources are available to you on market and sector information.",
-      "format":"Podcast",
-      "tags":[
-         "business data"
-      ],
-      "link":"https://medium.com/specialist-library-support/market-and-sector-research-6e7091a11ef5"
-   },
-   {
-      "featured":false,
-      "title":"Trade and industry news",
-      "description":"In this podcast we explore the best resources available to you in the library for finding trade and industry news.",
-      "format":"Podcast",
-      "tags":[
-         "business data"
-      ],
-      "link":"https://medium.com/specialist-library-support/trade-and-industry-news-853b320328d0"
-   },
-   {
-      "featured":false,
-      "title":"Researching mergers and acquisitions in Eikon",
-      "description":"In this post we introduce the Eikon database then show you how to find specific deals and create lists of mergers and acquisitions.",
-      "format":"Interactive guide",
-      "tags":[
-         "business data"
-      ],
-      "link":"https://medium.com/@uomspecialistlibrarysupport/loall-researching-mergers-and-acquisitions-in-eikon-67f3cc1c0c20"
-   },
-      {
-      "featured":false,
-      "title":"Introducing reference management tools",
-      "description":"In this post we will explore the reference management tools supported by University of Manchester Library.",
-      "format":"Interactive guide",
-      "tags":[
-         "referencing"
-      ],
-      "link":"https://medium.com/specialist-library-support/introducing-reference-management-tools-c24ad0bb95ca"
-   },
-      {
-      "featured":false,
-      "title":"Choosing the right reference management tool for you",
-      "description":"Listen to this podcast to find out which tools we recommend you use for referencing.",
-      "format":"Interactive guide",
-      "tags":[
-         "referencing"
-      ],
-      "link":"https://medium.com/specialist-library-support/choosing-the-right-reference-management-tool-for-you-e164dd70d5d2"
+      "link":"https://www.escholar.manchester.ac.uk/learning-objects/link/medium/sls/?slug=research-strat-podcast&category=resource"
    }
+           
 ]
