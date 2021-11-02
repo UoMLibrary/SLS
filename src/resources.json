@@ -676,17 +676,7 @@
       ],
       "link":"https://www.escholar.manchester.ac.uk/learning-objects/link/medium/sls/?slug=research-mergers-eikon&category=resource"
    },
-    {
-      "featured":false,
-      "title":"Researching mergers and acquisitions in Thomson ONE",
-      "description":"In this post we introduce the Thomson ONE database then show you how to find specific deals and create lists of mergers and acquisitions.",
-      "format":"Interactive guide",
-      "tags":[
-         "business data"
-      ],
-      "link":"https://www.escholar.manchester.ac.uk/learning-objects/link/medium/sls/?slug=research-mergers-thomson&category=resource"
-   },
-   {
+       {
       "featured":false,
       "title":"Reshape data in Stata: long to wide",
       "description":"In this post we will describe the difference between long and wide panel data, and how to convert from long to wide using the Stata statistical software.",
