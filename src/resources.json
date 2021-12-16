@@ -656,6 +656,17 @@
       ],
       "link":"https://www.escholar.manchester.ac.uk/learning-objects/link/medium/sls/?slug=planning-sys-review&category=resource"
    },
+   {
+      "featured":false,
+      "title":"Proximity searching in databases",
+      "description":"In this post you will learn how proximity searching can help you return more relevant results.",
+      "format":"Interactive guide",
+      "tags":[
+         "systematic review",
+         "advanced searching"
+      ],
+      "link":"https://www.escholar.manchester.ac.uk/learning-objects/link/medium/sls/?slug=proximity-searching-databases&category=resource"
+   },
       {
       "featured":false,
       "title":"Researching company information",
