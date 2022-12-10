@@ -12,7 +12,7 @@
     "cheerio": "^1.0.0-rc.2",
     "cors": "^2.8.5",
     "del": "^4.1.0",
-    "express": "^4.16.4",
+    "express": "^4.17.3",
     "gulp": "^4.0.1",
     "gulp-htmlmin": "^5.0.1",
     "gulp-inline-source": "^4.0.0",
