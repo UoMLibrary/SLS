@@ -417,7 +417,7 @@
       "tags":[
          "business data"
       ],
-      "link":"https://www.escholar.manchester.ac.uk/learning-objects/link/medium/sls/?slug=intro-ambs-dissertation&category=resource"
+      "link":"https://www.escholar.manchester.ac.uk/learning-objects/sls/intro-ambs-dissertation/"
    },
 {
       "featured":false,
@@ -427,7 +427,7 @@
       "tags":[
          "business data"
       ],
-      "link":"https://www.escholar.manchester.ac.uk/learning-objects/link/medium/sls/?slug=intro-bloomberg&category=resource"
+      "link":"https://www.escholar.manchester.ac.uk/learning-objects/sls/intro-bloomberg/"
    },
 {
       "featured":false,
@@ -437,7 +437,7 @@
       "tags":[
          "business data"
       ],
-      "link":"https://www.escholar.manchester.ac.uk/learning-objects/link/medium/sls/?slug=intro-bloomberg-excel&category=resource"
+      "link":"https://www.escholar.manchester.ac.uk/learning-objects/sls/intro-bloomberg-excel/"
    },
    {
       "featured":false,
@@ -447,7 +447,7 @@
       "tags":[
          "business data"
       ],
-      "link":"https://www.escholar.manchester.ac.uk/learning-objects/link/medium/sls/?slug=intro-bql&category=resource"
+      "link":"https://www.escholar.manchester.ac.uk/learning-objects/sls/intro-bql/"
    },
    {
       "featured":false,
@@ -457,7 +457,7 @@
       "tags":[
          "referencing"
       ],
-      "link":"https://www.escholar.manchester.ac.uk/learning-objects/link/medium/sls/?slug=Intro-ref-software&category=resource"
+      "link":"https://www.escholar.manchester.ac.uk/learning-objects/sls/intro-ref-software/"
    },
     {
       "featured":false,
@@ -468,7 +468,7 @@
          "business data",
          "maths and stats"
       ],
-      "link":"https://www.escholar.manchester.ac.uk/learning-objects/link/medium/sls/?slug=intro-data-sas&category=resource"
+      "link":"https://www.escholar.manchester.ac.uk/learning-objects/sls/intro-data-sas/"
    },
    {
       "featured":false,
@@ -478,7 +478,7 @@
       "tags":[
          "business data"
       ],
-      "link":"https://www.escholar.manchester.ac.uk/learning-objects/link/medium/sls/?slug=intro-datastream-eikon&category=resource"
+      "link":"https://www.escholar.manchester.ac.uk/learning-objects/sls/intro-datastream-eikon/"
    },
    {
       "featured":false,
@@ -489,7 +489,7 @@
          "systematic review",
          "advanced searching"
       ],
-      "link":"https://www.escholar.manchester.ac.uk/learning-objects/link/medium/sls/?slug=intro-ebsco-cinahl&category=resource"
+      "link":"https://www.escholar.manchester.ac.uk/learning-objects/sls/intro-ebsco-cinahl/"
    },
    {
       "featured":false,
@@ -499,7 +499,7 @@
       "tags":[
          "business data"
       ],
-      "link":"https://www.escholar.manchester.ac.uk/learning-objects/link/medium/sls/?slug=intro-eikon-reports&category=resource"
+      "link":"https://www.escholar.manchester.ac.uk/learning-objects/sls/intro-eikon-reports/"
    },
    {
       "featured":false,
@@ -509,7 +509,7 @@
       "tags":[
          "business data"
       ],
-      "link":"https://www.escholar.manchester.ac.uk/learning-objects/link/medium/sls/?slug=intro-eikon-fs&category=resource"
+      "link":"https://www.escholar.manchester.ac.uk/learning-objects/sls/intro-eikon-fs/"
    },
    {
       "featured":false,
@@ -519,7 +519,7 @@
       "tags":[
          "systematic review"
       ],
-      "link":"https://www.escholar.manchester.ac.uk/learning-objects/link/medium/sls/?slug=intro-hs-databases&category=resource"
+      "link":"https://www.escholar.manchester.ac.uk/learning-objects/sls/intro-hs-databases/"
    },
    {
       "featured":false,
@@ -529,7 +529,7 @@
       "tags":[
          "business data"
       ],
-      "link":"https://www.escholar.manchester.ac.uk/learning-objects/link/medium/sls/?slug=intro-mergers-aquisistions&category=resource"
+      "link":"https://www.escholar.manchester.ac.uk/learning-objects/sls/intro-mergers-aquisistions/"
    },  
     {
       "featured":false,
@@ -540,7 +540,7 @@
          "systematic review",
          "advanced searching"
       ],
-      "link":"https://www.escholar.manchester.ac.uk/learning-objects/link/medium/sls/?slug=intro-ovid-psychinfo&category=resource"
+      "link":"https://www.escholar.manchester.ac.uk/learning-objects/sls/intro-ovid-psychinfo/"
    },
     {
       "featured":false,
@@ -551,7 +551,7 @@
          "systematic review",
          "advanced searching"
       ],
-      "link":"https://www.escholar.manchester.ac.uk/learning-objects/link/medium/sls/?slug=intro-proquest-assia&category=resource"
+      "link":"https://www.escholar.manchester.ac.uk/learning-objects/sls/intro-proquest-assia/"
    },
    {
       "featured":false,
@@ -561,7 +561,7 @@
       "tags":[
          "business data"
       ],
-      "link":"https://www.escholar.manchester.ac.uk/learning-objects/link/medium/sls/?slug=intro-sdc&category=resource"
+      "link":"https://www.escholar.manchester.ac.uk/learning-objects/sls/intro-sdc"
    },
     {
       "featured":false,
@@ -571,7 +571,7 @@
       "tags":[
          "maths and stats"
       ],
-      "link":"https://www.escholar.manchester.ac.uk/learning-objects/link/medium/sls/?slug=intro-stats&category=resource"
+      "link":"https://www.escholar.manchester.ac.uk/learning-objects/sls/intro-stats/"
    },
     {
       "featured":false,
@@ -582,7 +582,7 @@
          "systematic review",
          "advanced searching"
       ],
-      "link":"https://www.escholar.manchester.ac.uk/learning-objects/link/medium/sls/?slug=intro-wos&category=resource"
+      "link":"https://www.escholar.manchester.ac.uk/learning-objects/sls/intro-wos"
    },
  {
       "featured":false,
@@ -593,7 +593,7 @@
          "systematic review",
          "advanced searching"
       ],
-      "link":"https://www.escholar.manchester.ac.uk/learning-objects/link/medium/sls/?slug=missing-articles-ovid&category=resource"
+      "link":"https://www.escholar.manchester.ac.uk/learning-objects/sls/missing-articles-ovid/"
    },
    {
       "featured":false,
@@ -603,7 +603,7 @@
       "tags":[
          "systematic review"
       ],
-      "link":"https://www.escholar.manchester.ac.uk/learning-objects/link/medium/sls/?slug=making-mesh-sst&category=resource"
+      "link":"https://www.escholar.manchester.ac.uk/learning-objects/sls/making-mesh-sst"
    },
      {
       "featured":false,
@@ -613,7 +613,7 @@
       "tags":[
          "business data"
       ],
-      "link":"https://www.escholar.manchester.ac.uk/learning-objects/link/medium/sls/?slug=market-research-databses&category=resource"
+      "link":"https://www.escholar.manchester.ac.uk/learning-objects/sls/market-research-databses/"
    },
    {
       "featured":false,
@@ -623,7 +623,7 @@
       "tags":[
          "business data"
       ],
-      "link":"https://www.escholar.manchester.ac.uk/learning-objects/link/medium/sls/?slug=market-sector-podcast&category=resource"
+      "link":"https://www.escholar.manchester.ac.uk/learning-objects/sls/market-sector-podcast/"
    },
    {
       "featured":false,
@@ -634,7 +634,7 @@
          "systematic review",
          "advanced searching"
       ],
-      "link":"https://www.escholar.manchester.ac.uk/learning-objects/link/medium/sls/?slug=planning-sys-review&category=resource"
+      "link":"https://www.escholar.manchester.ac.uk/learning-objects/sls/planning-sys-review/"
    },
    {
       "featured":false,
@@ -645,7 +645,7 @@
          "systematic review",
          "advanced searching"
       ],
-      "link":"https://www.escholar.manchester.ac.uk/learning-objects/link/medium/sls/?slug=proximity-searching-databases&category=resource"
+      "link":"https://www.escholar.manchester.ac.uk/learning-objects/sls/proximity-searching-databases"
    },
       {
       "featured":false,
@@ -655,7 +655,7 @@
       "tags":[
          "business data"
       ],
-      "link":"https://www.escholar.manchester.ac.uk/learning-objects/link/medium/sls/?slug=research-company-info&category=resource"
+      "link":"https://www.escholar.manchester.ac.uk/learning-objects/sls/research-company-info/"
    },
    {
       "featured":false,
@@ -665,7 +665,7 @@
       "tags":[
          "business data"
       ],
-      "link":"https://www.escholar.manchester.ac.uk/learning-objects/link/medium/sls/?slug=research-mergers-eikon&category=resource"
+      "link":"https://www.escholar.manchester.ac.uk/learning-objects/sls/research-mergers-eikon/"
    },
        {
       "featured":false,
@@ -676,7 +676,7 @@
          "business data",
          "maths and stats"
       ],
-      "link":"https://www.escholar.manchester.ac.uk/learning-objects/link/medium/sls/?slug=reshape-data-stata&category=resource"
+      "link":"https://www.escholar.manchester.ac.uk/learning-objects/sls/reshape-data-stata/"
    },
    {
       "featured":false,
@@ -686,7 +686,7 @@
       "tags":[
          "maths and stats"
       ],
-      "link":"https://www.escholar.manchester.ac.uk/learning-objects/link/medium/sls/?slug=stats-test-spss&category=resource"
+      "link":"https://www.escholar.manchester.ac.uk/learning-objects/sls/stats-test-spss/"
    },
    {
       "featured":false,
@@ -697,7 +697,7 @@
          "business data",
          "maths and stats"
       ],
-      "link":"https://www.escholar.manchester.ac.uk/learning-objects/link/medium/sls/?slug=spss-playlist&category=playlist"
+      "link":"https://www.escholar.manchester.ac.uk/learning-objects/sls/spss-playlist/"
    },
    {
       "featured":true,
@@ -749,7 +749,7 @@
          "systematic review",
          "advanced searching"
       ],
-      "link":"https://www.escholar.manchester.ac.uk/learning-objects/link/medium/sls/?slug=organising-keywords&category=resource"
+      "link":"https://www.escholar.manchester.ac.uk/learning-objects/sls/organising-keywords/"
    },
     {
       "featured":false,
@@ -760,7 +760,7 @@
          "business data",
          "maths and stats"
       ],
-      "link":"https://www.escholar.manchester.ac.uk/learning-objects/link/medium/sls/?slug=text-analysis-nvivo&category=resource"
+      "link":"https://www.escholar.manchester.ac.uk/learning-objects/sls/text-analysis-nvivo/"
    },
     {
       "featured":false,
@@ -770,7 +770,7 @@
       "tags":[
          "business data"
       ],
-      "link":"https://www.escholar.manchester.ac.uk/learning-objects/link/medium/sls/?slug=trade-news-intro&category=resource"
+      "link":"https://www.escholar.manchester.ac.uk/learning-objects/sls/trade-news-intro/"
    },
         {
       "featured":false,
@@ -780,7 +780,7 @@
       "tags":[
          "business data"
       ],
-      "link":"https://www.escholar.manchester.ac.uk/learning-objects/link/medium/sls/?slug=trade-news-intro&category=resource"
+      "link":"https://www.escholar.manchester.ac.uk/learning-objects/sls/trade-news-intro/"
    },
    {
       "featured":false,
@@ -790,7 +790,7 @@
       "tags":[
          "business data"
       ],
-      "link":"https://www.escholar.manchester.ac.uk/learning-objects/link/medium/sls/?slug=trade-news-find-publications&category=resource"
+      "link":"https://www.escholar.manchester.ac.uk/learning-objects/sls/trade-news-find-publications/"
    }, 
    {
       "featured":false,
@@ -801,7 +801,7 @@
          "systematic review",
          "advanced searching"
       ],
-      "link":"https://www.escholar.manchester.ac.uk/learning-objects/link/medium/sls/?slug=using-frameworks-structure-search&category=resource"
+      "link":"https://www.escholar.manchester.ac.uk/learning-objects/sls/using-frameworks-structure-search/"
    },
      {
       "featured":false,
@@ -812,7 +812,7 @@
          "business data",
          "maths and stats"
       ],
-      "link":"https://www.escholar.manchester.ac.uk/learning-objects/link/medium/sls/?slug=understand-data&category=resource"
+      "link":"https://www.escholar.manchester.ac.uk/learning-objects/sls/understand-data/"
    },
    {
       "featured":false,
@@ -822,7 +822,7 @@
       "tags":[
          "copyright"
       ],
-      "link":"https://www.escholar.manchester.ac.uk/learning-objects/link/medium/sls/?slug=using-literary-works-copyright&category=resource"
+      "link":"https://www.escholar.manchester.ac.uk/learning-objects/sls/using-literary-works-copyright/"
    },
      {
       "featured":false,
@@ -832,7 +832,7 @@
       "tags":[
          "copyright"
       ],
-      "link":"https://www.escholar.manchester.ac.uk/learning-objects/link/medium/sls/?slug=using-images-copyright&category=resource"
+      "link":"https://www.escholar.manchester.ac.uk/learning-objects/sls/using-images-copyright/"
    },
 
      {
@@ -843,7 +843,7 @@
       "tags":[
          "copyright"
       ],
-      "link":"https://www.escholar.manchester.ac.uk/learning-objects/link/medium/sls/?slug=using-films-copyright&category=resource"
+      "link":"https://www.escholar.manchester.ac.uk/learning-objects/sls/using-films-copyright/"
    },
    {
       "featured":false,
@@ -853,7 +853,7 @@
       "tags":[
          "business data"
       ],
-      "link":"https://www.escholar.manchester.ac.uk/learning-objects/link/medium/sls/?slug=research-strat-podcast&category=resource"
+      "link":"https://www.escholar.manchester.ac.uk/learning-objects/sls/research-strat-podcast/"
    }
            
 ]
