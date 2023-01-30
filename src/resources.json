@@ -265,8 +265,7 @@
    },
 {
       "featured":false,
-      "title":"Preparing to use Eventus and converting the results
-RESUME",
+      "title":"Preparing to use Eventus and converting the results",
       "description":"In this post we show you how to form your data to use the Eventus event study tool, and how to access the data it returns.",
       "format":"Interactive guide",
       "tags":[
