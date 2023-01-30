@@ -265,13 +265,14 @@
    },
 {
       "featured":false,
-      "title":"Getting data in and out of Eventus",
+      "title":"Preparing to use Eventus and converting the results
+RESUME",
       "description":"In this post we show you how to form your data to use the Eventus event study tool, and how to access the data it returns.",
       "format":"Interactive guide",
       "tags":[
          "business data"
       ],
-      "link":"https://www.escholar.manchester.ac.uk/learning-objects/sls/eventus/"
+      "link":"https://www.escholar.manchester.ac.uk/learning-objects/sls/preparing-to-use-eventus/"
    },
 {
       "featured":false,
