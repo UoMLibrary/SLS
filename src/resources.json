@@ -667,17 +667,6 @@
       ],
       "link":"https://www.escholar.manchester.ac.uk/learning-objects/sls/research-mergers-eikon/"
    },
-       {
-      "featured":false,
-      "title":"Reshape data in Stata: long to wide",
-      "description":"In this post we will describe the difference between long and wide panel data, and how to convert from long to wide using the Stata statistical software.",
-      "format":"Interactive guide",
-      "tags":[
-         "business data",
-         "maths and stats"
-      ],
-      "link":"https://www.escholar.manchester.ac.uk/learning-objects/sls/reshape-data-stata/"
-   },
    {
       "featured":false,
       "title":"Running your statistical test in SPSS",
