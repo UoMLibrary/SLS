@@ -438,16 +438,6 @@
       ],
       "link":"https://www.escholar.manchester.ac.uk/learning-objects/sls/intro-bql/"
    },
-   {
-      "featured":false,
-      "title":"Introducing reference management tools",
-      "description":"In this post we will explore the reference management tools supported by University of Manchester Library.",
-      "format":"Interactive guide",
-      "tags":[
-         "referencing"
-      ],
-      "link":"https://www.escholar.manchester.ac.uk/learning-objects/sls/intro-ref-software/"
-   },
     {
       "featured":false,
       "title":"Introduction to data analysis with SAS Enterprise Guide",
