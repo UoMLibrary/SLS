@@ -120,17 +120,6 @@
       ],
       "link":"http://subjects.library.manchester.ac.uk/copyright"
    },
-{
-      "featured":false,
-      "title":"Creating a choropleth map using GeoPandas and financial data",
-      "description":"In this post we will be using Python and financial data from the WRDS database to create a choropleth map depicting the total revenue of different countries across the world.",
-      "format":"Interactive guide",
-      "tags":[
-         "business data",
-         "maths and stats"
-      ],
-      "link":"https://www.escholar.manchester.ac.uk/learning-objects/sls/choropleth-map-geopandas/"
-   },
  {
       "featured":false,
       "title":"Critical appraisal for medicine and health sciences",
