@@ -754,12 +754,22 @@
     {
       "featured":false,
       "title":"Trade and industry news",
-      "description":"In this podcast we explore the best resources available to you in the library for finding trade and industry news.",
-      "format":"Podcast",
+      "description":"In this guide we explore the best resources available to you in the library for finding trade and industry news.",
+      "format":"Interactive Guide",
       "tags":[
          "business data"
       ],
       "link":"https://www.escholar.manchester.ac.uk/learning-objects/sls/trade-news-intro/"
+   },
+       {
+      "featured":false,
+      "title":"Trade and industry news",
+      "description":"In this podcast we explore the best resources available to you in the library for finding trade and industry news.",
+      "format":"Interactive Guide",
+      "tags":[
+         "business data"
+      ],
+      "link":"https://www.escholar.manchester.ac.uk/learning-objects/sls/trade-news-podcast/"
    },
         {
       "featured":false,
