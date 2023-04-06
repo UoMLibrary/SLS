@@ -391,6 +391,16 @@
        ],
        "link":"https://www.escholar.manchester.ac.uk/learning-objects/sls/intro-bql/"
     },
+     {
+       "featured":false,
+       "title":"Introduction to Capital IQ",
+       "description":"In this post we will use Capital IQ to find company financial data and create custom lists of global quoted and private companies, transactions or people.",
+       "format":"Interactive guide",
+       "tags":[
+          "business data"
+       ],
+       "link":"https://www.escholar.manchester.ac.uk/learning-objects/sls/intro-capital-iq/"
+    },
     {
        "featured":false,
        "title":"Introduction to Datastream via Eikon",
