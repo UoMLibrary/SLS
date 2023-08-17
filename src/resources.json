@@ -197,16 +197,6 @@
     },
  {
        "featured":false,
-       "title":"Finding free to use images online",
-       "description":"In this post we will explore how you can find and use images without infringing on copyright law.",
-       "format":"Interactive guide",
-       "tags":[
-          "copyright"
-       ],
-       "link":"https://www.escholar.manchester.ac.uk/learning-objects/sls/using-images-copyright/"
-    },
- {
-       "featured":false,
        "title":"Formatting your references using EndNote 20 desktop",
        "description":"In this post we will explore how to format your references in EndNote desktop, including; changing your referencing style, using the ‘Cite while you write’ plugin, editing your citations, inserting a footnote and producing your reference list.",
        "format":"Interactive guide",
@@ -670,37 +660,6 @@
           "advanced searching"
        ],
        "link":"https://www.escholar.manchester.ac.uk/learning-objects/sls/using-frameworks-structure-search/"
-    },
-    {
-       "featured":false,
-       "title":"Using literary works: Copyright essentials for teaching",
-       "description":"In this post we will explore how you can safely use literature works in your teaching whilst adhering to copyright law.",
-       "format":"Interactive guide",
-       "tags":[
-          "copyright"
-       ],
-       "link":"https://www.escholar.manchester.ac.uk/learning-objects/sls/using-literary-works-copyright/"
-    },
-      {
-       "featured":false,
-       "title":"Using images in your teaching: Copyright essentials",
-       "description":"In this post we show you some of the ways you can use images in your teaching, particularly online, without infringing copyright.",
-       "format":"Interactive guide",
-       "tags":[
-          "copyright"
-       ],
-       "link":"https://www.escholar.manchester.ac.uk/learning-objects/sls/using-images-copyright/"
-    },
- 
-      {
-       "featured":false,
-       "title":"Using films and broadcasts: Copyright essentials for teaching",
-       "description":"In this post we show you some of the ways you can use video in your teaching, particularly online, without infringing copyright.",
-       "format":"Interactive guide",
-       "tags":[
-          "copyright"
-       ],
-       "link":"https://www.escholar.manchester.ac.uk/learning-objects/sls/using-films-copyright/"
     },
     {
        "featured":false,
