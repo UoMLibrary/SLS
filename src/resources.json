@@ -74,6 +74,16 @@
        ],
        "link":"https://www.escholar.manchester.ac.uk/learning-objects/sls/company-using-database/"
     },
+    {
+       "featured":false,
+       "title":"Copyright essentials for teaching",
+       "description":"In this post we will introduce you to the basics of copyright including using other peoples work, and getting permission.",
+       "format":"Interactive guide",
+       "tags":[
+          "copyright"
+       ],
+       "link":"https://www.escholar.manchester.ac.uk/learning-objects/sls/copyright-essentials-for-teaching"
+    },
      {
        "featured":false,
        "title":"Copyright for teaching materials: can I use it?",
@@ -214,16 +224,6 @@
           "business data"
        ],
        "link":"https://www.escholar.manchester.ac.uk/learning-objects/sls/preparing-to-use-eventus/"
-    },
- {
-       "featured":false,
-       "title":"Copyright essentials for teaching",
-       "description":"In this post we will introduce you to the basics of copyright including using other peoples work, and getting permission.",
-       "format":"Interactive guide",
-       "tags":[
-          "copyright"
-       ],
-       "link":"https://www.escholar.manchester.ac.uk/learning-objects/sls/copyright-essentials-for-teaching"
     },
  {
        "featured":false,
