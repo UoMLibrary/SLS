@@ -16,7 +16,7 @@
     
     {
        "featured":false,
-       "title":"EndNote Online",
+       "title":"Getting started with EndNote Online",
        "description":"This guide is useful for anyone wanting to use EndNote Online to collect, manage, and format references in order to cite and reference sources.",
        "format":"Interactive guide",
        "tags":[
@@ -176,36 +176,6 @@
        ],
        "link":"https://www.escholar.manchester.ac.uk/learning-objects/sls/endnote-online-playlist/"
     },
-       {
-       "featured":false,
-       "title":"EndNote online: collecting references",
-       "description":"In this post you will learn how to collect references and import them into your EndNote Online library.",
-       "format":"Interactive guide",
-       "tags":[
-          "referencing"
-       ],
-       "link":"https://www.escholar.manchester.ac.uk/learning-objects/sls/endnote-online-collecting/"
-    },
-    {
-       "featured":false,
-       "title":"EndNote online: formatting your references",
-       "description":"In this post we explore how you can format your references in Word using EndNote online. Including inserting footnotes, changing your referencing style and inserting citations as you write.",
-       "format":"Interactive guide",
-       "tags":[
-          "referencing"
-       ],
-       "link":"https://www.escholar.manchester.ac.uk/learning-objects/sls/endnote-online-formatting/"
-    },
-      {
-       "featured":false,
-       "title":"EndNote online: organising your references",
-       "description":"In this post you will learn how to organise your references by creating groups, removing duplicates and managing your attachments in EndNote online.",
-       "format":"Interactive guide",
-       "tags":[
-          "referencing"
-       ],
-       "link":"https://www.escholar.manchester.ac.uk/learning-objects/sls/endnote-online-organising/"
-    },
      {
        "featured":false,
        "title":"Fame video tutorials",
@@ -246,16 +216,7 @@
        ],
        "link":"https://www.escholar.manchester.ac.uk/learning-objects/sls/started-endnote-20-desktop/"
     },
- {
-       "featured":false,
-       "title":"Getting started with EndNote online",
-       "description":"This post is useful for anyone wanting to use EndNote online to manage references, cite and reference sources.",
-       "format":"Interactive guide",
-       "tags":[
-          "referencing"
-       ],
-       "link":"https://www.escholar.manchester.ac.uk/learning-objects/sls/started-endnote-online/"
-    },
+
  {
        "featured":false,
        "title":"Getting started with reference management with Mendeley",
