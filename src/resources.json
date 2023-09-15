@@ -13,6 +13,17 @@
        ],
        "link":"https://www.escholar.manchester.ac.uk/learning-objects/sls/sls-youtube-channel/"
     },
+    
+    {
+       "featured":false,
+       "title":"EndNote Online",
+       "description":"This guide is useful for anyone wanting to use EndNote Online to collect, manage, and format references in order to cite and reference sources.",
+       "format":"Interactive guide",
+       "tags":[
+          "referencing",
+       ],
+       "link":"https://www.escholar.manchester.ac.uk/learning-objects/sls/endnote-online/"
+    },
     {
        "featured":false,
        "title":"Advanced search: making use of Boolean operators",
