@@ -1,19 +1,4 @@
-[
-    {
-       "featured":true,
-       "title":"Specialist Library Support YouTube channel",
-       "description":"The Specialist Library Support YouTube channel includes video tutorials to help you get started with referencing and statistical software.",
-       "format":"Video",
-       "tags":[
-          "business data",
-          "referencing",
-          "advanced searching",
-          "systematic review",
-          "copyright"
-       ],
-       "link":"https://www.escholar.manchester.ac.uk/learning-objects/sls/sls-youtube-channel/"
-    },
-    
+[   
     {
        "featured":false,
        "title":"Getting started with EndNote Online",
@@ -47,7 +32,7 @@
     },
        {
        "featured":false,
-       "title":"Business and Management literature podcast 🔊",
+       "title":"🔊 Business and Management literature podcast",
        "description":"In this podcast explore the resources available to you covering business and management from the Library.",
        "format":"Podcast",
        "tags":[
@@ -67,7 +52,7 @@
     },
  {
        "featured":false,
-       "title":"Company and Financial information: choosing a database",
+       "title":"🔊 Company and Financial information: choosing a database",
        "description":"In this podcast we explore the titles and coverage of some of the most specialist financial and business databases available to you in the Library.",
        "format":"Podcast",
        "tags":[
@@ -77,7 +62,7 @@
     },
  {
        "featured":false,
-       "title":"Company and Financial information: using databases",
+       "title":"🔊 Company and Financial information: using databases",
        "description":"In this podcast we explore the various specialist financial and business databases that are available to you in the Library. Including accessing, combining, and using their data.",
        "format":"Podcast",
        "tags":[
@@ -138,7 +123,7 @@
     },
     {
        "featured":false,
-       "title":"Economic and demographic data",
+       "title":"🔊 Economic and demographic data",
        "description":"In this podcast we explore economic and demographic sources that are available to you in the library.",
        "format":"Podcast",
        "tags":[
@@ -155,36 +140,6 @@
           "business data"
        ],
        "link":"https://www.escholar.manchester.ac.uk/learning-objects/sls/economic-databases/"
-    },
-  {
-       "featured":false,
-       "title":"EndNote 20 desktop video tutorials",
-       "description":"This video playlist will take you through the essential steps to using EndNote 20 desktop software for managing your references. ",
-       "format":"Video",
-       "tags":[
-          "referencing"
-       ],
-       "link":"https://www.escholar.manchester.ac.uk/learning-objects/sls/endnote-20-playlist/"
-    },
- {
-       "featured":false,
-       "title":"EndNote online video tutorials",
-       "description":"This video playlist will take you through the essential steps to using EndNote online software for managing your references. ",
-       "format":"Video",
-       "tags":[
-          "referencing"
-       ],
-       "link":"https://www.escholar.manchester.ac.uk/learning-objects/sls/endnote-online-playlist/"
-    },
-     {
-       "featured":false,
-       "title":"Fame video tutorials",
-       "description":"In this playlist we show you how to researching companies in the United Kingdom and Republic of Ireland using the Fame database.",
-       "format":"Video",
-       "tags":[
-          "business data"
-         ],
-       "link":"https://www.escholar.manchester.ac.uk/learning-objects/sls/fame-playlist/"
     },
  {
        "featured":false,
@@ -315,7 +270,7 @@
     },
     {
        "featured":false,
-       "title":"Introduction to AMBS Dissertation support",
+       "title":"🔊 Introduction to AMBS Dissertation support",
        "description":"In this podcast we will introduce you what is covered in our podcast series to support your research for your dissertation or final project.",
        "format":"Podcast",
        "tags":[
@@ -500,7 +455,7 @@
     },
     {
        "featured":false,
-       "title":"Market and sector research",
+       "title":"🔊 Market and sector research",
        "description":"In this podcast we will explore what databases and resources are available to you on market and sector information.",
        "format":"Podcast",
        "tags":[
@@ -584,7 +539,7 @@
     },
      {
        "featured":false,
-       "title":"Trade and industry news",
+       "title":"🔊 Trade and industry news",
        "description":"In this podcast we explore the best resources available to you in the library for finding trade and industry news.",
        "format":"Podcast",
        "tags":[
@@ -625,7 +580,7 @@
     },
     {
        "featured":false,
-       "title":"Your research strategy",
+       "title":"🔊 Your research strategy",
        "description":"In this podcast we explore a best practice approach for creating an effective research strategy.",
        "format":"Podcast",
        "tags":[
