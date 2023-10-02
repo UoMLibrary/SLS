@@ -11,6 +11,16 @@
     },
     {
        "featured":false,
+       "title":"Getting started with EndNote 20 Desktop",
+       "description":"This guide is useful for anyone wanting to use EndNote 20 Desktop to collect, manage, and format references in order to cite and reference sources.",
+       "format":"Interactive guide",
+       "tags":[
+          "referencing"
+       ],
+       "link":"https://www.escholar.manchester.ac.uk/learning-objects/sls/endnote-20-desktop/"
+    },
+    {
+       "featured":false,
        "title":"Advanced search: making use of Boolean operators",
        "description":"In this post we will introduce you to Boolean operators, to help you find the most relevant results in your literature search.",
        "format":"Interactive guide",
