@@ -1,6 +1,16 @@
 [   
     {
        "featured":false,
+       "title":"Library support for business data",
+       "description":"In this guide you will find support links for various topics relating to business data. Use the links at the top to navigate to each topic and access guides, podcasts, videos and workshops.",
+       "format":"Interactive guide",
+       "tags":[
+          "business data"
+       ],
+       "link":"https://www.escholar.manchester.ac.uk/learning-objects/sls/business-data-support/"
+    },
+    {
+       "featured":false,
        "title":"Getting started with EndNote Online",
        "description":"This guide is useful for anyone wanting to use EndNote Online to collect, manage, and format references in order to cite and reference sources.",
        "format":"Interactive guide",
