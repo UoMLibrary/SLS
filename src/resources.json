@@ -255,17 +255,7 @@
        ],
        "link":"https://www.escholar.manchester.ac.uk/learning-objects/sls/save-search-ebsco/"
     },
-     {
-       "featured":false,
-       "title":"How to save your search in OVID",
-       "description":"In this post we will show you how to create an account and save your searches in OVID.",
-       "format":"Interactive guide",
-       "tags":[
-          "systematic review",
-          "advanced searching"
-       ],
-       "link":"https://www.escholar.manchester.ac.uk/learning-objects/sls/save-search-ovid/"
-    },
+
      {
        "featured":false,
        "title":"How to save your search in Proquest",
@@ -401,17 +391,6 @@
     },  
      {
        "featured":false,
-       "title":"Introduction to the Ovid platform using PsycInfo",
-       "description":"In this post we will show you how to search for literature in OVID databases, including using key tools such mapping terms to subject headings.",
-       "format":"Interactive guide",
-       "tags":[
-          "systematic review",
-          "advanced searching"
-       ],
-       "link":"https://www.escholar.manchester.ac.uk/learning-objects/sls/intro-ovid-psychinfo/"
-    },
-     {
-       "featured":false,
        "title":"Introduction to the Proquest platform using ASSIA",
        "description":"In this post we will introduce you to carrying out a literature search within the ASSIA database.",
        "format":"Interactive guide",
@@ -442,18 +421,7 @@
        ],
        "link":"https://www.escholar.manchester.ac.uk/learning-objects/sls/intro-wos"
     },
-  {
-       "featured":false,
-       "title":"Locating missing articles in OVID medical databases",
-       "description":"In this post we will explore how you can locate missing articles in OVID databases such as Medline, Embase and PsycInfo.",
-       "format":"Interactive guide",
-       "tags":[
-          "systematic review",
-          "advanced searching"
-       ],
-       "link":"https://www.escholar.manchester.ac.uk/learning-objects/sls/missing-articles-ovid/"
-    },
-    {
+      {
        "featured":false,
        "title":"Making use of MeSH and Suggested Subject Terms",
        "description":"In this post we will introduce you to MeSH, and Subject Search Terms to help maximise your search results.",
@@ -524,6 +492,17 @@
           "business data"
        ],
        "link":"https://www.escholar.manchester.ac.uk/learning-objects/sls/research-mergers-eikon/"
+    },
+     {
+       "featured":false,
+       "title":"Searching and exporting your results from OVID",
+       "description":"This resource will take you through how to search OVID effectively including using Medical Subject Headings, exporting your results for de-duplication and sharing your search strategy to request further help and support.",
+       "format":"Interactive guide",
+       "tags":[
+          "advanced searching",
+          "systematic review"
+       ],
+       "link":"https://www.escholar.manchester.ac.uk/learning-objects/copyright-students/"
     },
      {
        "featured":true,
