@@ -62,16 +62,6 @@
     },
  {
        "featured":false,
-       "title":"Collecting references using EndNote 20 desktop",
-       "description":"In this post we will show you how to add references to your EndNote desktop library from Library Search and popular databases. You will also learn how add to manual references and attach PDF’s to your references.",
-       "format":"Interactive guide",
-       "tags":[
-          "referencing"
-       ],
-       "link":"https://www.escholar.manchester.ac.uk/learning-objects/sls/endnote-20-desktop-collecting/"
-    },
- {
-       "featured":false,
        "title":"🔊 Company and Financial information: choosing a database",
        "description":"In this podcast we explore the titles and coverage of some of the most specialist financial and business databases available to you in the Library.",
        "format":"Podcast",
@@ -163,16 +153,6 @@
     },
  {
        "featured":false,
-       "title":"Formatting your references using EndNote 20 desktop",
-       "description":"In this post we will explore how to format your references in EndNote desktop, including; changing your referencing style, using the ‘Cite while you write’ plugin, editing your citations, inserting a footnote and producing your reference list.",
-       "format":"Interactive guide",
-       "tags":[
-          "referencing"
-       ],
-       "link":"https://www.escholar.manchester.ac.uk/learning-objects/sls/endnote-20-desktop-formatting/"
-    },
- {
-       "featured":false,
        "title":"Preparing to use Eventus and converting the results",
        "description":"In this post we show you how to form your data to use the Eventus event study tool, and how to access the data it returns.",
        "format":"Interactive guide",
@@ -181,28 +161,7 @@
        ],
        "link":"https://www.escholar.manchester.ac.uk/learning-objects/sls/preparing-to-use-eventus/"
     },
- {
-       "featured":false,
-       "title":"Getting started with EndNote 20 desktop",
-       "description":"In this post we will show you how to add references to your EndNote desktop library from Library Search and popular databases. You will also learn how add to manual references and attach PDF’s to your references.",
-       "format":"Interactive guide",
-       "tags":[
-          "referencing"
-       ],
-       "link":"https://www.escholar.manchester.ac.uk/learning-objects/sls/started-endnote-20-desktop/"
-    },
-
- {
-       "featured":false,
-       "title":"Getting started with reference management with Mendeley",
-       "description":"In this post you will learn how to collect, organise and use your references with Mendeley.",
-       "format":"Interactive guide",
-       "tags":[
-          "referencing"
-       ],
-       "link":"https://www.escholar.manchester.ac.uk/learning-objects/sls/started-mendeley/"
-    },  
- {
+  {
        "featured":false,
        "title":"Getting started with searching Bloomberg",
        "description":"In this post we will explore how to get started in searching Bloomberg for company information including financial analysis.",
