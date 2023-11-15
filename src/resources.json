@@ -50,36 +50,6 @@
        ],
        "link":"https://www.escholar.manchester.ac.uk/learning-objects/sls/business-literature/"
     },
-       {
-       "featured":false,
-       "title":"🔊 Business and Management literature podcast",
-       "description":"In this podcast explore the resources available to you covering business and management from the Library.",
-       "format":"Podcast",
-       "tags":[
-          "business data"
-       ],
-       "link":"https://www.escholar.manchester.ac.uk/learning-objects/sls/business-literature-podcast/"
-    },
- {
-       "featured":false,
-       "title":"🔊 Company and Financial information: choosing a database",
-       "description":"In this podcast we explore the titles and coverage of some of the most specialist financial and business databases available to you in the Library.",
-       "format":"Podcast",
-       "tags":[
-          "business data"
-       ],
-       "link":"https://www.escholar.manchester.ac.uk/learning-objects/sls/company-choosing-database/"
-    },
- {
-       "featured":false,
-       "title":"🔊 Company and Financial information: using databases",
-       "description":"In this podcast we explore the various specialist financial and business databases that are available to you in the Library. Including accessing, combining, and using their data.",
-       "format":"Podcast",
-       "tags":[
-          "business data"
-       ],
-       "link":"https://www.escholar.manchester.ac.uk/learning-objects/sls/company-using-database/"
-    },
     {
        "featured":false,
        "title":"Copyright essentials for teaching",
@@ -130,16 +100,6 @@
           "systematic review"
        ],
        "link":"https://www.escholar.manchester.ac.uk/learning-objects/sls/critical-appraisal-hs/"
-    },
-    {
-       "featured":false,
-       "title":"🔊 Economic and demographic data",
-       "description":"In this podcast we explore economic and demographic sources that are available to you in the library.",
-       "format":"Podcast",
-       "tags":[
-          "business data"
-       ],
-       "link":"https://www.escholar.manchester.ac.uk/learning-objects/sls/economic-data/"
     },
  {
        "featured":false,
@@ -236,16 +196,6 @@
           "advanced searching"
        ],
        "link":"https://www.escholar.manchester.ac.uk/learning-objects/sls/save-search-wos/"
-    },
-    {
-       "featured":false,
-       "title":"🔊 Introduction to AMBS Dissertation support",
-       "description":"In this podcast we will introduce you what is covered in our podcast series to support your research for your dissertation or final project.",
-       "format":"Podcast",
-       "tags":[
-          "business data"
-       ],
-       "link":"https://www.escholar.manchester.ac.uk/learning-objects/sls/intro-ambs-dissertation/"
     },
  {
        "featured":false,
@@ -400,17 +350,7 @@
        ],
        "link":"https://www.escholar.manchester.ac.uk/learning-objects/sls/market-research-databases/"
     },
-    {
-       "featured":false,
-       "title":"🔊 Market and sector research",
-       "description":"In this podcast we will explore what databases and resources are available to you on market and sector information.",
-       "format":"Podcast",
-       "tags":[
-          "business data"
-       ],
-       "link":"https://www.escholar.manchester.ac.uk/learning-objects/sls/market-sector-podcast/"
-    },
-    {
+        {
        "featured":false,
        "title":"Planning your systematic review",
        "description":"In this post we will explore how to get started with your systematic review including planning and refining your search terms.",
@@ -495,17 +435,7 @@
        ],
        "link":"https://www.escholar.manchester.ac.uk/learning-objects/sls/organising-keywords/"
     },
-     {
-       "featured":false,
-       "title":"🔊 Trade and industry news",
-       "description":"In this podcast we explore the best resources available to you in the library for finding trade and industry news.",
-       "format":"Podcast",
-       "tags":[
-          "business data"
-       ],
-       "link":"https://www.escholar.manchester.ac.uk/learning-objects/sls/trade-news-podcast/"
-    },
-         {
+             {
        "featured":false,
        "title":"Trade and Industry news: an introduction",
        "description":"In this post we will explore what Trade and Industry news is and where you can look to find up to date information for your assignments.",
@@ -535,16 +465,5 @@
           "advanced searching"
        ],
        "link":"https://www.escholar.manchester.ac.uk/learning-objects/sls/using-frameworks-structure-search/"
-    },
-    {
-       "featured":false,
-       "title":"🔊 Your research strategy",
-       "description":"In this podcast we explore a best practice approach for creating an effective research strategy.",
-       "format":"Podcast",
-       "tags":[
-          "business data"
-       ],
-       "link":"https://www.escholar.manchester.ac.uk/learning-objects/sls/research-strat-podcast/"
-    }
-            
+    }          
  ]
