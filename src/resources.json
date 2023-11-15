@@ -1,6 +1,6 @@
 [   
     {
-       "featured":false,
+       "featured":true,
        "title":"Library support for business data",
        "description":"In this guide you will find support links for various topics relating to business data. Use the links at the top to navigate to each topic and access guides, podcasts, videos and workshops.",
        "format":"Interactive guide",
