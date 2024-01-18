@@ -237,17 +237,7 @@
        ],
        "link":"https://www.escholar.manchester.ac.uk/learning-objects/sls/intro-capital-iq/"
     },
-    {
-       "featured":false,
-       "title":"Introduction to Datastream via Eikon",
-       "description":"In this post we introduce the Datastream application and Excel add-in then show you how to find company financial data, economic data and create custom lists of companies.",
-       "format":"Interactive guide",
-       "tags":[
-          "business data"
-       ],
-       "link":"https://www.escholar.manchester.ac.uk/learning-objects/sls/intro-datastream-eikon/"
-    },
-    {
+        {
        "featured":false,
        "title":"Introduction to the EBSCO platform using CINAHL",
        "description":"In this post we will show you how to search for literature in CINAHL, including key functionalities such as combining your previous searches. ",
@@ -258,27 +248,7 @@
        ],
        "link":"https://www.escholar.manchester.ac.uk/learning-objects/sls/intro-ebsco-cinahl/"
     },
-    {
-       "featured":false,
-       "title":"Introduction to Eikon reports",
-       "description":"In this post we show you how to find company and industry reports and filings in the Eikon database.",
-       "format":"Interactive guide",
-       "tags":[
-          "business data"
-       ],
-       "link":"https://www.escholar.manchester.ac.uk/learning-objects/sls/intro-eikon-reports/"
-    },
-    {
-       "featured":false,
-       "title":"Introduction to Eikon financial statements",
-       "description":"In this post we show you how to find company financial and price data in the Eikon database.",
-       "format":"Interactive guide",
-       "tags":[
-          "business data"
-       ],
-       "link":"https://www.escholar.manchester.ac.uk/learning-objects/sls/intro-eikon-fs/"
-    },
-    {
+        {
        "featured":false,
        "title":"Introduction to Health Science databases",
        "description":"In this resource we will identify the key functionalities of various health science database platforms and how you can use their tools to broaden your search terms.",
