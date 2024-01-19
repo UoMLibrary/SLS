@@ -1,5 +1,16 @@
 [   
-    {
+   {
+      "featured":true,
+      "title":"Referencing Guide at The University of Manchester",
+      "description":"This guide will help you to find out about how to correctly reference as part of academic writing here at the University of Manchester.",
+      "format":"Interactive guide",
+      "tags":[
+         "referencing",
+         "reference management"
+      ],
+   "link":"http://subjects.library.manchester.ac.uk/referencing"
+   },
+{
        "featured":true,
        "title":"Library support for business data",
        "description":"In this guide you will find support links for various topics relating to business data. Use the links at the top to navigate to each topic and access guides, podcasts, videos and workshops.",
