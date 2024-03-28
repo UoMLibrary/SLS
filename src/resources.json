@@ -141,6 +141,16 @@
          ],
        "link":"https://www.education.library.manchester.ac.uk/sls/started-bloomberg-anywhere/"
     },
+   {
+       "featured":false,
+       "title":"Getting started with Capital IQ Pro",
+       "description":"In this post we will explore how to get started with using Capital IQ Pro for finding worldwide private company data.",
+       "format":"Interactive guide",
+       "tags":[
+          "business data"
+         ],
+       "link":"https://education.library.manchester.ac.uk/sls/getting-started-with-capital-iq-pro/"
+    },
  {
        "featured":false,
        "title":"Getting started with searching Fame",
