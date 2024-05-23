@@ -444,16 +444,6 @@
           "business data"
        ],
        "link":"https://www.education.library.manchester.ac.uk/sls/trade-news-find-publications/"
-    }, 
-    {
-       "featured":false,
-       "title":"Using frameworks to structure your search",
-       "description":"In this post we will introduce you to PICO, PECO and SPIDER structured search frameworks. We explore what they are, why they are useful, and how to decide which framework you should use.",
-       "format":"Interactive guide",
-       "tags":[
-          "systematic review",
-          "advanced searching"
-       ],
-       "link":"https://www.education.library.manchester.ac.uk/sls/using-frameworks-structure-search/"
-    }          
+    }
+
  ]
