@@ -61,6 +61,17 @@
        "link":"https://www.education.library.manchester.ac.uk/sls/business-literature/"
     },
     {
+        "featured":false,
+        "title":"Conducting your systematic review",
+        "description":"In this guide we explore each stage of carrying out a systematic review from forming and refining your question to managing and reporting your relsults.",
+        "format":"Interactive guide",
+        "tags":[
+            "advanced searching",
+            "systematic review"
+        ],
+        "link":"https://www.education.library.manchester.ac.uk/sls/conducting-your-systematic-review/"
+     },
+    {
        "featured":false,
        "title":"Copyright essentials for teaching",
        "description":"In this guide we will introduce you to the basics of copyright including using other people’s work, getting permission, and how you can safely use literary works, images, and video in your teaching whilst adhering to copyright law.",
