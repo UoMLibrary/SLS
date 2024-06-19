@@ -21,26 +21,6 @@
     },
     {
        "featured":false,
-       "title":"Getting started with EndNote Online",
-       "description":"This guide is useful for anyone wanting to use EndNote Online to collect, manage, and format references in order to cite and reference sources.",
-       "format":"Interactive guide",
-       "tags":[
-          "reference management"
-       ],
-       "link":"https://www.education.library.manchester.ac.uk/sls/endnote-online/"
-    },
-    {
-       "featured":false,
-       "title":"Getting started with EndNote 20 Desktop",
-       "description":"This guide is useful for anyone wanting to use EndNote 20 Desktop to collect, manage, and format references in order to cite and reference sources.",
-       "format":"Interactive guide",
-       "tags":[
-          "reference management"
-       ],
-       "link":"https://www.education.library.manchester.ac.uk/sls/endnote-20-desktop/"
-    },
-    {
-       "featured":false,
        "title":"Advanced search: making use of Boolean operators",
        "description":"In this post we will introduce you to Boolean operators, to help you find the most relevant results in your literature search.",
        "format":"Interactive guide",
@@ -49,16 +29,6 @@
           "advanced searching"
        ],
        "link":"https://www.education.library.manchester.ac.uk/sls/boolean-operators/"
-    },
-    {
-       "featured":false,
-       "title":"Business and Management literature",
-       "description":"In this post explore the resources available to you covering business and management from the Library.",
-       "format":"Interactive guide",
-       "tags":[
-          "business data"
-       ],
-       "link":"https://www.education.library.manchester.ac.uk/sls/business-literature/"
     },
     {
         "featured":false,
@@ -122,17 +92,7 @@
        ],
        "link":"https://www.education.library.manchester.ac.uk/sls/critical-appraisal-hs/"
     },
- {
-       "featured":false,
-       "title":"Economic and demographic databases",
-       "description":"In this post we will explore the key databases and sources for economic and demographic data where you can find up to date information for your assignments.",
-       "format":"Interactive guide",
-       "tags":[
-          "business data"
-       ],
-       "link":"https://www.education.library.manchester.ac.uk/sls/economic-databases/"
-    },
- {
+  {
        "featured":false,
        "title":"Preparing to use Eventus and converting the results",
        "description":"In this post we show you how to form your data to use the Eventus event study tool, and how to access the data it returns.",
@@ -162,6 +122,26 @@
          ],
        "link":"https://education.library.manchester.ac.uk/sls/getting-started-with-capital-iq-pro/"
     },
+   {
+       "featured":false,
+       "title":"Getting started with EndNote Online",
+       "description":"This guide is useful for anyone wanting to use EndNote Online to collect, manage, and format references in order to cite and reference sources.",
+       "format":"Interactive guide",
+       "tags":[
+          "reference management"
+       ],
+       "link":"https://www.education.library.manchester.ac.uk/sls/endnote-online/"
+    },
+    {
+       "featured":false,
+       "title":"Getting started with EndNote 20 Desktop",
+       "description":"This guide is useful for anyone wanting to use EndNote 20 Desktop to collect, manage, and format references in order to cite and reference sources.",
+       "format":"Interactive guide",
+       "tags":[
+          "reference management"
+       ],
+       "link":"https://www.education.library.manchester.ac.uk/sls/endnote-20-desktop/"
+    },
  {
        "featured":false,
        "title":"Getting started with searching Fame",
@@ -171,6 +151,16 @@
           "business data"
          ],
        "link":"https://www.education.library.manchester.ac.uk/sls/getting-started-with-searching-fame/"
+    },
+    {
+       "featured":false,
+       "title":"Getting started searching for business data and literature",
+       "description":"In this guide, we explore where you can find various types of business data and literature for free using the University of Manchester Library.",
+       "format":"Interactive guide",
+       "tags":[
+          "business data"
+         ],
+       "link":"https://www.education.library.manchester.ac.uk/sls/getting-started-searching-for-business-data-and-literature/#/"
     },
     {
        "featured":false,
@@ -278,17 +268,7 @@
        ],
        "link":"https://www.education.library.manchester.ac.uk/sls/intro-hs-databases/"
     },
-    {
-       "featured":false,
-       "title":"Introduction to mergers and acquisitions",
-       "description":"In this post we will give you a brief introduction to the key concepts required to take our workshops about finding historical deals.",
-       "format":"Interactive guide",
-       "tags":[
-          "business data"
-       ],
-       "link":"https://www.education.library.manchester.ac.uk/sls/intro-mergers-aquisitions/"
-    },  
-     {
+         {
        "featured":false,
        "title":"Introduction to the Proquest platform using ASSIA",
        "description":"In this post we will introduce you to carrying out a literature search within the ASSIA database.",
@@ -330,16 +310,6 @@
        ],
        "link":"https://www.education.library.manchester.ac.uk/sls/making-mesh-sst"
     },
-      {
-       "featured":false,
-       "title":"Market research databases",
-       "description":"In this post we will look at a number of useful databases, and explore how you can easily begin navigating them to get access to the information that you need.",
-       "format":"Interactive guide",
-       "tags":[
-          "business data"
-       ],
-       "link":"https://www.education.library.manchester.ac.uk/sls/market-research-databases/"
-    },
     {
        "featured":false,
        "title":"Proximity searching in databases",
@@ -351,17 +321,7 @@
        ],
        "link":"https://www.education.library.manchester.ac.uk/sls/proximity-searching-databases"
     },
-       {
-       "featured":false,
-       "title":"Researching company information",
-       "description":"In this post we will describe the differences between quoted and private companies. We will explain what kind of information you can find about them and their directors.",
-       "format":"Interactive guide",
-       "tags":[
-          "business data"
-       ],
-       "link":"https://www.education.library.manchester.ac.uk/sls/research-company-info/"
-    },
-    {
+         {
        "featured":false,
        "title":"Researching mergers and acquisitions in Eikon",
        "description":"In this post we introduce the Eikon database then show you how to find specific deals and create lists of mergers and acquisitions.",
@@ -413,26 +373,5 @@
           "advanced searching"
        ],
        "link":"https://www.education.library.manchester.ac.uk/sls/organising-keywords/"
-    },
-             {
-       "featured":false,
-       "title":"Trade and Industry news: an introduction",
-       "description":"In this post we will explore what Trade and Industry news is and where you can look to find up to date information for your assignments.",
-       "format":"Interactive guide",
-       "tags":[
-          "business data"
-       ],
-       "link":"https://www.education.library.manchester.ac.uk/sls/trade-news-intro/"
-    },
-    {
-       "featured":false,
-       "title":"Trade and industry news: finding specific publications",
-       "description":"In this post we will explore what the key sources and databases which host Trade and Industry news. Including tips for finding general and company specific information.",
-       "format":"Interactive guide",
-       "tags":[
-          "business data"
-       ],
-       "link":"https://www.education.library.manchester.ac.uk/sls/trade-news-find-publications/"
-    }
-
+    }         
  ]
