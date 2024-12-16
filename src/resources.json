@@ -342,6 +342,17 @@
        ],
        "link":"https://www.education.library.manchester.ac.uk/sls/search-export-ovid/"
     },
+    {
+      "featured":false,
+      "title":"Searching systematically",
+      "description":"In this guide you will explore four databases which will help you to find and refine your results to helping you through the process of searching systematically.",
+      "format":"Interactive guide",
+      "tags":[
+         "advanced searching",
+         "systematic review"
+      ],
+      "link":"https://education.library.manchester.ac.uk/sls/searching-systematically/index.html"
+   },
      {
        "featured":true,
        "title":"Library support for Advanced searching",
