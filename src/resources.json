@@ -134,13 +134,13 @@
     },
     {
        "featured":false,
-       "title":"Getting started with EndNote 20 Desktop",
-       "description":"This guide is useful for anyone wanting to use EndNote 20 Desktop to collect, manage, and format references in order to cite and reference sources.",
+       "title":"Getting started with EndNote Desktop",
+       "description":"This guide is useful for anyone wanting to use EndNote Desktop to collect, manage, and format references in order to cite and reference sources.",
        "format":"Interactive guide",
        "tags":[
           "reference management"
        ],
-       "link":"https://www.education.library.manchester.ac.uk/sls/endnote-20-desktop/"
+       "link":"https://www.education.library.manchester.ac.uk/sls/endnote-desktop/"
     },
  {
        "featured":false,
