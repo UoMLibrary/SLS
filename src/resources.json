@@ -173,41 +173,7 @@
        ],
        "link":"https://www.education.library.manchester.ac.uk/sls/glossary-searching/"
     },
-     {
-       "featured":false,
-       "title":"How to save your search in EBSCO",
-       "description":"In this post we will show you how to create an account and save your searches in EBSCO.",
-       "format":"Interactive guide",
-       "tags":[
-          "systematic review",
-          "advanced searching"
-       ],
-       "link":"https://www.education.library.manchester.ac.uk/sls/save-search-ebsco/"
-    },
-
-     {
-       "featured":false,
-       "title":"How to save your search in Proquest",
-       "description":"In this post we will show you how to create an account and save your searches in Proquest.",
-       "format":"Interactive guide",
-       "tags":[
-          "systematic review",
-          "advanced searching"
-       ],
-       "link":"https://www.education.library.manchester.ac.uk/sls/save-search-proquest/"
-    },
- {
-       "featured":false,
-       "title":"How to save your search in Web of Science",
-       "description":"In this post we will show you how to create an account and save your searches within Web of Science.",
-       "format":"Interactive guide",
-       "tags":[
-          "systematic review",
-          "advanced searching"
-       ],
-       "link":"https://www.education.library.manchester.ac.uk/sls/save-search-wos/"
-    },
- {
+  {
        "featured":false,
        "title":"Introduction to Bloomberg",
        "description":"In this post we introduce the Bloomberg terminal and keyboard then show you how to find company financial data, news and screen for custom lists of companies.",
@@ -247,27 +213,6 @@
        ],
        "link":"https://www.education.library.manchester.ac.uk/sls/intro-capital-iq/"
     },
-        {
-       "featured":false,
-       "title":"Introduction to the EBSCO platform using CINAHL",
-       "description":"In this post we will show you how to search for literature in CINAHL, including key functionalities such as combining your previous searches. ",
-       "format":"Interactive guide",
-       "tags":[
-          "systematic review",
-          "advanced searching"
-       ],
-       "link":"https://www.education.library.manchester.ac.uk/sls/intro-ebsco-cinahl/"
-    },
-        {
-       "featured":false,
-       "title":"Introduction to Health Science databases",
-       "description":"In this resource we will identify the key functionalities of various health science database platforms and how you can use their tools to broaden your search terms.",
-       "format":"Interactive guide",
-       "tags":[
-          "systematic review"
-       ],
-       "link":"https://www.education.library.manchester.ac.uk/sls/intro-hs-databases/"
-    },
          {
        "featured":false,
        "title":"Introduction to the Proquest platform using ASSIA",
@@ -301,16 +246,6 @@
        "link":"https://www.education.library.manchester.ac.uk/sls/intro-wos"
     },
       {
-       "featured":false,
-       "title":"Making use of MeSH and Suggested Subject Terms",
-       "description":"In this post we will introduce you to MeSH, and Subject Search Terms to help maximise your search results.",
-       "format":"Interactive guide",
-       "tags":[
-          "systematic review"
-       ],
-       "link":"https://www.education.library.manchester.ac.uk/sls/making-mesh-sst"
-    },
-    {
        "featured":false,
        "title":"Proximity searching in databases",
        "description":"In this post you will learn how proximity searching can help you return more relevant results.",
