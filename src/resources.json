@@ -232,7 +232,7 @@
        "tags":[
           "business data"
        ],
-       "link":"https://www.education.library.manchester.ac.uk/sls/intro-sdc"
+       "link":"https://www.education.library.manchester.ac.uk/sls/intro-sdc/"
     },
      {
        "featured":false,
@@ -243,7 +243,7 @@
           "systematic review",
           "advanced searching"
        ],
-       "link":"https://www.education.library.manchester.ac.uk/sls/intro-wos"
+       "link":"https://www.education.library.manchester.ac.uk/sls/intro-wos/"
     },
       {
        "featured":false,
@@ -254,7 +254,7 @@
           "systematic review",
           "advanced searching"
        ],
-       "link":"https://www.education.library.manchester.ac.uk/sls/proximity-searching-databases"
+       "link":"https://www.education.library.manchester.ac.uk/sls/proximity-searching-databases/"
     },
     {
       "featured":false,
@@ -265,7 +265,18 @@
          "advanced searching",
          "systematic review"
       ],
-      "link":"https://education.library.manchester.ac.uk/sls/searching-systematically/index.html"
+      "link":"https://education.library.manchester.ac.uk/sls/searching-systematically/"
+   },
+   {
+      "featured":false,
+      "title":"Searching and exporting your results from OVID",
+      "description":"This guide will take you through how to search OVID effectively including using Medical Subject Headings, exporting your results for de-duplication and sharing your search strategy to request further help and support.",
+      "format":"Interactive guide",
+      "tags":[
+         "advanced searching",
+         "systematic review"
+      ],
+      "link":"https://www.education.library.manchester.ac.uk/sls/search-export-ovid/"
    },
      {
        "featured":true,
