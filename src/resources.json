@@ -1,6 +1,18 @@
 [   
    {
       "featured":true,
+      "title":"Microsoft 365 Fundamentals Certification",
+      "description":"The University of Manchester is providing students with the opportunity to study for and receive a Microsoft 365 Fundamentals Certification professional certifications free-of-charge. This guide contains all of the information you will need to prepare and take an exam. ",
+      "duration":"",
+      "format":"Interactive guide",
+      "link":"https://www.education.library.manchester.ac.uk/digital-skills/exams/microsoft-fundamentals/",
+      "tags":[
+         "my future",
+         "digital skills"
+      ]
+   },
+   {
+      "featured":true,
       "title":"Referencing Guide at The University of Manchester",
       "description":"This guide will help you to find out about how to correctly reference as part of academic writing here at the University of Manchester.",
       "format":"Interactive guide",
