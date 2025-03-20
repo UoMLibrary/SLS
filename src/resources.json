@@ -21,6 +21,27 @@
        ],
        "link":"https://www.education.library.manchester.ac.uk/sls/packages/business-data-support/"
     },
+   {
+       "featured":false,
+       "title":"Library support for Advanced searching",
+       "description":"This set of resources will show you introduce you to medical and health sciences databases. It will help you with searching, refining and your results as well as accessing further support from experts.",
+       "format":"Interactive guide",
+       "tags":[
+          "advanced searching",
+          "systematic review"
+       ],
+       "link":"https://www.education.library.manchester.ac.uk/mle/packages/searching/advanced-searching.html"
+    },
+    {
+       "featured":false,
+       "title":"Library support for Referencing",
+       "description":"This set of resources will show you how to reference different types of sources in your assignments. It will help you to cite, paraphrase and manage your references using tools such as EndNote, Endnote online and Mendeley.",
+       "format":"Interactive guide",
+       "tags":[
+          "reference management"
+       ],
+       "link":"https://www.education.library.manchester.ac.uk/sls/packages/referencing/"
+    },
     {
        "featured":false,
        "title":"Advanced search: making use of Boolean operators",
@@ -280,27 +301,6 @@
       ],
       "link":"https://www.education.library.manchester.ac.uk/sls/search-export-ovid/"
    },
-     {
-       "featured":true,
-       "title":"Library support for Advanced searching",
-       "description":"This set of resources will show you introduce you to medical and health sciences databases. It will help you with searching, refining and your results as well as accessing further support from experts.",
-       "format":"Interactive guide",
-       "tags":[
-          "advanced searching",
-          "systematic review"
-       ],
-       "link":"https://www.education.library.manchester.ac.uk/mle/packages/searching/advanced-searching.html"
-    },
-    {
-       "featured":true,
-       "title":"Library support for Referencing",
-       "description":"This set of resources will show you how to reference different types of sources in your assignments. It will help you to cite, paraphrase and manage your references using tools such as EndNote, Endnote online and Mendeley.",
-       "format":"Interactive guide",
-       "tags":[
-          "reference management"
-       ],
-       "link":"https://www.education.library.manchester.ac.uk/sls/packages/referencing/"
-    },
         {
        "featured":false,
        "title":"Systematic review: organising your keywords and subject terms",
