@@ -127,13 +127,13 @@
     },
   {
        "featured":false,
-       "title":"Getting started with searching Bloomberg",
-       "description":"In this post we will explore how to get started in searching Bloomberg for company information including financial analysis.",
+       "title":"Using Bloomberg Professional",
+       "description":"This guide covers key topics for using Bloomberg Professional. It begins with using the Bloomberg terminal and keyboard to access company financial data, news, and custom company lists.",
        "format":"Interactive guide",
        "tags":[
           "business data"
          ],
-       "link":"https://www.education.library.manchester.ac.uk/sls/started-bloomberg-anywhere/"
+       "link":"https://education.library.manchester.ac.uk/sls/using-bloomberg-professional/#/"
     },
    {
        "featured":false,
@@ -196,79 +196,7 @@
        ],
        "link":"https://www.education.library.manchester.ac.uk/sls/glossary-searching/"
     },
-  {
-       "featured":false,
-       "title":"Introduction to Bloomberg",
-       "description":"In this post we introduce the Bloomberg terminal and keyboard then show you how to find company financial data, news and screen for custom lists of companies.",
-       "format":"Interactive guide",
-       "tags":[
-          "business data"
-       ],
-       "link":"https://www.education.library.manchester.ac.uk/sls/intro-bloomberg/"
-    },
- {
-       "featured":false,
-       "title":"Introduction to Bloomberg Excel add-in",
-       "description":"In this post we will describe how to set up the Bloomberg Excel add-in to perform structured, bulk data download.",
-       "format":"Interactive guide",
-       "tags":[
-          "business data"
-       ],
-       "link":"https://www.education.library.manchester.ac.uk/sls/intro-bloomberg-excel/"
-    },
     {
-       "featured":false,
-       "title":"Introduction to Bloomberg Query Language (BQL)",
-       "description":"In this post we will describe the new set of Bloomberg formulas called Bloomberg Query Language (BQL), and how using them can stop you from exceeding the monthly download limit in Excel.",
-       "format":"Interactive guide",
-       "tags":[
-          "business data"
-       ],
-       "link":"https://www.education.library.manchester.ac.uk/sls/intro-bql/"
-    },
-     {
-       "featured":false,
-       "title":"Introduction to Capital IQ",
-       "description":"In this post we will use Capital IQ to find company financial data and create custom lists of global quoted and private companies, transactions or people.",
-       "format":"Interactive guide",
-       "tags":[
-          "business data"
-       ],
-       "link":"https://www.education.library.manchester.ac.uk/sls/intro-capital-iq/"
-    },
-         {
-       "featured":false,
-       "title":"Introduction to the Proquest platform using ASSIA",
-       "description":"In this post we will introduce you to carrying out a literature search within the ASSIA database.",
-       "format":"Interactive guide",
-       "tags":[
-          "systematic review",
-          "advanced searching"
-       ],
-       "link":"https://www.education.library.manchester.ac.uk/sls/intro-proquest-assia/"
-    },
-    {
-       "featured":false,
-       "title":"Introduction to SDC Platinum",
-       "description":"In this post we introduce the SDC Platinum application then show you how to create lists of mergers and acquisitions deals.",
-       "format":"Interactive guide",
-       "tags":[
-          "business data"
-       ],
-       "link":"https://www.education.library.manchester.ac.uk/sls/intro-sdc/"
-    },
-     {
-       "featured":false,
-       "title":"Introduction to the Web of Science platform",
-       "description":"In this post we will introduce to searching for literature within the Web of Science database.",
-       "format":"Interactive guide",
-       "tags":[
-          "systematic review",
-          "advanced searching"
-       ],
-       "link":"https://www.education.library.manchester.ac.uk/sls/intro-wos/"
-    },
-      {
        "featured":false,
        "title":"Proximity searching in databases",
        "description":"In this post you will learn how proximity searching can help you return more relevant results.",
