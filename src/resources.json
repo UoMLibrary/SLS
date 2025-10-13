@@ -11,6 +11,18 @@
          "digital skills"
       ]
    },
+       {
+        "featured": true,
+        "title": "Library support for Digital Skills",
+        "description": "This guide brings together all the Library’s support for developing your digital skills. You’ll find resources to help you assess and improve your digital capabilities, explore LinkedIn Learning for expert-led courses, and understand how to use Artificial Intelligence ethically in your studies.",
+        "duration": "",
+        "format": "Interactive guide",
+        "link": "https://education.library.manchester.ac.uk/digital-skills/digital-skills-support/index.html",
+        "tags": [
+            "digital skills"
+        ]
+    },
+
 {
        "featured":false,
        "title":"Library support for Business Data",
