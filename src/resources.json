@@ -56,8 +56,8 @@
     },
     {
        "featured":false,
-       "title":"Advanced search: making use of Boolean operators",
-       "description":"In this post we will introduce you to Boolean operators, to help you find the most relevant results in your literature search.",
+       "title":"Searching effectively",
+       "description":"This guide introduces key strategies for refining search results, including keyword planning, Boolean operators, and advanced techniques for web and database searches. It also highlights how to evaluate sources for reliability and relevance, helping you to find trustworthy, high-quality information efficiently.",
        "format":"Interactive guide",
        "tags":[
           "systematic review",
@@ -208,17 +208,7 @@
        ],
        "link":"https://www.education.library.manchester.ac.uk/sls/glossary-searching/"
     },
-    {
-       "featured":false,
-       "title":"Proximity searching in databases",
-       "description":"In this post you will learn how proximity searching can help you return more relevant results.",
-       "format":"Interactive guide",
-       "tags":[
-          "systematic review",
-          "advanced searching"
-       ],
-       "link":"https://www.education.library.manchester.ac.uk/sls/proximity-searching-databases/"
-    },
+    
     {
       "featured":false,
       "title":"Searching systematically",
