@@ -194,17 +194,7 @@
     ],
     "link": "https://education.library.manchester.ac.uk/videos/searching-systematically/Ovid_how/"
   },
-  {
-    "featured": false,
-    "title": "Introduction to Business dissertation support",
-    "description": "Discover key resources, databases, and tips to create a well-rounded project with expert library support.",
-    "format": "Podcast",
-    "tags": [
-      "business data"
-    ],
-    "link": "https://soundcloud.com/uomlibrary/introduction-to-ambs-dissertation-support?si=d82718ea0ff744af8a13f89ab796cf02&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"
-  },
-  {
+   {
     "featured": false,
     "title": "How do I  use Ebsco",
     "description": "EBSCO platform and shows how to navigate and search effectively.",
@@ -272,26 +262,6 @@
   },
   {
     "featured": false,
-    "title": "Trade and industry news",
-    "description": "Find out how to access trade and industry news for free. This episode shows you how to use library tools like Factiva and FT.com to stay updated on global business trends and company developments.",
-    "format": "Podcast",
-    "tags": [
-      "business data"
-    ],
-    "link": "https://soundcloud.com/uomlibrary/trade-and-industry-news?si=2adda042a41f43e4b338a821e2f5b441&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"
-  },
-  {
-    "featured": false,
-    "title": "Economic and Demographic Data",
-    "description": "Find reliable stats and analysis for your research! Explore key databases like Statista and Passport for global trends and demographic insights.",
-    "format": "Podcast",
-    "tags": [
-      "business data"
-    ],
-    "link": "https://soundcloud.com/uomlibrary/economic-and-demographic-data?utm_source=clipboard&utm_campaign=wtshare&utm_medium=widget&utm_content=https%253A%252F%252Fsoundcloud.com%252Fuomlibrary%252Feconomic-and-demographic-data"
-  },
-  {
-    "featured": false,
     "title": "Creating A Stand Alone Bibliography In Word",
     "description": "Generating a bibliography from EndNote to Word and how to layout.",
     "format": "Video",
@@ -300,16 +270,6 @@
       "digital skills"
     ],
     "link": "https://education.library.manchester.ac.uk/videos/creating-a-stand-alone-bibliography-in-word/"
-  },
-  {
-    "featured": false,
-    "title": "Company and financial information: Choosing a database",
-    "description": "Get practical tips for using financial databases, managing large datasets, and avoiding common pitfalls with company identifiers.",
-    "format": "Podcast",
-    "tags": [
-      "business data"
-    ],
-    "link": "https://soundcloud.com/uomlibrary/company-and-financial-information-choosing-a-database?si=83617c74f1214bc7885cb4d9d136408a&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"
   },
   {
     "featured": false,
@@ -322,17 +282,7 @@
     ],
     "link": "https://education.library.manchester.ac.uk/videos/creating-groups-in-endnote-online/"
   },
-  {
-    "featured": false,
-    "title": "Searching For A Specific Company Within The Fame Database",
-    "description": "Guides you through pinpointing a company using names, codes or industry categories in FAME.",
-    "format": "Video",
-    "tags": [
-      "business data"
-    ],
-    "link": "https://education.library.manchester.ac.uk/videos/searching-for-a-specific-company-within-the-fame-database/"
-  },
-  {
+   {
     "featured": false,
     "title": "Bloomberg Financial Analysis Of A Company Using The Terminal",
     "description": "How to access and interpret a company’s financial data and reports on the Bloomberg Terminal.",
@@ -972,46 +922,7 @@
     ],
     "link": "https://education.library.manchester.ac.uk/videos/Capital-IQ-BMAN2-2-searching/Capital%20IQ%20BMAN2%202%20searching_player.html"
   },
-  {
-    "featured": false,
-    "title": "Market and sector information",
-    "description": "Learn how to access reliable market and sector research for your dissertation. This episode covers what market reports include, how to use library databases like Mintel and Euromonitor, and tips for interpreting and referencing data.",
-    "format": "Podcast",
-    "tags": [
-      "business data"
-    ],
-    "link": "https://soundcloud.com/uomlibrary/market-and-sector-information?si=e420a126bfc647efbe5544d7891bb2c6&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"
-  },
-  {
-    "featured": false,
-    "title": "Research Strategy",
-    "description": "Learn how to build a smart research plan! Break down your topic, choose the right sources, and master search techniques for your dissertation.",
-    "format": "Podcast",
-    "tags": [
-      "business data"
-    ],
-    "link": "https://soundcloud.com/uomlibrary/research-strategy?si=bb90d4db55fd4e5c9dd77757cc7218c3&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"
-  },
-  {
-    "featured": false,
-    "title": "Business and management literature",
-    "description": "Learn how to find the best business and management literature for your dissertation. This episode explains the difference between academic and practitioner sources, offers tips for searching books, journals, and databases, and highlights tools like Library Search and Google Scholar. Perfect for students aiming to build a strong, well-researched literature review.",
-    "format": "Podcast",
-    "tags": [
-      "business data"
-    ],
-    "link": "https://soundcloud.com/uomlibrary/business-and-managment-literature?si=028cfaffd30d443d8e9d148180670e22&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"
-  },
-  {
-    "featured": false,
-    "title": "Company and financial information: Using Databases",
-    "description": "Need company or market data? Learn which specialist databases to use; Bloomberg, Datastream, WRDS, and more, for accurate business research.",
-    "format": "Podcast",
-    "tags": [
-      "business data"
-    ],
-    "link": "https://soundcloud.com/uomlibrary/company-and-financial-information-using-databases?si=55d5fef5a156473494f72e9894f85c81&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"
-  },
+
   {
     "featured": false,
     "title": "How and why should I use the Ebsco platform",
