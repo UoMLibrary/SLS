@@ -1,793 +1,8 @@
 [
   {
     "featured": false,
-    "title": "Changing Your Referencing Style in Word and EndNote [video]",
-    "description": ".",
-    "format": "Video",
-    "tags": [
-      "reference management",
-      "digital skills"
-    ],
-    "link": "https://education.library.manchester.ac.uk/videos/changing-your-referencing-style-in-word-and-EndNote-20/"
-  },
-  {
-    "featured": false,
-    "title": "Editing Your Citations Within Word Using EndNote [video]",
-    "description": "A demonstration on editing citations within Microsoft Word, in conjunction with EndNote.",
-    "format": "Video",
-    "tags": [
-      "reference management",
-      "digital skills"
-    ],
-    "link": "https://education.library.manchester.ac.uk/videos/editing-your-citations-within-word-using-EndNote-20/"
-  },
-  {
-    "featured": false,
-    "title": "Editing Your Citations Within Word Using EndNote [video]",
-    "description": "A demonstration on editing citations within Microsoft Word, in conjunction with EndNote.",
-    "format": "Video",
-    "tags": [
-      "reference management",
-      "digital skills"
-    ],
-    "link": "https://education.library.manchester.ac.uk/videos/editing-your-citations-within-word-using-EndNote-20/"
-  },
-  {
-    "featured": false,
-    "title": "Adding a Reference Manually in EndNote Online [video]",
-    "description": "A Demonstration on Manual Reference Creation in EndNote Online.",
-    "format": "Video",
-    "tags": [
-      "reference management",
-      "digital skills"
-    ],
-    "link": "https://education.library.manchester.ac.uk/videos/adding-a-reference-manually-in-EndNote-online/"
-  },
-  {
-    "featured": false,
-    "title": "Using Google Scholar Off Campus [video]",
-    "description": "A demonstration of using Google Scholar off-campus.",
-    "format": "Video",
-    "tags": [
-      "advanced searching"
-    ],
-    "link": "https://education.library.manchester.ac.uk/videos/using-google-scholar-off-campus/"
-  },
-  {
-    "featured": false,
-    "title": "Using Jumpstart Links in Ovid [video]",
-    "description": "A demonstration of using jumpstart links in Ovid.",
-    "format": "Video",
-    "tags": [
-      "advanced searching"
-    ],
-    "link": "https://education.library.manchester.ac.uk/videos/using-jumpstart-links-in-ovid/"
-  },
-  {
-    "featured": false,
-    "title": "Accessing Database from Library [video]",
-    "description": "A guide on accessing databases from the library website.",
-    "format": "Video",
-    "tags": [
-      "advanced searching"
-    ],
-    "link": "https://education.library.manchester.ac.uk/videos/searching-systematically/Accessing_database_from_library/"
-  },
-  {
-    "featured": false,
-    "title": "Exporting References in EBSCO [video]",
-    "description": "A guide to exporting references on the EBSCO platform.",
-    "format": "Video",
-    "tags": [
-      "reference management",
-      "digital skills",
-      "advanced searching",
-      "systematic review"
-    ],
-    "link": "https://education.library.manchester.ac.uk/videos/searching-systematically/EBSCO_exporting_references/"
-  },
-  {
-    "featured": false,
-    "title": "Removing Duplicate References in EndNote Online [video]",
-    "description": "A guide on removing duplicate references in EndNote Online.",
-    "format": "Video",
-    "tags": [
-      "reference management",
-      "digital skills"
-    ],
-    "link": "https://education.library.manchester.ac.uk/videos/removing-duplicate-references-in-EndNote-online/"
-  },
-  {
-    "featured": false,
-    "title": "Adding a Second Citation [video]",
-    "description": "A quick guide to adding a second citation in Word by using EndNote.",
-    "format": "Video",
-    "tags": [
-      "reference management",
-      "digital skills"
-    ],
-    "link": "https://education.library.manchester.ac.uk/videos/adding-second-citation/"
-  },
-  {
-    "featured": false,
-    "title": "Editing a Reference [video]",
-    "description": "A tutorial of editing a reference in EndNote [video].",
-    "format": "Video",
-    "tags": [
-      "reference management",
-      "digital skills"
-    ],
-    "link": "https://education.library.manchester.ac.uk/videos/editing-a-reference/"
-  },
-  {
-    "featured": false,
-    "title": "Bloomberg News Functions Using the Terminal [video]",
-    "description": "Accessing, filtering, reading financial and market news through Bloomberg news functions like top news and most read news, using Tesco as the example.",
-    "format": "Video",
-    "tags": [
-      "business data"
-    ],
-    "link": "https://education.library.manchester.ac.uk/videos/bloomberg-news-functions-using-the-terminal/"
-  },
-  {
-    "featured": false,
-    "title": "How and why should I use the Proquest platform? [video]",
-    "description": "Advantages of using the ProQuest platform.",
-    "format": "Video",
-    "tags": [
-      "advanced searching",
-      "systematic review"
-    ],
-    "link": "https://education.library.manchester.ac.uk/videos/searching-systematically/ProQuest_how_why/"
-  },
-  {
-    "featured": false,
-    "title": "Accessing Fame [video]",
-    "description": "An easy guide to accessing Fame.",
-    "format": "Video",
-    "tags": [
-      "business data"
-    ],
-    "link": "https://education.library.manchester.ac.uk/videos/accessing-fame/"
-  },
-  {
-    "featured": false,
-    "title": "Using Truncation in Proquest [video]",
-    "description": "An overview of truncation in Proquest searching.",
-    "format": "Video",
-    "tags": [
-      "advanced searching",
-      "systematic review"
-    ],
-    "link": "https://education.library.manchester.ac.uk/videos/searching-systematically/ProQuest_truncation/"
-  },
-  {
-    "featured": false,
-    "title": "Creating a New Library in EndNote Desktop [video]",
-    "description": "Creating a new library in EndNote on a windows machine.",
-    "format": "Video",
-    "tags": [
-      "reference management",
-      "digital skills"
-    ],
-    "link": "https://education.library.manchester.ac.uk/videos/creating-a-new-library-in-EndNote-20/"
-  },
-  {
-    "featured": false,
-    "title": "Exporting references in Ovid [video]",
-    "description": "Demonstrates how to export references from the Ovid platform.",
-    "format": "Video",
-    "tags": [
-      "advanced searching",
-      "systematic review"
-    ],
-    "link": "https://education.library.manchester.ac.uk/videos/searching-systematically/Ovid_exporting_references/"
-  },
-  {
-    "featured": false,
-    "title": "How do I use the OVID platform? [video]",
-    "description": "Demonstrates how to use the Ovid platform.",
-    "format": "Video",
-    "tags": [
-      "advanced searching",
-      "systematic review"
-    ],
-    "link": "https://education.library.manchester.ac.uk/videos/searching-systematically/Ovid_how/"
-  },
-   {
-    "featured": false,
-    "title": "How do I  use EBSCO? [video]",
-    "description": "Introduces the EBSCO platform and shows how to navigate and search effectively.",
-    "format": "Video",
-    "tags": [
-      "advanced searching",
-      "systematic review"
-    ],
-    "link": "https://education.library.manchester.ac.uk/videos/searching-systematically/EBSCO_how/"
-  },
-  {
-    "featured": false,
-    "title": "Attaching PDFs to Your EndNote Records [video]",
-    "description": "Demonstrates how to attach PDFs to your EndNote Records.",
-    "format": "Video",
-    "tags": [
-      "reference management",
-      "digital skills"
-    ],
-    "link": "https://education.library.manchester.ac.uk/videos/attaching-pdfs-to-your-EndNote-records/"
-  },
-  {
-    "featured": false,
-    "title": "Using Jumpstart Links in OVID [video]",
-    "description": "Explains the purpose of OVID jumpstart links and how they simplify database access.",
-    "format": "Video",
-    "tags": [
-      "advanced searching",
-      "systematic review"
-    ],
-    "link": "https://education.library.manchester.ac.uk/videos/Ovid-how Ovid-jumpstart-links/"
-  },
-  {
-    "featured": false,
-    "title": "Why should I use the OVID platform? [video]",
-    "description": "Explains the advantages of using OVID for accessing high quality medical and scientific literature.",
-    "format": "Video",
-    "tags": [
-      "advanced searching",
-      "systematic review"
-    ],
-    "link": "https://education.library.manchester.ac.uk/videos/searching-systematically/Ovid_why/"
-  },
-  {
-    "featured": false,
-    "title": "Why and how do I use the OVID platform? [video]",
-    "description": "Explains why you should use the OVID and shows you how to do it.",
-    "format": "Video",
-    "tags": [
-      "advanced searching",
-      "systematic review"
-    ],
-    "link": "https://education.library.manchester.ac.uk/videos/searching-systematically/ovid-platform-how-and-why/"
-  },
-  {
-    "featured": false,
-    "title": "Exporting References in Web of Science [video]",
-    "description": "Exporting references from the Web of Science to EndNote.",
-    "format": "Video",
-    "tags": [
-      "advanced searching",
-      "systematic review"
-    ],
-    "link": "https://education.library.manchester.ac.uk/videos/searching-systematically/WoS_exporting_refrences/"
-  },
-  {
-    "featured": false,
-    "title": "Creating a Standalone Bibliography in Word [video]",
-    "description": "Generating a bibliography in at the end of your Word document using EndNote.",
-    "format": "Video",
-    "tags": [
-      "reference management",
-      "digital skills"
-    ],
-    "link": "https://education.library.manchester.ac.uk/videos/creating-a-stand-alone-bibliography-in-word/"
-  },
-  {
-    "featured": false,
-    "title": "Creating Groups in EndNote Online [video]",
-    "description": "Guide to creating and managing new groups and how to add references to that group.",
-    "format": "Video",
-    "tags": [
-      "reference management",
-      "digital skills"
-    ],
-    "link": "https://education.library.manchester.ac.uk/videos/creating-groups-in-EndNote-online/"
-  },
-   {
-    "featured": false,
-    "title": "Bloomberg Financial Analysis of a Company Using the Terminal [video]",
-    "description": "How to access and interpret a company’s financial data and reports on the Bloomberg Terminal.",
-    "format": "Video",
-    "tags": [
-      "business data"
-    ],
-    "link": "https://education.library.manchester.ac.uk/videos/bloomberg-financial-analysis-of-a-company-using-the-terminal/"
-  },
-  {
-    "featured": false,
-    "title": "Searching the In-Process Database in Ovid [video]",
-    "description": "How to access pre-publication and in-progress records using OVID’s in-process database.",
-    "format": "Video",
-    "tags": [
-      "advanced searching"
-    ],
-    "link": "https://education.library.manchester.ac.uk/videos/searching-the-in-process-database-in-ovid/"
-  },
-  {
-    "featured": false,
-    "title": "Using Truncation in Web of Science [video]",
-    "description": "How to apply truncation in Web of Science to capture multiple word forms.",
-    "format": "Video",
-    "tags": [
-      "advanced searching",
-      "systematic review"
-    ],
-    "link": "https://education.library.manchester.ac.uk/videos/searching-systematically/WoS_truncation/"
-  },
-  {
-    "featured": false,
-    "title": "Searching Fame for Companies Based on Multiple Criteria [video]",
-    "description": "How to combine financial, geographic, and structural filters to create detailed company lists.",
-    "format": "Video",
-    "tags": [
-      "business data"
-    ],
-    "link": "https://education.library.manchester.ac.uk/videos/searching-fame-for-companies-based-on-multiple-criteria/"
-  },
-  {
-    "featured": false,
-    "title": "Exporting References from Library Search into EndNote Online [video]",
-    "description": "How to export a list of references from Library Search to EndNote online.",
-    "format": "Video",
-    "tags": [
-      "reference management",
-      "digital skills"
-    ],
-    "link": "https://education.library.manchester.ac.uk/videos/exporting-references-from-library-search-into-EndNote-online/"
-  },
-  {
-    "featured": false,
-    "title": "Exporting References from Library Search [video]",
-    "description": "How to export a list of references from Library Search to EndNote.",
-    "format": "Video",
-    "tags": [
-      "reference management",
-      "digital skills"
-    ],
-    "link": "https://education.library.manchester.ac.uk/videos/exporting-references-from-library-search/"
-  },
-  {
-    "featured": false,
-    "title": "Direct Export from Proquest to EndNote [video]",
-    "description": "How to export a list of references from ProQuest to EndNote.",
-    "format": "Video",
-    "tags": [
-      "reference management",
-      "digital skills"
-    ],
-    "link": "https://education.library.manchester.ac.uk/videos/direct-export-from-proquest-to-EndNote-20/"
-  },
-  {
-    "featured": false,
-    "title": "Exporting References from Web of Science into EndNote Online",
-    "description": "How to export a list of references from Web of Science to EndNote online.",
-    "format": "Video",
-    "tags": [
-      "reference management",
-      "digital skills",
-      "advanced searching"
-    ],
-    "link": "https://education.library.manchester.ac.uk/videos/exporting-references-from-web-of-science-into-EndNote-online/"
-  },
-  {
-    "featured": false,
-    "title": "Direct Export from Web of Science into EndNote",
-    "description": "How to export a list of references from Web of Science to EndNote.",
-    "format": "Video",
-    "tags": [
-      "reference management",
-      "digital skills"
-    ],
-    "link": "https://education.library.manchester.ac.uk/videos/direct-export-from-web-of-science-into-EndNote-20/"
-  },
-  {
-    "featured": false,
-    "title": "Exporting Your Results from Fame for Further Analysis [video]",
-    "description": "How to export data from Fame for further analysis.",
-    "format": "Video",
-    "tags": [
-      "business data"
-    ],
-    "link": "https://education.library.manchester.ac.uk/videos/exporting-your-results-from-fame-for-further-analysis/"
-  },
-  {
-    "featured": false,
-    "title": "Exporting References in EBSCO [video]",
-    "description": "How to export references from EBSCO databases to citation management software.",
-    "format": "Video",
-    "tags": [
-      "advanced searching",
-      "systematic review"
-    ],
-    "link": "https://education.library.manchester.ac.uk/videos/searching-systematically/EBSCO_exporting_references/"
-  },
-  {
-    "featured": false,
-    "title": "Exporting Results in Proquest [video]",
-    "description": "How to export results from Proquest.",
-    "format": "Video",
-    "tags": [
-      "advanced searching",
-      "systematic review"
-    ],
-    "link": "https://education.library.manchester.ac.uk/videos/searching-systematically/ProQuest_exporting_results/"
-  },
-  {
-    "featured": false,
-    "title": "Screening for Companies Matching Search Criteria [video]",
-    "description": "How to filter companies in Capital IQ using explicit financial and structural criteria.",
-    "format": "Video",
-    "tags": [
-      "business data"
-    ],
-    "link": "https://education.library.manchester.ac.uk/videos/screening-for-companies-matching-search-criteria/"
-  },
-  {
-    "featured": false,
-    "title": "Finding and Removing Duplicate References in EndNote [video]",
-    "description": "How to find and remove duplicate references in EndNote.",
-    "format": "Video",
-    "tags": [
-      "reference management",
-      "digital skills"
-    ],
-    "link": "https://education.library.manchester.ac.uk/videos/finding-and-removing-duplicate-references-in-EndNote-20/"
-  },
-  {
-    "featured": false,
-    "title": "Screening for Transactions [video]",
-    "description": "How to find corporate transactions in databases by filtering deals, dates and sectors.",
-    "format": "Video",
-    "tags": [
-      "business data"
-    ],
-    "link": "https://education.library.manchester.ac.uk/videos/screening-for-transactions/"
-  },
-  {
-    "featured": false,
-    "title": "Finding Saved Searches in Ovid [video]",
-    "description": "How to find saved searches in Ovid.",
-    "format": "Video",
-    "tags": [
-      "digital skills",
-      "advanced searching"
-    ],
-    "link": "https://education.library.manchester.ac.uk/videos/finding-saved-searches-in-ovid/"
-  },
-  {
-    "featured": false,
-    "title": "Finding the Balance Sheet [video]",
-    "description": "How to find the balance sheet of a company in S&P Capital IQ.",
-    "format": "Video",
-    "tags": [
-      "business data"
-    ],
-    "link": "https://education.library.manchester.ac.uk/videos/finding-the-balance-sheet/"
-  },
-  {
-    "featured": false,
-    "title": "Bloomberg Line Chart of a Company Using the Terminal [video]",
-    "description": "How to generate and customise the features for line charts for a company’s market data.",
-    "format": "Video",
-    "tags": [
-      "business data"
-    ],
-    "link": "https://education.library.manchester.ac.uk/videos/bloomberg-line-chart-of-a-company-using-the-terminal/"
-  },
-  {
-    "featured": false,
-    "title": "Searching for Company Subsidiaries in Fame [video]",
-    "description": "How to identify parent companies and find detailed subsidiary structures in FAME.",
-    "format": "Video",
-    "tags": [
-      "business data"
-    ],
-    "link": "https://education.library.manchester.ac.uk/videos/searching-for-company-subsidiaries-in-fame/"
-  },
-  {
-    "featured": false,
-    "title": "Importing References from Google Scholar into EndNote Online [video]",
-    "description": "How to import a reference from Google Scholar to EndNote online.",
-    "format": "Video",
-    "tags": [
-      "reference management",
-      "digital skills"
-    ],
-    "link": "https://education.library.manchester.ac.uk/videos/importing-references-from-google-scholar-into-EndNote-online/Index.html"
-  },
-  {
-    "featured": false,
-    "title": "Importing a Reference from Google Scholar to EndNote [video]",
-    "description": "How to import a reference from Google Scholar to EndNote.",
-    "format": "Video",
-    "tags": [
-      "reference management",
-      "digital skills"
-    ],
-    "link": "https://education.library.manchester.ac.uk/videos/importing-a-reference-from-google-scholar-to-EndNote/"
-  },
-  {
-    "featured": false,
-    "title": "Importing References from a Database into EndNote Online [video]",
-    "description": "How to import a reference from PubMed to EndNote online.",
-    "format": "Video",
-    "tags": [
-      "reference management",
-      "digital skills"
-    ],
-    "link": "https://education.library.manchester.ac.uk/videos/importing-references-from-a-database-%28pubmed%29-into-EndNote-online/"
-  },
-  {
-    "featured": false,
-    "title": "Inserting Citations in EndNote Online [video]",
-    "description": "How to insert citations and build a reference list into Microsoft Word from EndNote online.",
-    "format": "Video",
-    "tags": [
-      "reference management",
-      "digital skills"
-    ],
-    "link": "https://education.library.manchester.ac.uk/videos/inserting-citations-EndNote-online/"
-  },
-  {
-    "featured": false,
-    "title": "Inserting Citations Using Cite-While-You-Write In EndNote [video]",
-    "description": "How to insert citations and build a reference list into Microsoft Word from EndNote online.",
-    "format": "Video",
-    "tags": [
-      "reference management",
-      "digital skills"
-    ],
-    "link": "https://education.library.manchester.ac.uk/videos/inserting-citations-using-cite-while-you-write-in-EndNote-20/"
-  },
-  {
-    "featured": false,
-    "title": "Inserting Footnotes Into Word Using EndNote [video]",
-    "description": "How to insert footnotes into Microsoft Word using EndNote.",
-    "format": "Video",
-    "tags": [
-      "reference management",
-      "digital skills"
-    ],
-    "link": "https://education.library.manchester.ac.uk/videos/inserting-footnotes-into-word-using-EndNote-20/"
-  },
-  {
-    "featured": false,
-    "title": "Searching for a Single Company [video]",
-    "description": "How to locate one specific company in FAME using basic identifiers or advanced filters.",
-    "format": "Video",
-    "tags": [
-      "business data"
-    ],
-    "link": "https://education.library.manchester.ac.uk/videos/searching-for-a-single-company/"
-  },
-  {
-    "featured": false,
-    "title": "Modifying Your Search in Fame [video]",
-    "description": "How to modify your search in Fame.",
-    "format": "Video",
-    "tags": [
-      "business data"
-    ],
-    "link": "https://education.library.manchester.ac.uk/videos/modifying-your-search-in-fame/"
-  },
-  {
-    "featured": false,
-    "title": "Creating an Ovid Account [video]",
-    "description": "How to register and access an Ovid account, also using it for searching.",
-    "format": "Video",
-    "tags": [
-      "advanced searching",
-      "systematic review",
-      "digital skills"
-    ],
-    "link": "https://education.library.manchester.ac.uk/videos/creating-ovid-account/"
-  },
-  {
-    "featured": false,
-    "title": "Registering with EndNote Online [video]",
-    "description": "How to register with EndNote online via the Web of Science .",
-    "format": "Video",
-    "tags": [
-      "reference management",
-      "digital skills"
-    ],
-    "link": "https://education.library.manchester.ac.uk/videos/registering-with-EndNote-online/"
-  },
-  {
-    "featured": false,
-    "title": "Registering For EndNote Online Using Web of Science [video]",
-    "description": "How to registering with EndNote online by using the Web of Science",
-    "format": "Video",
-    "tags": [
-      "advanced searching",
-      "reference management",
-      "digital skills"
-    ],
-    "link": "https://education.library.manchester.ac.uk/videos/registering-for-EndNote-online-using-wos/"
-  },
-    {
-    "featured": false,
-    "title": "Saving Searches in EBSCO [video]",
-    "description": "How to save search results and strategies in your EBSCO account.",
-    "format": "Video",
-    "tags": [
-      "advanced searching",
-      "systematic review"
-    ],
-    "link": "https://education.library.manchester.ac.uk/videos/searching-systematically/EBSCO_saving_search/"
-  },
-   {
-    "featured": false,
-    "title": "Saving Searches in Proquest [video]",
-    "description": "How to save your searches on Proquest.",
-    "format": "Video",
-    "tags": [
-      "advanced searching",
-      "systematic review"
-    ],
-    "link": "https://education.library.manchester.ac.uk/videos/searching-systematically/ProQuest_saving_search/"
-  },
-  {
-    "featured": false,
-    "title": "Bloomberg Finding a Company Using the Terminal [video]",
-    "description": "How to search for and locate company profiles, data, functions.",
-    "format": "Video",
-    "tags": [
-      "business data"
-    ],
-    "link": "https://education.library.manchester.ac.uk/videos/bloomberg-finding-a-company-using-the-terminal/"
-  },
-  {
-    "featured": false,
-    "title": "Selecting Another Style in EndNote Online [video]",
-    "description": "How to select another style in EndNote online",
-    "format": "Video",
-    "tags": [
-      "reference management",
-      "digital skills"
-    ],
-    "link": "https://education.library.manchester.ac.uk/videos/selecting-another-style-in-EndNote-online/"
-  },
-  {
-    "featured": false,
-    "title": "Creating Smart Groups in EndNote [video]",
-    "description": "How to set up a smart group in EndNote, to organise references.",
-    "format": "Video",
-    "tags": [
-      "reference management",
-      "digital skills"
-    ],
-    "link": "https://education.library.manchester.ac.uk/videos/creating-smart-groups-in-EndNote-20/"
-  },
-  {
-    "featured": false,
-    "title": "Sharing Groups in EndNote Online [video]",
-    "description": "How to share groups in EndNote online.",
-    "format": "Video",
-    "tags": [
-      "reference management",
-      "digital skills"
-    ],
-    "link": "https://education.library.manchester.ac.uk/videos/sharing-groups-in-EndNote-online/"
-  },
-  {
-    "featured": false,
-    "title": "Library Search Sign In [video]",
-    "description": "How to sign in on the library website.",
-    "format": "Video",
-    "tags": [
-      "advanced searching"
-    ],
-    "link": "https://education.library.manchester.ac.uk/videos/library-search-sign-in/"
-  },
-  {
-    "featured": false,
-    "title": "Saving Your Search in OVID [video]",
-    "description": "How to store OVID searches so you can revisit strategies or build them over time",
-    "format": "Video",
-    "tags": [
-      "advanced searching"
-    ],
-    "link": "https://education.library.manchester.ac.uk/videos/saving-search-ovid/"
-  },
-  {
-    "featured": false,
-    "title": "Syncing Your EndNote Desktop and Online Libraries [video]",
-    "description": "How to sync your EndNote desktop and online libraries.",
-    "format": "Video",
-    "tags": [
-      "reference management",
-      "digital skills"
-    ],
-    "link": "https://education.library.manchester.ac.uk/videos/syncing-your-EndNote-desktop-and-online-libraries/"
-  },
-  {
-    "featured": false,
-    "title": "Using a List in a Capital IQ Screen [video]",
-    "description": "How to use a list in a screen for Capital IQ.",
-    "format": "Video",
-    "tags": [
-      "business data"
-    ],
-    "link": "https://education.library.manchester.ac.uk/videos/using-a-list-in-a-screen/"
-  },
-  {
-    "featured": false,
-    "title": "Bloomberg Equity Screening [video]",
-    "description": "How to use Bloomberg’s screening tool to filter and find stocks based on specific criteria.",
-    "format": "Video",
-    "tags": [
-      "business data"
-    ],
-    "link": "https://education.library.manchester.ac.uk/videos/bloomberg-equity-screening/"
-  },
-  {
-    "featured": false,
-    "title": "Using Subject Terms in EBSCO [video]",
-    "description": "How to use EBSCO’s subject headings to create accurate and targeted searches.",
-    "format": "Video",
-    "tags": [
-      "advanced searching",
-      "systematic review"
-    ],
-    "link": "https://education.library.manchester.ac.uk/videos/searching-systematically/EBSCO%20subject%20terms/"
-  },
-   {
-    "featured": false,
-    "title": "Using MeSH terms in OVID [video]",
-    "description": "How to use medical subject headings MeSH to create precise and top focused searches.",
-    "format": "Video",
-    "tags": [
-      "advanced searching",
-      "systematic review"
-    ],
-    "link": "https://education.library.manchester.ac.uk/videos/Ovid-mesh-terms/"
-  },
-  {
-    "featured": false,
-    "title": "Using The 'Ask A Librarian' Function in OVID [video]",
-    "description": "How to use the 'Ask a Librarian' function in OVID.",
-    "format": "Video",
-    "tags": [
-      "advanced searching"
-    ],
-    "link": "https://education.library.manchester.ac.uk/videos/using-the-ask-a-librarian-function/"
-  },
-  {
-    "featured": false,
-    "title": "Using Truncation in OVID [video]",
-    "description": "How to use truncation symbols to expand your searches within OVID.",
-    "format": "Video",
-    "tags": [
-      "advanced searching",
-      "systematic review"
-    ],
-    "link": "https://education.library.manchester.ac.uk/videos/searching-systematically/Ovid_truncation/"
-  },
-  {
-    "featured": false,
-    "title": "Bloomberg Line Chart News of a Company Using The Terminal [video]",
-    "description": "How to view a company’s performance line charts alongside relevant news on Bloomberg.",
-    "format": "Video",
-    "tags": [
-      "business data"
-    ],
-    "link": "https://education.library.manchester.ac.uk/videos/bloomberg-line-chart-news-of-a-company-using-the-terminal/"
-  },
-  {
-    "featured": false,
-    "title": "Creating a List from a Text File [video]",
-    "description": "Importing a list of references and uploading a file successfully onto the list manager in your EndNote.",
-    "format": "Video",
-    "tags": [
-      "reference management",
-      "digital skills"
-    ],
-    "link": "https://education.library.manchester.ac.uk/videos/creating-a-list-from-a-text-file/"
-  },
-  {
-    "featured": false,
-    "title": "Conducting a Systematic Review",
-    "description": "In this guide we explore each stage of carrying out a systematic review from forming and refining your question to managing and reporting your results.",
+    "title": "Conducting a systematic review",
+    "description": "Learn how to conduct a systematic review through this guide. We'll cover how to form your question, deciding where to search, as well as managing and reporting on your results.",
     "format": "Interactive guide",
     "tags": [
       "advanced searching",
@@ -797,8 +12,8 @@
   },
   {
     "featured": false,
-    "title": "Copyright Essentials for teaching",
-    "description": "In this guide we will introduce you to the basics of copyright including using other people’s work, getting permission, and how you can safely use literary works, images, and video in your teaching whilst adhering to copyright law.",
+    "title": "Copyright essentials for teaching",
+    "description": "This guide introduces the basics of copyright, including using others' work correctly and getting permission. You'll learn how to safely use literary works, images, and video in your teaching while adhering to copyright law.",
     "format": "Interactive guide",
     "tags": [
       "copyright"
@@ -807,60 +22,38 @@
   },
   {
     "featured": false,
-    "title": "Getting started with searching Fame",
-    "description": "In this guide we will introduce you to the Fame business database for researching companies in the United Kingdom and Republic of Ireland.",
+    "title": "Copyright for students: who owns what?",
+    "description": "Understand what copyright is and what it means for your as a student by going through this interactive guide.",
     "format": "Interactive guide",
     "tags": [
-      "business data"
+      "copyright"
     ],
-    "link": "https://www.education.library.manchester.ac.uk/sls/getting-started-with-searching-fame/"
+    "link": "https://www.education.library.manchester.ac.uk/sls/copyright-students/"
   },
   {
     "featured": false,
-    "title": "Searching systematically",
-    "description": "In this guide you will explore four databases which will help you to find and refine your results to helping you through the process of searching systematically.",
+    "title": "Copyright for teaching materials: can I use it?",
+    "description": "This short online guide can help you determine whether you can use different types of material in your teaching, without breaching copyright law.",
     "format": "Interactive guide",
     "tags": [
-      "advanced searching",
-      "systematic review"
+      "copyright"
     ],
-    "link": "https://education.library.manchester.ac.uk/sls/searching-systematically/"
-  },
-  {
-    "featured": true,
-    "title": "Library support for Business Data",
-    "description": "In this guide you will find support links for various topics relating to business data. Use the links at the top to navigate to each topic and access guides, podcasts, videos and workshops.",
-    "format": "Interactive guide",
-    "tags": [
-      "business data"
-    ],
-    "link": "https://www.education.library.manchester.ac.uk/sls/packages/business-data-support/"
+    "link": "https://www.education.library.manchester.ac.uk/sls/copyright/"
   },
   {
     "featured": false,
-    "title": "Getting started searching for business data and literature",
-    "description": "In this guide, we explore where you can find various types of business data and literature for free using the University of Manchester Library.",
+    "title": "Copyright guidance at The University of Manchester",
+    "description": "This guide will help you to find out how copyright affects your work, research and study here at the University of Manchester.",
     "format": "Interactive guide",
     "tags": [
-      "business data"
+      "copyright"
     ],
-    "link": "https://www.education.library.manchester.ac.uk/sls/getting-started-searching-for-business-data-and-literature/#/"
-  },
-  {
-    "featured": false,
-    "title": "Glossary of advanced searching",
-    "description": "In this post we explore the meaning of various terms used in searching and advanced searching of information.",
-    "format": "Interactive guide",
-    "tags": [
-      "systematic review",
-      "advanced searching"
-    ],
-    "link": "https://www.education.library.manchester.ac.uk/sls/glossary-searching/"
+    "link": "http://subjects.library.manchester.ac.uk/copyright"
   },
   {
     "featured": false,
     "title": "Critical appraisal for medicine and health sciences",
-    "description": "In this post we explore the process of critical appraisal, types of study and the key areas to examine when appraising a research article.",
+    "description": "This guide explores the critical appraisal process, the types of study you will encounter, and the areas to concentrate on when appraising a research article.",
     "format": "Interactive guide",
     "tags": [
       "advanced searching",
@@ -870,18 +63,18 @@
   },
   {
     "featured": false,
-    "title": "Preparing to use Eventus and converting the results",
-    "description": "In this post we show you how to form your data to use the Eventus event study tool, and how to access the data it returns.",
+    "title": "Getting started searching for business data and literature",
+    "description": "There are various types of business data and literature you can access for free using the University of Manchester Library. Explore where you can find them through this guide.",
     "format": "Interactive guide",
     "tags": [
       "business data"
     ],
-    "link": "https://www.education.library.manchester.ac.uk/sls/preparing-to-use-eventus/"
+    "link": "https://www.education.library.manchester.ac.uk/sls/getting-started-searching-for-business-data-and-literature/#/"
   },
   {
     "featured": false,
     "title": "Getting started with Capital IQ Pro",
-    "description": "In this post we will explore how to get started with using Capital IQ Pro for finding worldwide private company data.",
+    "description": "Learn how to find worldwide private company data through this guide to Capital IQ Pro.",
     "format": "Interactive guide",
     "tags": [
       "business data"
@@ -890,85 +83,92 @@
   },
   {
     "featured": false,
-    "title": "Systematic review: organising your keywords and subject terms",
-    "description": "In this post we will explore the keywords and subject headings that you will use to support the early scoping exercises and subsequent literature reviews. We will also explore how MeSH and MeSH trees can help you to  collect, organise and present your search terms.",
+    "title": "Getting started with EndNote Desktop",
+    "description": "Get to grips with EndNote Desktop through this guide, which introduces how to collect, manage, and format references in order to cite and reference sources.",
+    "format": "Interactive guide",
+    "tags": [
+      "reference management"
+    ],
+    "link": "https://www.education.library.manchester.ac.uk/sls/EndNote-20-desktop/"
+  },
+  {
+    "featured": false,
+    "title": "Getting started with EndNote Online",
+    "description": "If you're wanting to use EndNote Online, this guide will show you have to collect, manage, and format references in order to cite and reference sources.",
+    "format": "Interactive guide",
+    "tags": [
+      "reference management"
+    ],
+    "link": "https://www.education.library.manchester.ac.uk/sls/EndNote-online/"
+  },
+  {
+    "featured": false,
+    "title": "Getting started with searching Fame",
+    "description": "This guide introduces the Fame business database for researching companies in the United Kingdom and Republic of Ireland.",
+    "format": "Interactive guide",
+    "tags": [
+      "business data"
+    ],
+    "link": "https://www.education.library.manchester.ac.uk/sls/getting-started-with-searching-fame/"
+  },
+  {
+    "featured": false,
+    "title": "Glossary of advanced searching",
+    "description": "This post shows the meaning of various terms used in the advanced searching of information.",
     "format": "Interactive guide",
     "tags": [
       "systematic review",
       "advanced searching"
     ],
-    "link": "https://www.education.library.manchester.ac.uk/sls/organising-keywords/"
+    "link": "https://www.education.library.manchester.ac.uk/sls/glossary-searching/"
   },
   {
     "featured": false,
-    "title": "Capital IQ Bman2 2 Searching",
-    "description": "Introduction of searching a company in Capital IQ.",
-    "format": "Video",
+    "title": "Library support for advanced searching",
+    "description": "This set of resources will show you introduce you to medical and health sciences databases. It will help you with searching, refining and your results as well as accessing further support from experts.",
+    "format": "Interactive guide",
+    "tags": [
+      "advanced searching",
+      "systematic review"
+    ],
+    "link": "https://www.education.library.manchester.ac.uk/mle/packages/searching/advanced-searching.html"
+  },
+  {
+    "featured": true,
+    "title": "Library support for business data",
+    "description": "The resources in this guide will help you get started researching business data.",
+    "format": "Interactive guide",
     "tags": [
       "business data"
     ],
-    "link": "https://education.library.manchester.ac.uk/videos/Capital-IQ-BMAN2-2-searching/Capital%20IQ%20BMAN2%202%20searching_player.html"
-  },
-
-  {
-    "featured": false,
-    "title": "How and why should I use the Ebsco platform",
-    "description": "Overview of EBSCO’s advantages with a demonstration of its core search tools..",
-    "format": "Video",
-    "tags": [
-      "advanced searching",
-      "systematic review"
-    ],
-    "link": "https://education.library.manchester.ac.uk/videos/searching-systematically/EBSCO-why-and-how/"
+    "link": "https://www.education.library.manchester.ac.uk/sls/packages/business-data-support/"
   },
   {
-    "featured": false,
-    "title": "Saving Searches in OVID",
-    "description": "Shows how to store and organise your OVID search histories for long projects.",
-    "format": "Video",
+    "featured": true,
+    "title": "Library support for digital skills",
+    "description": "Identify areas to further develop your digital capabilities through this interactive guide. We cover the digital capabilities framework and how to get started with LinkedIn Learning's suite of expert-led online courses.",
+    "duration": "",
+    "format": "Interactive guide",
+    "link": "https://education.library.manchester.ac.uk/digital-skills/digital-skills-support/index.html",
     "tags": [
-      "advanced searching",
-      "systematic review"
-    ],
-    "link": "https://education.library.manchester.ac.uk/videos/searching-systematically/Ovid_saving%20searches/"
+      "digital skills",
+      "my future"
+    ]
   },
   {
     "featured": false,
-    "title": "Using Truncation in Ebsco",
-    "description": "Shows how to use truncation in EBSCO databases to broaden your keyword search.",
-    "format": "Video",
+    "title": "Library support for referencing",
+    "description": "Discover all the resources and support on referencing available to you from the Library through this guide. You can find guidance on how to reference different types of sources, different referencing styles, and using referencing software.",
+    "format": "Interactive guide",
     "tags": [
-      "advanced searching",
-      "systematic review"
+      "reference management"
     ],
-    "link": "https://education.library.manchester.ac.uk/videos/searching-systematically/EBSCO%20truncation/"
-  },
- {
-    "featured": false,
-    "title": "Creating Groups In EndNote",
-    "description": "Step by step guide to managing reference collections in EndNote by creating groups with specific tops such as authors or journals.",
-    "format": "Video",
-    "tags": [
-      "reference management",
-      "digital skills"
-    ],
-    "link": "https://education.library.manchester.ac.uk/videos/creating-groups-in-EndNote-20/"
-  },
-  {
-    "featured": false,
-    "title": "Why should I use Web of Science",
-    "description": "The benefits of using Web of Science for impactful academic research.",
-    "format": "Video",
-    "tags": [
-      "advanced searching",
-      "systematic review"
-    ],
-    "link": "https://education.library.manchester.ac.uk/videos/searching-systematically/WoS_why/"
+    "link": "https://www.education.library.manchester.ac.uk/sls/packages/referencing/"
   },
   {
     "featured": true,
     "title": "Microsoft 365 Fundamentals Certification",
-    "description": "The University of Manchester is providing students with the opportunity to study for and receive a Microsoft 365 Fundamentals Certification free-of-charge. This guide contains all of the information you will need to prepare and take an exam. ",
+    "description": "The University of Manchester provides students with the opportunity to study for and attain a Microsoft 365 Fundamentals Certification free of charge. This guide contains all of the information you'll need to prepare and take an exam.",
     "duration": "",
     "format": "Interactive guide",
     "link": "https://www.education.library.manchester.ac.uk/digital-skills/exams/microsoft-fundamentals/",
@@ -978,25 +178,25 @@
     ]
   },
   {
-    "featured": true,
-    "title": "Library support for Digital Skills",
-    "description": "This guide brings together all the Library’s support for developing your digital skills. You’ll find resources to help you assess and improve your digital capabilities, explore LinkedIn Learning for expert-led courses, and understand how to use Artificial Intelligence ethically in your studies.",
-    "duration": "",
-    "format": "Interactive guide",
-    "link": "https://education.library.manchester.ac.uk/digital-skills/digital-skills-support/index.html",
-    "tags": [
-      "digital skills"
-    ]
-  },
-  {
     "featured": false,
-    "title": "Using Bloomberg Professional",
-    "description": "This guide covers key topics for using Bloomberg Professional. It begins with using the Bloomberg terminal and keyboard to access company financial data, news, and custom company lists.",
+    "title": "Preparing to use Eventus and converting the results",
+    "description": "Learn to prepare the data you need to run an event study query in Eventus through this guide. We also consider how you can convert the data you retrieve into a more usable format using SPSS or SAS.",
     "format": "Interactive guide",
     "tags": [
       "business data"
     ],
-    "link": "https://education.library.manchester.ac.uk/sls/using-bloomberg-professional/#/"
+    "link": "https://www.education.library.manchester.ac.uk/sls/preparing-to-use-eventus/"
+  },
+  {
+    "featured": false,
+    "title": "Searching and exporting your results from Ovid",
+    "description": "This guide will take you through how to search Ovid effectively including using Medical Subject Headings, exporting your results for de-duplication and sharing your search strategy to request further help and support.",
+    "format": "Interactive guide",
+    "tags": [
+      "advanced searching",
+      "systematic review"
+    ],
+    "link": "https://www.education.library.manchester.ac.uk/sls/search-export-ovid/"
   },
   {
     "featured": false,
@@ -1011,90 +211,160 @@
   },
   {
     "featured": false,
-    "title": "Getting started with EndNote Desktop",
-    "description": "This guide is useful for anyone wanting to use EndNote Desktop to collect, manage, and format references in order to cite and reference sources.",
-    "format": "Interactive guide",
-    "tags": [
-      "reference management"
-    ],
-    "link": "https://www.education.library.manchester.ac.uk/sls/EndNote-20-desktop/"
-  },
-  {
-    "featured": false,
-    "title": "Getting started with EndNote Online",
-    "description": "This guide is useful for anyone wanting to use EndNote Online to collect, manage, and format references in order to cite and reference sources.",
-    "format": "Interactive guide",
-    "tags": [
-      "reference management"
-    ],
-    "link": "https://www.education.library.manchester.ac.uk/sls/EndNote-online/"
-  },
-  {
-    "featured": false,
-    "title": "Copyright Guidance at The University of Manchester",
-    "description": "This guide will help you to find out how copyright affects your work, research and study here at the University of Manchester.",
-    "format": "Interactive guide",
-    "tags": [
-      "copyright"
-    ],
-    "link": "http://subjects.library.manchester.ac.uk/copyright"
-  },
-  {
-    "featured": false,
-    "title": "Searching and exporting your results from OVID",
-    "description": "This guide will take you through how to search OVID effectively including using Medical Subject Headings, exporting your results for de-duplication and sharing your search strategy to request further help and support.",
+    "title": "Searching systematically",
+    "description": "In this guide you will explore four databases which will help you to find and refine your results to helping you through the process of searching systematically.",
     "format": "Interactive guide",
     "tags": [
       "advanced searching",
       "systematic review"
     ],
-    "link": "https://www.education.library.manchester.ac.uk/sls/search-export-ovid/"
+    "link": "https://education.library.manchester.ac.uk/sls/searching-systematically/"
   },
   {
     "featured": false,
-    "title": "Copyright for students: Who owns what?",
-    "description": "This resource provides a basic introduction to copyright, whilst looking how it can affect you as a student.",
+    "title": "Systematic review: organising your keywords and subject terms",
+    "description": "In this post we will explore the keywords and subject headings that you will use to support the early scoping exercises and subsequent literature reviews. We will also explore how MeSH and MeSH trees can help you to  collect, organise and present your search terms.",
     "format": "Interactive guide",
     "tags": [
-      "copyright"
+      "systematic review",
+      "advanced searching"
     ],
-    "link": "https://www.education.library.manchester.ac.uk/sls/copyright-students/"
+    "link": "https://www.education.library.manchester.ac.uk/sls/organising-keywords/"
   },
   {
     "featured": false,
-    "title": "Library support for Referencing",
-    "description": "This set of resources will show you how to reference different types of sources in your assignments. It will help you to cite, paraphrase and manage your references using tools such as EndNote, EndNote online and Mendeley.",
+    "title": "Using Bloomberg Professional",
+    "description": "This guide covers key topics for using Bloomberg Professional. It begins with using the Bloomberg terminal and keyboard to access company financial data, news, and custom company lists.",
     "format": "Interactive guide",
     "tags": [
-      "reference management"
+      "business data"
     ],
-    "link": "https://www.education.library.manchester.ac.uk/sls/packages/referencing/"
-  },
+    "link": "https://education.library.manchester.ac.uk/sls/using-bloomberg-professional/#/"
+  }, 
   {
     "featured": false,
-    "title": "Library support for Advanced searching",
-    "description": "This set of resources will show you introduce you to medical and health sciences databases. It will help you with searching, refining and your results as well as accessing further support from experts.",
-    "format": "Interactive guide",
+    "title": "Accessing databases from the Library [video]",
+    "description": "A guide to accessing databases from the Library website.",
+    "format": "Video",
     "tags": [
-      "advanced searching",
-      "systematic review"
+      "advanced searching"
     ],
-    "link": "https://www.education.library.manchester.ac.uk/mle/packages/searching/advanced-searching.html"
+    "link": "https://education.library.manchester.ac.uk/videos/searching-systematically/Accessing_database_from_library/"
   },
   {
     "featured": false,
-    "title": "Copyright for teaching materials: can I use it?",
-    "description": "This short online resource will help you to determine whether you can use specific types of material in your teaching, without breaching copyright.",
-    "format": "Interactive guide",
+    "title": "Library search sign in [video]",
+    "description": "How to sign in on the Library website.",
+    "format": "Video",
     "tags": [
-      "copyright"
+      "advanced searching"
     ],
-    "link": "https://www.education.library.manchester.ac.uk/sls/copyright/"
+    "link": "https://education.library.manchester.ac.uk/videos/library-search-sign-in/"
   },
   {
     "featured": false,
-    "title": "Adding Additional Variables To Your Screen And Exporting",
-    "description": "Tips for using S&P Capital IQ: Adding variables and exporting.",
+    "title": "Bloomberg financial analysis of a company using the terminal [video]",
+    "description": "Learn how to access and interpret a company’s financial data and reports on the Bloomberg terminal.",
+    "format": "Video",
+    "tags": [
+      "business data"
+    ],
+    "link": "https://education.library.manchester.ac.uk/videos/bloomberg-financial-analysis-of-a-company-using-the-terminal/"
+  },
+  {
+    "featured": false,
+    "title": "Finding a company using the Bloomberg terminal [video]",
+    "description": "How to search for and locate company profiles, data, functions.",
+    "format": "Video",
+    "tags": [
+      "business data"
+    ],
+    "link": "https://education.library.manchester.ac.uk/videos/bloomberg-finding-a-company-using-the-terminal/"
+  },
+  {
+    "featured": false,
+    "title": "Bloomberg equity screening [video]",
+    "description": "How to use Bloomberg’s screening tool to filter and find stocks based on specific criteria.",
+    "format": "Video",
+    "tags": [
+      "business data"
+    ],
+    "link": "https://education.library.manchester.ac.uk/videos/bloomberg-equity-screening/"
+  },
+  {
+    "featured": false,
+    "title": "Bloomberg news functions using the terminal [video]",
+    "description": "Learn how to access, filter, and read financial and market news through Bloomberg news functions like top news and most read news, using Tesco as an example.",
+    "format": "Video",
+    "tags": [
+      "business data"
+    ],
+    "link": "https://education.library.manchester.ac.uk/videos/bloomberg-news-functions-using-the-terminal/"
+  },
+  {
+    "featured": false,
+    "title": "Generating a Bloomberg line chart of a company using the terminal [video]",
+    "description": "How to generate and customise the features for line charts for a company’s market data in Bloomberg.",
+    "format": "Video",
+    "tags": [
+      "business data"
+    ],
+    "link": "https://education.library.manchester.ac.uk/videos/bloomberg-line-chart-of-a-company-using-the-terminal/"
+  },
+  {
+    "featured": false,
+    "title": "Viewing Bloomberg line chart news of a company using the terminal [video]",
+    "description": "How to view a company’s performance line charts alongside relevant news on Bloomberg.",
+    "format": "Video",
+    "tags": [
+      "business data"
+    ],
+    "link": "https://education.library.manchester.ac.uk/videos/bloomberg-line-chart-news-of-a-company-using-the-terminal/"
+  },
+  {
+    "featured": false,
+    "title": "Screening for companies matching search criteria in Capital IQ [video]",
+    "description": "How to filter companies in Capital IQ using explicit financial and structural criteria.",
+    "format": "Video",
+    "tags": [
+      "business data"
+    ],
+    "link": "https://education.library.manchester.ac.uk/videos/screening-for-companies-matching-search-criteria/"
+  },
+  {
+    "featured": false,
+    "title": "Screening for transactions in Capital IQ [video]",
+    "description": "How to find corporate transactions in databases by filtering deals, dates and sectors.",
+    "format": "Video",
+    "tags": [
+      "business data"
+    ],
+    "link": "https://education.library.manchester.ac.uk/videos/screening-for-transactions/"
+  },
+  {
+    "featured": false,
+    "title": "Searching for a single company in Capital IQ [video]",
+    "description": "How to locate one specific company in Capital IQ using basic identifiers or advanced filters.",
+    "format": "Video",
+    "tags": [
+      "business data"
+    ],
+    "link": "https://education.library.manchester.ac.uk/videos/searching-for-a-single-company/"
+  },
+  {
+    "featured": false,
+    "title": "Using a list in a Capital IQ screen [video]",
+    "description": "How to use a list in a screen for Capital IQ.",
+    "format": "Video",
+    "tags": [
+      "business data"
+    ],
+    "link": "https://education.library.manchester.ac.uk/videos/using-a-list-in-a-screen/"
+  },
+  {
+    "featured": false,
+    "title": "Adding additional variables to your screen and exporting [video]",
+    "description": "Tips for using Capital IQ: Adding variables and exporting.",
     "format": "Video",
     "tags": [
       "business data"
@@ -1103,8 +373,727 @@
   },
   {
     "featured": false,
-    "title": "Searching in Web of Science",
-    "description": "Walkthrough of conducting detailed searches in Web of Science.",
+    "title": "Finding the balance sheet in Capital IQ [video]",
+    "description": "How to find the balance sheet of a company in Capital IQ.",
+    "format": "Video",
+    "tags": [
+      "business data"
+    ],
+    "link": "https://education.library.manchester.ac.uk/videos/finding-the-balance-sheet/"
+  },
+  {
+    "featured": false,
+    "title": "Capital IQ Bman2 2 searching [video]",
+    "description": "Introduction of searching a company in Capital IQ.",
+    "format": "Video",
+    "tags": [
+      "business data"
+    ],
+    "link": "https://education.library.manchester.ac.uk/videos/Capital-IQ-BMAN2-2-searching/Capital%20IQ%20BMAN2%202%20searching_player.html"
+  },
+  {
+    "featured": false,
+    "title": "Why should I use EBSCO [video]",
+    "description": "Learn why EBSCO is a good platform for academic research and literature discovery.",
+    "format": "Video",
+    "tags": [
+      "advanced searching",
+      "systematic review"
+    ],
+    "link": "https://education.library.manchester.ac.uk/videos/searching-systematically/EBSCO_why/"
+  },
+  {
+    "featured": false,
+    "title": "How do I  use EBSCO? [video]",
+    "description": "Introduces the EBSCO platform and shows how to navigate and search effectively. Please note, the EBSCO interface has been updated since this video was created.",
+    "format": "Video",
+    "tags": [
+      "advanced searching",
+      "systematic review"
+    ],
+    "link": "https://education.library.manchester.ac.uk/videos/searching-systematically/EBSCO_how/"
+  },
+  {
+    "featured": false,
+    "title": "How and why should I use the EBSCO platform?",
+    "description": "Overview of EBSCO’s advantages with a demonstration of its core search tools.",
+    "format": "Video",
+    "tags": [
+      "advanced searching",
+      "systematic review"
+    ],
+    "link": "https://education.library.manchester.ac.uk/videos/searching-systematically/EBSCO-why-and-how/"
+  },
+  {
+    "featured": false,
+    "title": "Saving searches in EBSCO [video]",
+    "description": "How to save search results and strategies in your EBSCO account. Please note, the EBSCO interface has been updated since this video was created.",
+    "format": "Video",
+    "tags": [
+      "advanced searching",
+      "systematic review"
+    ],
+    "link": "https://education.library.manchester.ac.uk/videos/searching-systematically/EBSCO_saving_search/"
+  },
+  {
+    "featured": false,
+    "title": "Using truncation in EBSCO [video]",
+    "description": "This video shows how to use truncation in EBSCO databases to broaden your keyword search.",
+    "format": "Video",
+    "tags": [
+      "advanced searching",
+      "systematic review"
+    ],
+    "link": "https://education.library.manchester.ac.uk/videos/searching-systematically/EBSCO%20truncation/"
+  },
+    {
+    "featured": false,
+    "title": "Exporting references in EBSCO [video]",
+    "description": "A guide to exporting references on the EBSCO platform. Please note, the EBSCO interface has been updated since this video was created.",
+    "format": "Video",
+    "tags": [
+      "reference management",
+      "digital skills",
+      "advanced searching",
+      "systematic review"
+    ],
+    "link": "https://education.library.manchester.ac.uk/videos/searching-systematically/EBSCO_exporting_references/"
+  },
+    {
+    "featured": false,
+    "title": "Using subject terms in EBSCO [video]",
+    "description": "How to use EBSCO’s subject headings to create accurate and targeted searches.",
+    "format": "Video",
+    "tags": [
+      "advanced searching",
+      "systematic review"
+    ],
+    "link": "https://education.library.manchester.ac.uk/videos/searching-systematically/EBSCO%20subject%20terms/"
+  },
+  {
+    "featured": false,
+    "title": "Exporting references from EBSCO [video]",
+    "description": "Learn how to export references from EBSCO databases to citation management software. Please note, the EBSCO interface has been updated since this video was created.",
+    "format": "Video",
+    "tags": [
+      "advanced searching",
+      "systematic review"
+    ],
+    "link": "https://education.library.manchester.ac.uk/videos/searching-systematically/EBSCO_exporting_references/"
+  },
+   {
+    "featured": false,
+    "title": "Registering for EndNote Online using Web of Science [video]",
+    "description": "How to registering with EndNote online by using the Web of Science",
+    "format": "Video",
+    "tags": [
+      "advanced searching",
+      "reference management",
+      "digital skills"
+    ],
+    "link": "https://education.library.manchester.ac.uk/videos/registering-for-EndNote-online-using-wos/"
+  },
+  {
+    "featured": false,
+    "title": "Registering with EndNote Online [video]",
+    "description": "How to register with EndNote online via Web of Science.",
+    "format": "Video",
+    "tags": [
+      "reference management",
+      "digital skills"
+    ],
+    "link": "https://education.library.manchester.ac.uk/videos/registering-with-EndNote-online/"
+  },
+   {
+    "featured": false,
+    "title": "Syncing your EndNote Desktop and Online libraries [video]",
+    "description": "How to sync your EndNote desktop and online libraries.",
+    "format": "Video",
+    "tags": [
+      "reference management",
+      "digital skills"
+    ],
+    "link": "https://education.library.manchester.ac.uk/videos/syncing-your-EndNote-desktop-and-online-libraries/"
+  },
+  {
+    "featured": false,
+    "title": "Changing your referencing style in Microsoft Word using EndNote [video]",
+    "description": "This video shows how to change your referencing style in Microsoft Word using EndNote",
+    "format": "Video",
+    "tags": [
+      "reference management",
+      "digital skills"
+    ],
+    "link": "https://education.library.manchester.ac.uk/videos/changing-your-referencing-style-in-word-and-EndNote-20/"
+  },
+  {
+    "featured": false,
+    "title": "Creating a list of references from a text file for EndNote [video]",
+    "description": "Importing a list of references and uploading a file successfully onto the list manager in your EndNote.",
+    "format": "Video",
+    "tags": [
+      "reference management",
+      "digital skills"
+    ],
+    "link": "https://education.library.manchester.ac.uk/videos/creating-a-list-from-a-text-file/"
+  },
+  {
+    "featured": false,
+    "title": "Editing your citations in Microsoft Word using EndNote [video]",
+    "description": "A demonstration of how to edit citations in Microsoft Word using EndNote.",
+    "format": "Video",
+    "tags": [
+      "reference management",
+      "digital skills"
+    ],
+    "link": "https://education.library.manchester.ac.uk/videos/editing-your-citations-within-word-using-EndNote-20/"
+  },
+  {
+    "featured": false,
+    "title": "Creating groups In EndNote [video]",
+    "description": "Step by step guide to managing reference collections in EndNote by creating groups with specific tops such as authors or journals.",
+    "format": "Video",
+    "tags": [
+      "reference management",
+      "digital skills"
+    ],
+    "link": "https://education.library.manchester.ac.uk/videos/creating-groups-in-EndNote-20/"
+  },
+  {
+    "featured": false,
+    "title": "Adding a second citation using EndNote [video]",
+    "description": "A quick guide to adding a second citation in Microsoft Word by using EndNote.",
+    "format": "Video",
+    "tags": [
+      "reference management",
+      "digital skills"
+    ],
+    "link": "https://education.library.manchester.ac.uk/videos/adding-second-citation/"
+  },
+  {
+    "featured": false,
+    "title": "Editing a reference in EndNote [video]",
+    "description": "A tutorial demonstrating how to edit a reference in EndNote.",
+    "format": "Video",
+    "tags": [
+      "reference management",
+      "digital skills"
+    ],
+    "link": "https://education.library.manchester.ac.uk/videos/editing-a-reference/"
+  },
+  {
+    "featured": false,
+    "title": "Creating a standalone bibliography in Microsoft Word using EndNote [video]",
+    "description": "Learn how to generate a bibliography at the end of your Word document using EndNote.",
+    "format": "Video",
+    "tags": [
+      "reference management",
+      "digital skills"
+    ],
+    "link": "https://education.library.manchester.ac.uk/videos/creating-a-stand-alone-bibliography-in-word/"
+  },
+  {
+    "featured": false,
+    "title": "Creating a new library in EndNote Desktop [video]",
+    "description": "Creating a new library in EndNote on a Windows machine.",
+    "format": "Video",
+    "tags": [
+      "reference management",
+      "digital skills"
+    ],
+    "link": "https://education.library.manchester.ac.uk/videos/creating-a-new-library-in-EndNote-20/"
+  },
+  {
+    "featured": false,
+    "title": "Removing duplicate references in EndNote Online [video]",
+    "description": "A guide to removing duplicate references in EndNote Online.",
+    "format": "Video",
+    "tags": [
+      "reference management",
+      "digital skills"
+    ],
+    "link": "https://education.library.manchester.ac.uk/videos/removing-duplicate-references-in-EndNote-online/"
+  },
+  {
+    "featured": false,
+    "title": "Attaching PDFs to your EndNote records [video]",
+    "description": "This video show how to attach PDFs to your EndNote records.",
+    "format": "Video",
+    "tags": [
+      "reference management",
+      "digital skills"
+    ],
+    "link": "https://education.library.manchester.ac.uk/videos/attaching-pdfs-to-your-EndNote-records/"
+  },
+  {
+    "featured": false,
+    "title": "Exporting references from Web of Science into EndNote [video]",
+    "description": "This video demonstrates how to export references from Web of Science into EndNote.",
+    "format": "Video",
+    "tags": [
+      "advanced searching",
+      "systematic review"
+    ],
+    "link": "https://education.library.manchester.ac.uk/videos/searching-systematically/WoS_exporting_refrences/"
+  },
+  {
+    "featured": false,
+    "title": "Adding a reference manually in EndNote Online [video]",
+    "description": "A demonstration of how to create references manually in EndNote Online.",
+    "format": "Video",
+    "tags": [
+      "reference management",
+      "digital skills"
+    ],
+    "link": "https://education.library.manchester.ac.uk/videos/adding-a-reference-manually-in-EndNote-online/"
+  },
+  {
+    "featured": false,
+    "title": "Creating groups in EndNote Online [video]",
+    "description": "Guide to creating and managing new groups and how to add references to that group.",
+    "format": "Video",
+    "tags": [
+      "reference management",
+      "digital skills"
+    ],
+    "link": "https://education.library.manchester.ac.uk/videos/creating-groups-in-EndNote-online/"
+  },
+  {
+    "featured": false,
+    "title": "Exporting references from Library Search into EndNote [video]",
+    "description": "Learn how to export a list of references from Library Search to EndNote.",
+    "format": "Video",
+    "tags": [
+      "reference management",
+      "digital skills"
+    ],
+    "link": "https://education.library.manchester.ac.uk/videos/exporting-references-from-library-search/"
+  },
+  {
+    "featured": false,
+    "title": "Exporting references from Library Search into EndNote Online [video]",
+    "description": "This video shows how to export a list of references from Library Search into EndNote Online.",
+    "format": "Video",
+    "tags": [
+      "reference management",
+      "digital skills"
+    ],
+    "link": "https://education.library.manchester.ac.uk/videos/exporting-references-from-library-search-into-EndNote-online/"
+  },
+  {
+    "featured": false,
+    "title": "Export references directly from ProQuest into EndNote [video]",
+    "description": "Learn how to export a list of references from ProQuest into EndNote.",
+    "format": "Video",
+    "tags": [
+      "reference management",
+      "digital skills"
+    ],
+    "link": "https://education.library.manchester.ac.uk/videos/direct-export-from-proquest-to-EndNote-20/"
+  },
+  {
+    "featured": false,
+    "title": "Importing references from Google Scholar into EndNote Online [video]",
+    "description": "How to import a reference from Google Scholar into EndNote online.",
+    "format": "Video",
+    "tags": [
+      "reference management",
+      "digital skills"
+    ],
+    "link": "https://education.library.manchester.ac.uk/videos/importing-references-from-google-scholar-into-EndNote-online/Index.html"
+  },
+   {
+    "featured": false,
+    "title": "Inserting citations in Microsoft Word using EndNote Online [video]",
+    "description": "How to insert citations and build a reference list into Microsoft Word from EndNote online.",
+    "format": "Video",
+    "tags": [
+      "reference management",
+      "digital skills"
+    ],
+    "link": "https://education.library.manchester.ac.uk/videos/inserting-citations-EndNote-online/"
+  },
+  {
+    "featured": false,
+    "title": "Inserting footnotes into Word using EndNote [video]",
+    "description": "How to insert footnotes into Microsoft Word using EndNote.",
+    "format": "Video",
+    "tags": [
+      "reference management",
+      "digital skills"
+    ],
+    "link": "https://education.library.manchester.ac.uk/videos/inserting-footnotes-into-word-using-EndNote-20/"
+  },
+  {
+    "featured": false,
+    "title": "Inserting citations using Cite-While-You-Write in EndNote [video]",
+    "description": "How to insert citations and build a reference list into Microsoft Word from EndNote online.",
+    "format": "Video",
+    "tags": [
+      "reference management",
+      "digital skills"
+    ],
+    "link": "https://education.library.manchester.ac.uk/videos/inserting-citations-using-cite-while-you-write-in-EndNote-20/"
+  },
+  {
+    "featured": false,
+    "title": "Importing references from a database into EndNote Online [video]",
+    "description": "How to import a reference from a database into EndNote online, using PubMed as an example.",
+    "format": "Video",
+    "tags": [
+      "reference management",
+      "digital skills"
+    ],
+    "link": "https://education.library.manchester.ac.uk/videos/importing-references-from-a-database-%28pubmed%29-into-EndNote-online/"
+  },
+   {
+    "featured": false,
+    "title": "Selecting another style in EndNote Online [video]",
+    "description": "How to select another style in EndNote Online",
+    "format": "Video",
+    "tags": [
+      "reference management",
+      "digital skills"
+    ],
+    "link": "https://education.library.manchester.ac.uk/videos/selecting-another-style-in-EndNote-online/"
+  },
+  {
+    "featured": false,
+    "title": "Creating smart groups in EndNote [video]",
+    "description": "How to set up a smart group in EndNote, to organise references.",
+    "format": "Video",
+    "tags": [
+      "reference management",
+      "digital skills"
+    ],
+    "link": "https://education.library.manchester.ac.uk/videos/creating-smart-groups-in-EndNote-20/"
+  },
+  {
+    "featured": false,
+    "title": "Sharing groups in EndNote Online [video]",
+    "description": "How to share groups in EndNote online.",
+    "format": "Video",
+    "tags": [
+      "reference management",
+      "digital skills"
+    ],
+    "link": "https://education.library.manchester.ac.uk/videos/sharing-groups-in-EndNote-online/"
+  },
+  {
+    "featured": false,
+    "title": "Exporting references from Web of Science into EndNote Online",
+    "description": "How to export a list of references from Web of Science into EndNote Online.",
+    "format": "Video",
+    "tags": [
+      "reference management",
+      "digital skills",
+      "advanced searching"
+    ],
+    "link": "https://education.library.manchester.ac.uk/videos/exporting-references-from-web-of-science-into-EndNote-online/"
+  },
+  {
+    "featured": false,
+    "title": "Finding and removing duplicate references in EndNote [video]",
+    "description": "A video demonstrating how to find and remove duplicate references in EndNote.",
+    "format": "Video",
+    "tags": [
+      "reference management",
+      "digital skills"
+    ],
+    "link": "https://education.library.manchester.ac.uk/videos/finding-and-removing-duplicate-references-in-EndNote-20/"
+  },
+  {
+    "featured": false,
+    "title": "Importing a reference from Google Scholar into EndNote [video]",
+    "description": "How to import a reference from Google Scholar to EndNote.",
+    "format": "Video",
+    "tags": [
+      "reference management",
+      "digital skills"
+    ],
+    "link": "https://education.library.manchester.ac.uk/videos/importing-a-reference-from-google-scholar-to-EndNote/"
+  },
+  {
+    "featured": false,
+    "title": "Export references directly from Web of Science into EndNote",
+    "description": "Learn how to export a list of references from Web of Science into EndNote.",
+    "format": "Video",
+    "tags": [
+      "reference management",
+      "digital skills"
+    ],
+    "link": "https://education.library.manchester.ac.uk/videos/direct-export-from-web-of-science-into-EndNote-20/"
+  },
+  {
+    "featured": false,
+    "title": "Accessing Fame [video]",
+    "description": "An easy guide to accessing Fame.",
+    "format": "Video",
+    "tags": [
+      "business data"
+    ],
+    "link": "https://education.library.manchester.ac.uk/videos/accessing-fame/"
+  },
+  {
+    "featured": false,
+    "title": "Modifying your search in Fame [video]",
+    "description": "How to modify your search in Fame.",
+    "format": "Video",
+    "tags": [
+      "business data"
+    ],
+    "link": "https://education.library.manchester.ac.uk/videos/modifying-your-search-in-fame/"
+  },
+  {
+    "featured": false,
+    "title": "Searching Fame for companies based on multiple criteria [video]",
+    "description": "Learn how to combine financial, geographic, and structural filters to create detailed company lists.",
+    "format": "Video",
+    "tags": [
+      "business data"
+    ],
+    "link": "https://education.library.manchester.ac.uk/videos/searching-fame-for-companies-based-on-multiple-criteria/"
+  },
+  {
+    "featured": false,
+    "title": "Searching for company subsidiaries in Fame [video]",
+    "description": "How to identify parent companies and find detailed subsidiary structures in Fame.",
+    "format": "Video",
+    "tags": [
+      "business data"
+    ],
+    "link": "https://education.library.manchester.ac.uk/videos/searching-for-company-subsidiaries-in-fame/"
+  },
+   {
+    "featured": false,
+    "title": "Exporting your results from Fame for further analysis [video]",
+    "description": "This video demonstrates how to export data from Fame for further analysis.",
+    "format": "Video",
+    "tags": [
+      "business data"
+    ],
+    "link": "https://education.library.manchester.ac.uk/videos/exporting-your-results-from-fame-for-further-analysis/"
+  },
+  {
+    "featured": false,
+    "title": "Using Google Scholar off campus [video]",
+    "description": "A demonstration of how to use Google Scholar off campus.",
+    "format": "Video",
+    "tags": [
+      "advanced searching"
+    ],
+    "link": "https://education.library.manchester.ac.uk/videos/using-google-scholar-off-campus/"
+  },
+  {
+    "featured": false,
+    "title": "Using jumpstart links in Ovid [video]",
+    "description": "A demonstration of using jumpstart links in Ovid.",
+    "format": "Video",
+    "tags": [
+      "advanced searching"
+    ],
+    "link": "https://education.library.manchester.ac.uk/videos/using-jumpstart-links-in-ovid/"
+  },
+  {
+    "featured": false,
+    "title": "How and why should I use the ProQuest platform? [video]",
+    "description": "Learn the advantages of using the ProQuest platform through this video.",
+    "format": "Video",
+    "tags": [
+      "advanced searching",
+      "systematic review"
+    ],
+    "link": "https://education.library.manchester.ac.uk/videos/searching-systematically/ProQuest_how_why/"
+  },
+  {
+    "featured": false,
+    "title": "Using truncation in ProQuest [video]",
+    "description": "An overview of how to use truncation in ProQuest searching.",
+    "format": "Video",
+    "tags": [
+      "advanced searching",
+      "systematic review"
+    ],
+    "link": "https://education.library.manchester.ac.uk/videos/searching-systematically/ProQuest_truncation/"
+  },
+  {
+    "featured": false,
+    "title": "Exporting references in Ovid [video]",
+    "description": "This video demonstrates how to export references from the Ovid platform.",
+    "format": "Video",
+    "tags": [
+      "advanced searching",
+      "systematic review"
+    ],
+    "link": "https://education.library.manchester.ac.uk/videos/searching-systematically/Ovid_exporting_references/"
+  },
+  {
+    "featured": false,
+    "title": "Saving your search in Ovid [video]",
+    "description": "How to store Ovid searches so you can revisit strategies or build them over time",
+    "format": "Video",
+    "tags": [
+      "advanced searching"
+    ],
+    "link": "https://education.library.manchester.ac.uk/videos/saving-search-ovid/"
+  },
+  {
+    "featured": false,
+    "title": "Using truncation in Ovid [video]",
+    "description": "How to use truncation symbols to expand your searches within Ovid.",
+    "format": "Video",
+    "tags": [
+      "advanced searching",
+      "systematic review"
+    ],
+    "link": "https://education.library.manchester.ac.uk/videos/searching-systematically/Ovid_truncation/"
+  },
+  {
+    "featured": false,
+    "title": "Why should I use the Ovid platform? [video]",
+    "description": "Explains the advantages of using Ovid for accessing high-quality medical and scientific literature.",
+    "format": "Video",
+    "tags": [
+      "advanced searching",
+      "systematic review"
+    ],
+    "link": "https://education.library.manchester.ac.uk/videos/searching-systematically/Ovid_why/"
+  },
+  {
+    "featured": false,
+    "title": "Why and how do I use the Ovid platform? [video]",
+    "description": "Explains why you should use Ovid and shows you how to use the platform.",
+    "format": "Video",
+    "tags": [
+      "advanced searching",
+      "systematic review"
+    ],
+    "link": "https://education.library.manchester.ac.uk/videos/searching-systematically/ovid-platform-how-and-why/"
+  },
+    {
+    "featured": false,
+    "title": "How do I use the Ovid platform? [video]",
+    "description": "Learn how to use the Ovid platform.",
+    "format": "Video",
+    "tags": [
+      "advanced searching",
+      "systematic review"
+    ],
+    "link": "https://education.library.manchester.ac.uk/videos/searching-systematically/Ovid_how/"
+  }, 
+    {
+    "featured": false,
+    "title": "Creating an Ovid account [video]",
+    "description": "How to register and access an Ovid account, also using it for searching.",
+    "format": "Video",
+    "tags": [
+      "advanced searching",
+      "systematic review",
+      "digital skills"
+    ],
+    "link": "https://education.library.manchester.ac.uk/videos/creating-ovid-account/"
+  },
+  {
+    "featured": false,
+    "title": "Saving Searches in Ovid [video]",
+    "description": "Thsi video shows how to store and organise your Ovid search histories for long projects.",
+    "format": "Video",
+    "tags": [
+      "advanced searching",
+      "systematic review"
+    ],
+    "link": "https://education.library.manchester.ac.uk/videos/searching-systematically/Ovid_saving%20searches/"
+  },
+  {
+    "featured": false,
+    "title": "Using jumpstart links in Ovid [video]",
+    "description": "Explains the purpose of Ovid jumpstart links and how they simplify database access.",
+    "format": "Video",
+    "tags": [
+      "advanced searching",
+      "systematic review"
+    ],
+    "link": "https://education.library.manchester.ac.uk/videos/Ovid-how Ovid-jumpstart-links/"
+  },
+   {
+    "featured": false,
+    "title": "Using MeSH terms in Ovid [video]",
+    "description": "How to use medical subject headings MeSH to create precise and top focused searches.",
+    "format": "Video",
+    "tags": [
+      "advanced searching",
+      "systematic review"
+    ],
+    "link": "https://education.library.manchester.ac.uk/videos/Ovid-mesh-terms/"
+  },
+  {
+    "featured": false,
+    "title": "Finding saved searches in Ovid [video]",
+    "description": "A video demonstrating how to find saved searches in Ovid.",
+    "format": "Video",
+    "tags": [
+      "digital skills",
+      "advanced searching"
+    ],
+    "link": "https://education.library.manchester.ac.uk/videos/finding-saved-searches-in-ovid/"
+  },
+  {
+    "featured": false,
+    "title": "Using the 'Ask A Librarian' function in Ovid [video]",
+    "description": "How to use the 'Ask a Librarian' function in Ovid.",
+    "format": "Video",
+    "tags": [
+      "advanced searching"
+    ],
+    "link": "https://education.library.manchester.ac.uk/videos/using-the-ask-a-librarian-function/"
+  },
+   {
+    "featured": false,
+    "title": "Searching the in-process database in Ovid [video]",
+    "description": "This video demonstrates how to access pre-publication and in-progress records using Ovid’s in-process database.",
+    "format": "Video",
+    "tags": [
+      "advanced searching"
+    ],
+    "link": "https://education.library.manchester.ac.uk/videos/searching-the-in-process-database-in-ovid/"
+  },
+  {
+    "featured": false,
+    "title": "Exporting results in ProQuest [video]",
+    "description": "This video demonstrates how to export results from ProQuest.",
+    "format": "Video",
+    "tags": [
+      "advanced searching",
+      "systematic review"
+    ],
+    "link": "https://education.library.manchester.ac.uk/videos/searching-systematically/ProQuest_exporting_results/"
+  },
+  {
+    "featured": false,
+    "title": "Saving searches in ProQuest [video]",
+    "description": "How to save your searches on ProQuest.",
+    "format": "Video",
+    "tags": [
+      "advanced searching",
+      "systematic review"
+    ],
+    "link": "https://education.library.manchester.ac.uk/videos/searching-systematically/ProQuest_saving_search/"
+  },
+  {
+    "featured": false,
+    "title": "Why should I use Web of Science? [video]",
+    "description": "The benefits of using Web of Science for impactful academic research.",
+    "format": "Video",
+    "tags": [
+      "advanced searching",
+      "systematic review"
+    ],
+    "link": "https://education.library.manchester.ac.uk/videos/searching-systematically/WoS_why/"
+  },
+  {
+    "featured": false,
+    "title": "Searching in Web of Science [video]",
+    "description": "A walkthrough of conducting detailed searches in Web of Science.",
     "format": "Video",
     "tags": [
       "advanced searching",
@@ -1114,13 +1103,13 @@
   },
   {
     "featured": false,
-    "title": "Why should I use Ebsco",
-    "description": "Why EBSCO is a good platform for academic research and literature discovery.",
+    "title": "Using truncation in Web of Science [video]",
+    "description": "Learn how to apply truncation in Web of Science to capture multiple word forms.",
     "format": "Video",
     "tags": [
       "advanced searching",
       "systematic review"
     ],
-    "link": "https://education.library.manchester.ac.uk/videos/searching-systematically/EBSCO_why/"
+    "link": "https://education.library.manchester.ac.uk/videos/searching-systematically/WoS_truncation/"
   }
 ]
