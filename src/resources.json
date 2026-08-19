@@ -166,18 +166,6 @@
     "link": "https://www.education.library.manchester.ac.uk/sls/packages/referencing/"
   },
   {
-    "featured": true,
-    "title": "Microsoft 365 Fundamentals Certification",
-    "description": "The University of Manchester provides students with the opportunity to study for and attain a Microsoft 365 Fundamentals Certification free of charge. This guide contains all of the information you'll need to prepare and take an exam.",
-    "duration": "",
-    "format": "Interactive guide",
-    "link": "https://www.education.library.manchester.ac.uk/digital-skills/exams/microsoft-fundamentals/",
-    "tags": [
-      "my future",
-      "digital skills"
-    ]
-  },
-  {
     "featured": false,
     "title": "Preparing to use Eventus and converting the results",
     "description": "Learn to prepare the data you need to run an event study query in Eventus through this guide. We also consider how you can convert the data you retrieve into a more usable format using SPSS or SAS.",
@@ -404,7 +392,7 @@
   },
   {
     "featured": false,
-    "title": "How do I  use EBSCO? [video]",
+    "title": "How do I use EBSCO? [video]",
     "description": "Introduces the EBSCO platform and shows how to navigate and search effectively. Please note, the EBSCO interface has been updated since this video was created.",
     "format": "Video",
     "tags": [
